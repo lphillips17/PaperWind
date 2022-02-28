@@ -936,3 +936,41 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.28-07.57.16:101][ 32]Cmd: MAP CHECKDEP NOCLEARLOG
 [2022.02.28-07.57.16:101][ 32]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.068ms to complete.
 [2022.02.28-07.57.16:101][ 32]LogFileHelpers: Loading map 'Michael_Test_Level' took 0.148
+[2022.02.28-07.58.00:139][120]LogSlate: Took 0.000324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.28-08.03.01:433][406]BlueprintLog: New page: Compile Paper_Ball
+[2022.02.28-08.03.01:496][406]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.02.28-08.03.01:518][406]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.28-08.07.15:862][378]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.02.28-08.07.15:878][378]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Michael_Test_Level_Auto102998189419C7AA5963FC6B6B69E2E7C.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Maps/Michael_Test_Level_Auto1.umap'
+[2022.02.28-08.07.15:881][378]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Michael_Test_Level' took 0.049
+[2022.02.28-08.07.15:881][378]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2022.02.28-08.07.15:881][378]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Michaels_Work/Blueprints/Paper_Ball] ([2] browsable assets)...
+[2022.02.28-08.07.15:896][378]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball.Paper_Ball]
+[2022.02.28-08.07.15:896][378]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Blueprints/Paper_Ball]
+[2022.02.28-08.07.15:911][378]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Paper_Ball_Auto19C33102E4299E87CD4ED3EAA94CC6730.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Blueprints/Paper_Ball_Auto1.uasset'
+[2022.02.28-08.07.15:912][378]LogFileHelpers: Auto-saving content packages took 0.031
+[2022.02.28-08.12.41:526][573]BlueprintLog: New page: Compile Paper_Ball
+[2022.02.28-08.12.41:568][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.02.28-08.18.49:135][853]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.02.28-08.18.49:150][853]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Michael_Test_Level_Auto2366F0564479145FCC84B36AA1B244242.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Maps/Michael_Test_Level_Auto2.umap'
+[2022.02.28-08.18.49:152][853]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Michael_Test_Level' took 0.044
+[2022.02.28-08.18.49:152][853]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2022.02.28-08.18.49:153][853]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Michaels_Work/Blueprints/Paper_Ball] ([2] browsable assets)...
+[2022.02.28-08.18.49:172][853]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball.Paper_Ball]
+[2022.02.28-08.18.49:172][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Blueprints/Paper_Ball]
+[2022.02.28-08.18.49:187][853]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Paper_Ball_Auto26195E5D64F17E1D23E108F92D43BDD2A.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Blueprints/Paper_Ball_Auto2.uasset'
+[2022.02.28-08.18.49:197][853]LogFileHelpers: Auto-saving content packages took 0.045
+[2022.02.28-08.25.24:799][797]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.02.28-08.25.41:360][530]BlueprintLog: New page: Compile Paper_Ball
+[2022.02.28-08.25.41:407][530]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.02.28-08.25.47:991][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.02.28-08.25.49:160][226]LogSlate: Window 'Save Content' being destroyed
+[2022.02.28-08.25.49:202][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Michael_Test_Level" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Maps/Michael_Test_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.28-08.25.49:226][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.02.28-08.25.49:239][226]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Michael_Test_Level766910684CFCB1BB90F5DE86E551A558.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Maps/Michael_Test_Level.umap'
+[2022.02.28-08.25.49:250][226]LogFileHelpers: Saving map 'Michael_Test_Level' took 0.048
+[2022.02.28-08.25.49:257][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Michaels_Work/Blueprints/Paper_Ball" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Paper_Ball.uasset" SILENT=true
+[2022.02.28-08.25.49:276][226]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Paper_BallBE84CB2349B495B795F685B6F90C1F83.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Paper_Ball.uasset'
+[2022.02.28-08.25.49:294][226]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.28-08.25.49:294][226]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball.Paper_Ball
+[2022.02.28-08.25.49:295][226]LogContentValidation: Display: Validating World /Game/Maps/Michael_Test_Level.Michael_Test_Level
