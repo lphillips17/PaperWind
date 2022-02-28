@@ -5392,3 +5392,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.28-14.02.15:394][716]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lachlans_Work/Blueprints/Blower_Fan]
 [2022.02.28-14.02.15:420][716]LogSavePackage: Moving '../../../../../Unreal Projects/PaperWind/PaperWind/Saved/Blower_Fan_Auto5C55252E247F46800C444AB8939E25A6B.tmp' to '../../../../../Unreal Projects/PaperWind/PaperWind/Saved/Autosaves/Game/Lachlans_Work/Blueprints/Blower_Fan_Auto5.uasset'
 [2022.02.28-14.02.15:421][716]LogFileHelpers: Auto-saving content packages took 0.057
+[2022.02.28-14.04.09:695][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.02.28-14.04.09:944][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.02.28-14.04.09:957][282]LogSavePackage: Moving '../../../../../Unreal Projects/PaperWind/PaperWind/Saved/LP_TestC1359E6C4F84681218C1319603EB7B14.tmp' to '../../../../../Unreal Projects/PaperWind/PaperWind/Content/Lachlans_Work/Maps/LP_Test.umap'
+[2022.02.28-14.04.10:048][282]LogFileHelpers: Saving map 'LP_Test' took 0.121
+[2022.02.28-14.04.10:053][282]LogSavePackage: Moving '../../../../../Unreal Projects/PaperWind/PaperWind/Saved/SM_Desk_02534495D249ACB904CF707FB414AE04C2.tmp' to '../../../../../Unreal Projects/PaperWind/PaperWind/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Desk_02.uasset'
+[2022.02.28-14.04.10:082][282]LogSavePackage: Moving '../../../../../Unreal Projects/PaperWind/PaperWind/Saved/Paper_Movement_Test80C7162F4969457B88A85E83018826B3.tmp' to '../../../../../Unreal Projects/PaperWind/PaperWind/Content/Lachlans_Work/Blueprints/Paper_Movement_Test.uasset'
+[2022.02.28-14.04.10:083][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lachlans_Work/Blueprints/LP_Gamemode" FILE="../../../../../Unreal Projects/PaperWind/PaperWind/Content/Lachlans_Work/Blueprints/LP_Gamemode.uasset" SILENT=true
+[2022.02.28-14.04.10:086][282]LogSavePackage: Moving '../../../../../Unreal Projects/PaperWind/PaperWind/Saved/LP_GamemodeC90A28AB4551473A1FAD0FA181BA256B.tmp' to '../../../../../Unreal Projects/PaperWind/PaperWind/Content/Lachlans_Work/Blueprints/LP_Gamemode.uasset'
+[2022.02.28-14.04.10:227][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lachlans_Work/Blueprints/Blower_Fan" FILE="../../../../../Unreal Projects/PaperWind/PaperWind/Content/Lachlans_Work/Blueprints/Blower_Fan.uasset" SILENT=true
+[2022.02.28-14.04.10:253][282]LogSavePackage: Moving '../../../../../Unreal Projects/PaperWind/PaperWind/Saved/Blower_FanB829D77142F59B5B5E9745ACE232C8C0.tmp' to '../../../../../Unreal Projects/PaperWind/PaperWind/Content/Lachlans_Work/Blueprints/Blower_Fan.uasset'
+[2022.02.28-14.04.10:266][282]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.28-14.04.10:266][282]LogContentValidation: Display: Validating StaticMesh /Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Desk_02.SM_Desk_02
+[2022.02.28-14.04.10:266][282]LogContentValidation: Display: Validating Blueprint /Game/Lachlans_Work/Blueprints/Paper_Movement_Test.Paper_Movement_Test
+[2022.02.28-14.04.10:266][282]LogContentValidation: Display: Validating Blueprint /Game/Lachlans_Work/Blueprints/LP_Gamemode.LP_Gamemode
+[2022.02.28-14.04.10:266][282]LogContentValidation: Display: Validating World /Game/Lachlans_Work/Maps/LP_Test.LP_Test
+[2022.02.28-14.04.10:266][282]LogContentValidation: Display: Validating Blueprint /Game/Lachlans_Work/Blueprints/Blower_Fan.Blower_Fan
