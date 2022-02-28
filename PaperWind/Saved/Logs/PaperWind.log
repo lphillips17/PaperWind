@@ -8304,3 +8304,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.28-12.14.29:024][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
 [2022.02.28-12.14.29:062][232]LogPlayLevel: Display: Destroying online subsystem :Context_126
 [2022.02.28-12.14.29:994][340]LogEditorViewport: Clicking on Actor (LMB): Completion_point_BP_C (Completion_point_BP)
+[2022.02.28-12.15.02:293][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.02.28-12.15.02:310][594]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Michael_Test_Level_Auto89B24BDFA48CDA88600BC01B1B79D2E4D.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Maps/Michael_Test_Level_Auto8.umap'
+[2022.02.28-12.15.02:312][594]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Michael_Test_Level' took 0.047
+[2022.02.28-12.15.02:312][594]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2022.02.28-12.15.02:312][594]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Michaels_Work/Blueprints/Floor_is_lava_BP] ([2] browsable assets)...
+[2022.02.28-12.15.02:322][594]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Michaels_Work/Blueprints/Floor_is_lava_BP.Floor_is_lava_BP]
+[2022.02.28-12.15.02:322][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Blueprints/Floor_is_lava_BP]
+[2022.02.28-12.15.02:332][594]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Floor_is_lava_BP_Auto8EA63CAEC4B0B2C47D50BE081214DAF5F.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Blueprints/Floor_is_lava_BP_Auto8.uasset'
+[2022.02.28-12.15.02:333][594]LogFileHelpers: Auto-saving content packages took 0.021
+[2022.02.28-12.15.16:230][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.02.28-12.15.17:440][ 21]LogSlate: Window 'Save Content' being destroyed
+[2022.02.28-12.15.17:468][ 21]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Floor_is_lava_BPE8F0D81A4090314F5742A7A1827FAC23.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Floor_is_lava_BP.uasset'
+[2022.02.28-12.15.17:470][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Michael_Test_Level" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Maps/Michael_Test_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.28-12.15.17:495][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.02.28-12.15.17:507][ 21]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Michael_Test_Level36165E654778BE9296F5FC92FB04AE98.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Maps/Michael_Test_Level.umap'
+[2022.02.28-12.15.17:513][ 21]LogFileHelpers: Saving map 'Michael_Test_Level' took 0.043
+[2022.02.28-12.15.17:524][ 21]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.28-12.15.17:524][ 21]LogContentValidation: Display: Validating World /Game/Maps/Michael_Test_Level.Michael_Test_Level
+[2022.02.28-12.15.17:524][ 21]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Floor_is_lava_BP.Floor_is_lava_BP
