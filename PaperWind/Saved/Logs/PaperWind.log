@@ -2550,3 +2550,58 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.28-07.10.50:158][ 49]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_GM22B35C504548E1D92124FBB91B743433.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Main_GM.uasset'
 [2022.02.28-07.10.50:169][ 49]AssetCheck: New page: Asset Save: Main_GM
 [2022.02.28-07.10.50:169][ 49]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Main_GM.Main_GM
+[2022.02.28-07.16.26:588][346]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.28-07.16.26:604][346]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.28-07.16.26:621][346]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.28-07.16.36:146][473]LogContentBrowser: Attempting asset rename: NewBlueprint -> Player_Controller
+[2022.02.28-07.16.36:150][473]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.28-07.16.38:470][734]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Michaels_Work/Blueprints/Player_Controller.Player_Controller
+[2022.02.28-07.27.10:724][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.02.28-07.27.10:726][385]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Michael_Test_Level' took 0.039
+[2022.02.28-07.27.10:727][385]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Michaels_Work/Blueprints/Paper_Ball] ([2] browsable assets)...
+[2022.02.28-07.27.10:742][385]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball.Paper_Ball]
+[2022.02.28-07.27.10:742][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Blueprints/Paper_Ball]
+[2022.02.28-07.27.10:755][385]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Paper_Ball_Auto2B4C700F54B44C0DDACF5489706C6E0E2.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Blueprints/Paper_Ball_Auto2.uasset'
+[2022.02.28-07.27.10:756][385]LogFileHelpers: Auto-saving content packages took 0.030
+[2022.02.28-07.37.10:895][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.02.28-07.37.10:899][ 40]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Michael_Test_Level' took 0.042
+[2022.02.28-07.37.10:900][ 40]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Michaels_Work/Blueprints/Main_GM] ([2] browsable assets)...
+[2022.02.28-07.37.10:900][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Blueprints/Main_GM]
+[2022.02.28-07.37.10:904][ 40]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_GM_Auto3964F89F94610E6B6B6516A927E7674EE.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Blueprints/Main_GM_Auto3.uasset'
+[2022.02.28-07.37.10:905][ 40]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Michaels_Work/Blueprints/Paper_Ball] ([2] browsable assets)...
+[2022.02.28-07.37.10:914][ 40]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball.Paper_Ball]
+[2022.02.28-07.37.10:914][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Blueprints/Paper_Ball]
+[2022.02.28-07.37.10:941][ 40]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Paper_Ball_Auto35A5B9BB0454A0086603F348BF1C1D945.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Blueprints/Paper_Ball_Auto3.uasset'
+[2022.02.28-07.37.10:941][ 40]LogFileHelpers: Auto-saving content packages took 0.042
+[2022.02.28-07.53.24:629][636]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.02.28-07.53.24:643][636]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Michael_Test_Level_Auto424427BCE47EA3BA7E95C3085B631A584.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Maps/Michael_Test_Level_Auto4.umap'
+[2022.02.28-07.53.24:645][636]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Michael_Test_Level' took 0.056
+[2022.02.28-07.53.24:645][636]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2022.02.28-07.53.24:645][636]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Michaels_Work/Blueprints/Main_GM] ([2] browsable assets)...
+[2022.02.28-07.53.24:645][636]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Blueprints/Main_GM]
+[2022.02.28-07.53.24:650][636]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_GM_Auto4087DEFE745B3A2689B108DB123012A77.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Blueprints/Main_GM_Auto4.uasset'
+[2022.02.28-07.53.24:651][636]LogFileHelpers: Auto-saving content packages took 0.005
+[2022.02.28-07.55.18:238][614]BlueprintLog: New page: Compile Main_GM
+[2022.02.28-07.55.18:285][614]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.02.28-07.55.19:390][745]BlueprintLog: New page: Compile Michael_Test_Level
+[2022.02.28-07.55.19:439][745]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.02.28-07.55.20:841][909]BlueprintLog: New page: Compile Paper_Ball
+[2022.02.28-07.55.20:889][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.02.28-07.55.23:285][188]BlueprintLog: New page: Compile Player_Controller
+[2022.02.28-07.55.23:332][188]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.02.28-07.55.26:476][545]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.02.28-07.55.27:890][545]LogSlate: Window 'Save Content' being destroyed
+[2022.02.28-07.55.27:932][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Michaels_Work/Blueprints/Main_GM" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Main_GM.uasset" SILENT=true
+[2022.02.28-07.55.27:935][545]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_GM16AFCC93483BDA5B9D530A8C07E3BB75.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Main_GM.uasset'
+[2022.02.28-07.55.27:936][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Michael_Test_Level" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Maps/Michael_Test_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.28-07.55.27:966][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.02.28-07.55.27:979][545]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Michael_Test_LevelD2AD8D0646A43D9DAA9C8B9D8DC96EDC.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Maps/Michael_Test_Level.umap'
+[2022.02.28-07.55.27:984][545]LogFileHelpers: Saving map 'Michael_Test_Level' took 0.048
+[2022.02.28-07.55.27:991][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Michaels_Work/Blueprints/Paper_Ball" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Paper_Ball.uasset" SILENT=true
+[2022.02.28-07.55.28:001][545]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Paper_BallAF0C1BDD475B895A86E04E926F953317.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Paper_Ball.uasset'
+[2022.02.28-07.55.28:006][545]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Player_Controller76BBADB44EAFA5C7EEB598B737723E03.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Player_Controller.uasset'
+[2022.02.28-07.55.28:024][545]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.28-07.55.28:024][545]LogContentValidation: Display: Validating World /Game/Maps/Michael_Test_Level.Michael_Test_Level
+[2022.02.28-07.55.28:024][545]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball.Paper_Ball
+[2022.02.28-07.55.28:024][545]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Main_GM.Main_GM
+[2022.02.28-07.55.28:024][545]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Player_Controller.Player_Controller
