@@ -958,3 +958,62 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.02-04.44.33:027][886]Cmd: MAP CHECKDEP NOCLEARLOG
 [2022.03.02-04.44.33:027][886]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
 [2022.03.02-04.44.33:027][886]LogFileHelpers: Loading map 'Michael_Test_Level' took 0.060
+[2022.03.02-04.45.41:391][233]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.02-04.45.41:398][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.02-04.45.41:398][233]PIE: New page: PIE session: Michael_Test_Level (3 Mar 2022, 2:45:41 am)
+[2022.03.02-04.45.41:400][233]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.02-04.45.41:402][233]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.02-04.45.41:402][233]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.45.41:406][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003731s)
+[2022.03.02-04.45.41:407][233]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.45.41:407][233]LogPlayLevel: PIE: World Init took: (0.001851s)
+[2022.03.02-04.45.41:408][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.005838s)
+[2022.03.02-04.45.41:414][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.03.02-04.45.41:415][233]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.02-04.45.41:415][233]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.02-04.45.41:415][233]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.02-04.45.41:415][233]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.02-04.45.41:415][233]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.02-04.45.41:415][233]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.02-04.45.41:415][233]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.02-04.45.41:415][233]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.02-04.45.41:415][233]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.02-04.45.41:416][233]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.02-04.45.41:416][233]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.02-04.45.41:416][233]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.02-04.45.41:416][233]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.02-04.45.41:424][233]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-04.45.41:424][233]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-04.45.41:438][233]LogAudioMixer: Display: Using Audio Device U28E850 (NVIDIA High Definition Audio)
+[2022.03.02-04.45.41:438][233]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.02-04.45.41:438][233]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.02-04.45.41:438][233]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.02-04.45.41:439][233]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.02-04.45.41:439][233]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.02-04.45.41:439][233]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.02-04.45.41:440][233]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.02-04.45.41:440][233]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.02-04.45.41:440][233]LogInit: FAudioDevice initialized.
+[2022.03.02-04.45.41:440][233]LogAudio: Display: Audio Device (ID: 2) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.45.41:448][233]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2022.03.02-04.45.41:448][233]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2022.03.02-04.45.41:448][233]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2022.03.02-04.45.41:448][233]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.45.41:450][233]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.45.41
+[2022.03.02-04.45.41:450][233]LogWorld: Bringing up level for play took: 0.000957
+[2022.03.02-04.45.41:451][233]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2022.03.02-04.45.41:454][233]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.03.02-04.45.41:454][233]PIE: Server logged in
+[2022.03.02-04.45.41:456][233]PIE: Play in editor total start time 0.06 seconds.
+[2022.03.02-04.45.46:754][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-04.45.46:754][860]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.45.46:754][860]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.45.46:754][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.45.46:760][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.02-04.45.46:762][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.45.46:766][860]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.45.46:767][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-04.45.46:768][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-04.45.46:771][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-04.45.46:772][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.03.02-04.45.46:840][862]LogPlayLevel: Display: Destroying online subsystem :Context_1
