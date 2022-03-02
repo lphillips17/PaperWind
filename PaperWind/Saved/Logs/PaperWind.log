@@ -1294,3 +1294,129 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.02-23.04.03:689][593]LogEditorTransaction: Undo Add Node
 [2022.03.02-23.05.20:757][127]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Michaels_Work/Blueprints/Main_GM.Main_GM
 [2022.03.02-23.06.23:133][133]LogSlate: Window 'Delete Variable' being destroyed
+[2022.03.02-23.06.48:105][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2022.03.02-23.06.49:497][ 89]LogSlate: Window 'Save Content' being destroyed
+[2022.03.02-23.06.49:554][ 89]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Completion_point_BPE38097FA4C408CCB431B65BCF3F17A75.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Completion_point_BP.uasset'
+[2022.03.02-23.06.49:575][ 89]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Floor_is_lava_BP6BBD7B464A76380CF905FA8777FF1451.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Floor_is_lava_BP.uasset'
+[2022.03.02-23.06.50:014][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Michael_Test_Level" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Maps/Michael_Test_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.02-23.06.50:069][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.03.02-23.06.50:085][ 89]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Michael_Test_LevelDC067F4E4CB7351E59A225B85037A117.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Maps/Michael_Test_Level.umap'
+[2022.03.02-23.06.50:096][ 89]LogFileHelpers: Saving map 'Michael_Test_Level' took 0.084
+[2022.03.02-23.06.50:096][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Michaels_Work/Widgets/You_Win_Widget" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Widgets/You_Win_Widget.uasset" SILENT=true
+[2022.03.02-23.06.50:111][ 89]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/You_Win_Widget5B81585D4E60537D91113B95188BF6C4.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Widgets/You_Win_Widget.uasset'
+[2022.03.02-23.06.50:127][ 89]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.02-23.06.50:127][ 89]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Completion_point_BP.Completion_point_BP
+[2022.03.02-23.06.50:128][ 89]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Floor_is_lava_BP.Floor_is_lava_BP
+[2022.03.02-23.06.50:128][ 89]LogContentValidation: Display: Validating World /Game/Maps/Michael_Test_Level.Michael_Test_Level
+[2022.03.02-23.06.50:128][ 89]LogContentValidation: Display: Validating WidgetBlueprint /Game/Michaels_Work/Widgets/You_Win_Widget.You_Win_Widget
+[2022.03.02-23.08.19:732][ 47]BlueprintLog: New page: Compile Completion_point_BP
+[2022.03.02-23.08.19:734][ 47]LogBlueprint: Error: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Completion_point_BP.uasset: [Compiler] The property associated with  Has Won?  could not be found in '/Game/Michaels_Work/Blueprints/Completion_point_BP.Completion_point_BP_C'
+[2022.03.02-23.08.19:796][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2022.03.02-23.09.16:191][353]BlueprintLog: New page: Compile Completion_point_BP
+[2022.03.02-23.09.16:194][353]LogBlueprint: Error: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Completion_point_BP.uasset: [Compiler] The property associated with  Has Won?  could not be found in '/Game/Michaels_Work/Blueprints/Completion_point_BP.Completion_point_BP_C'
+[2022.03.02-23.09.16:252][353]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2022.03.02-23.09.17:068][440]BlueprintLog: New page: Compile Completion_point_BP
+[2022.03.02-23.09.17:071][440]LogBlueprint: Error: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Completion_point_BP.uasset: [Compiler] The property associated with  Has Won?  could not be found in '/Game/Michaels_Work/Blueprints/Completion_point_BP.Completion_point_BP_C'
+[2022.03.02-23.09.17:144][440]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2022.03.02-23.09.17:208][443]BlueprintLog: New page: Compile Completion_point_BP
+[2022.03.02-23.09.17:212][443]LogBlueprint: Error: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Completion_point_BP.uasset: [Compiler] The property associated with  Has Won?  could not be found in '/Game/Michaels_Work/Blueprints/Completion_point_BP.Completion_point_BP_C'
+[2022.03.02-23.09.17:283][443]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2022.03.02-23.10.57:764][920]BlueprintLog: New page: Compile Completion_point_BP
+[2022.03.02-23.10.57:767][920]LogBlueprint: Error: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Completion_point_BP.uasset: [Compiler] The property associated with  Has Won?  could not be found in '/Game/Michaels_Work/Blueprints/Completion_point_BP.Completion_point_BP_C'
+[2022.03.02-23.10.57:824][920]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2022.03.02-23.12.39:603][637]BlueprintLog: New page: Compile Completion_point_BP
+[2022.03.02-23.12.39:664][637]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.03.02-23.14.02:238][982]BlueprintLog: New page: Compile Floor_is_lava_BP
+[2022.03.02-23.14.02:241][982]LogBlueprint: Error: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Floor_is_lava_BP.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To Completion_point_BP  to imply a specific type.
+[2022.03.02-23.14.02:241][982]LogBlueprint: Error: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Floor_is_lava_BP.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2022.03.02-23.14.02:297][982]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2022.03.02-23.14.35:357][905]BlueprintLog: New page: Compile Floor_is_lava_BP
+[2022.03.02-23.14.35:434][905]LogBlueprint: Warning: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Floor_is_lava_BP.uasset: [Compiler] 'Completion Point BP' does not inherit from 'Game Instance' ( Cast To Completion_point_BP  would always fail).
+[2022.03.02-23.14.35:491][905]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2022.03.02-23.15.09:136][979]BlueprintLog: New page: Compile Floor_is_lava_BP
+[2022.03.02-23.15.09:139][979]LogBlueprint: Error: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Floor_is_lava_BP.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To Completion_point_BP  to imply a specific type.
+[2022.03.02-23.15.09:139][979]LogBlueprint: Error: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Floor_is_lava_BP.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2022.03.02-23.15.09:196][979]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2022.03.02-23.15.42:689][972]BlueprintLog: New page: Compile Floor_is_lava_BP
+[2022.03.02-23.15.42:691][972]LogBlueprint: Warning: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Floor_is_lava_BP.uasset: [Compiler] 'Completion Point BP' does not inherit from 'Primitive Component' ( Cast To Completion_point_BP  would always fail).
+[2022.03.02-23.15.42:749][972]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.03.02-23.17.31:975][983]BlueprintLog: New page: Compile Floor_is_lava_BP
+[2022.03.02-23.17.31:977][983]LogBlueprint: Warning: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Floor_is_lava_BP.uasset: [Compiler] 'Completion Point BP' does not inherit from 'Player Controller' ( Cast To Completion_point_BP  would always fail).
+[2022.03.02-23.17.32:038][983]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.03.02-23.18.04:830][222]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.03.02-23.18.04:846][222]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Michael_Test_Level_Auto1C06DEDDE4812AE50EAACBBBB07F3A0F4.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Maps/Michael_Test_Level_Auto1.umap'
+[2022.03.02-23.18.04:849][222]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Michael_Test_Level' took 0.058
+[2022.03.02-23.18.04:849][222]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2022.03.02-23.18.04:850][222]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Michaels_Work/Blueprints/Completion_point_BP] ([2] browsable assets)...
+[2022.03.02-23.18.04:858][222]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Michaels_Work/Blueprints/Completion_point_BP.Completion_point_BP]
+[2022.03.02-23.18.04:858][222]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Blueprints/Completion_point_BP]
+[2022.03.02-23.18.04:873][222]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Completion_point_BP_Auto19DA8834E4C9876516D342E9C7718F464.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Blueprints/Completion_point_BP_Auto1.uasset'
+[2022.03.02-23.18.04:875][222]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Michaels_Work/Blueprints/Floor_is_lava_BP] ([2] browsable assets)...
+[2022.03.02-23.18.04:883][222]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Michaels_Work/Blueprints/Floor_is_lava_BP.Floor_is_lava_BP]
+[2022.03.02-23.18.04:883][222]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Blueprints/Floor_is_lava_BP]
+[2022.03.02-23.18.04:898][222]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Floor_is_lava_BP_Auto19535B3164B0AA468A211D1BC6B98A939.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Blueprints/Floor_is_lava_BP_Auto1.uasset'
+[2022.03.02-23.18.04:899][222]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Michaels_Work/Blueprints/Main_GM] ([2] browsable assets)...
+[2022.03.02-23.18.04:899][222]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Blueprints/Main_GM]
+[2022.03.02-23.18.04:906][222]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_GM_Auto1BA72A29E4EB234055C9E0B8580FC718B.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Blueprints/Main_GM_Auto1.uasset'
+[2022.03.02-23.18.04:907][222]LogFileHelpers: Auto-saving content packages took 0.057
+[2022.03.02-23.20.47:076][186]BlueprintLog: New page: Compile Completion_point_BP
+[2022.03.02-23.20.47:079][186]LogBlueprint: Error: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Completion_point_BP.uasset: [Compiler] The property associated with  Has Won?  could not be found in '/Game/Michaels_Work/Blueprints/Completion_point_BP.Completion_point_BP_C'
+[2022.03.02-23.20.47:138][186]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.03.02-23.22.36:515][900]BlueprintLog: New page: Compile Completion_point_BP
+[2022.03.02-23.22.36:517][900]LogBlueprint: Warning: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Completion_point_BP.uasset: [Compiler] Could not find the function 'Has Won' called from  Has Won
+[2022.03.02-23.22.36:580][900]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2022.03.02-23.27.33:148][695]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.03.02-23.27.44:129][659]LogSlate: Window 'Project Settings' being destroyed
+[2022.03.02-23.27.44:138][659]LogSlate: Window 'Project Settings' being destroyed
+[2022.03.02-23.27.53:942][783]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.02-23.27.53:960][783]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.02-23.28.04:153][929]BlueprintLog: New page: Compile Completion_point_BP
+[2022.03.02-23.28.04:156][929]LogBlueprint: Warning: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Completion_point_BP.uasset: [Compiler] Could not find the function 'Has Won' called from  Has Won
+[2022.03.02-23.28.04:265][929]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2022.03.02-23.28.29:602][888]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.02-23.28.29:619][888]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.02-23.28.44:625][643]BlueprintLog: New page: Compile Completion_point_BP
+[2022.03.02-23.28.44:628][643]LogBlueprint: Warning: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Completion_point_BP.uasset: [Compiler] Could not find the function 'Has Won' called from  Has Won
+[2022.03.02-23.28.44:706][643]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2022.03.02-23.28.45:321][712]BlueprintLog: New page: Compile Completion_point_BP
+[2022.03.02-23.28.45:324][712]LogBlueprint: Warning: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Completion_point_BP.uasset: [Compiler] Could not find the function 'Has Won' called from  Has Won
+[2022.03.02-23.28.45:390][712]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2022.03.02-23.28.55:797][925]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.02-23.28.55:815][925]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.02-23.29.06:016][102]BlueprintLog: New page: Compile Main_GM
+[2022.03.02-23.29.06:084][102]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2022.03.02-23.29.07:668][280]BlueprintLog: New page: Compile Completion_point_BP
+[2022.03.02-23.29.07:739][280]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2022.03.02-23.29.36:467][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2022.03.02-23.29.36:483][ 31]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Michael_Test_Level_Auto23615917D4DDFC86C24AE329B7C1C1424.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Maps/Michael_Test_Level_Auto2.umap'
+[2022.03.02-23.29.36:486][ 31]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Michael_Test_Level' took 0.063
+[2022.03.02-23.29.36:486][ 31]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.063
+[2022.03.02-23.29.36:486][ 31]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Michaels_Work/Blueprints/Completion_point_BP] ([2] browsable assets)...
+[2022.03.02-23.29.36:494][ 31]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Michaels_Work/Blueprints/Completion_point_BP.Completion_point_BP]
+[2022.03.02-23.29.36:494][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Blueprints/Completion_point_BP]
+[2022.03.02-23.29.36:510][ 31]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Completion_point_BP_Auto2822A6A6347A7A68469BE6FA5DDD992EA.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Blueprints/Completion_point_BP_Auto2.uasset'
+[2022.03.02-23.29.36:511][ 31]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Michaels_Work/Blueprints/Floor_is_lava_BP] ([2] browsable assets)...
+[2022.03.02-23.29.36:519][ 31]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Michaels_Work/Blueprints/Floor_is_lava_BP.Floor_is_lava_BP]
+[2022.03.02-23.29.36:519][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Blueprints/Floor_is_lava_BP]
+[2022.03.02-23.29.36:543][ 31]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Floor_is_lava_BP_Auto2E677219440A59CF9A3CCDB8E27795C34.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Blueprints/Floor_is_lava_BP_Auto2.uasset'
+[2022.03.02-23.29.36:545][ 31]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Michaels_Work/Blueprints/Main_GM] ([2] browsable assets)...
+[2022.03.02-23.29.36:545][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Blueprints/Main_GM]
+[2022.03.02-23.29.36:552][ 31]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_GM_Auto2145D662B48BF8EC80FA49C9F8D2B6C10.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Blueprints/Main_GM_Auto2.uasset'
+[2022.03.02-23.29.36:553][ 31]LogFileHelpers: Auto-saving content packages took 0.068
+[2022.03.02-23.30.44:044][934]BlueprintLog: New page: Compile Floor_is_lava_BP
+[2022.03.02-23.30.44:110][934]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.03.02-23.31.12:945][306]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2022.03.02-23.31.14:379][306]LogSlate: Window 'Save Content' being destroyed
+[2022.03.02-23.31.14:440][306]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Completion_point_BP2DF429E845AF9BF9BB2F1FA2CD2F41E3.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Completion_point_BP.uasset'
+[2022.03.02-23.31.14:465][306]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Floor_is_lava_BPDADC04C040F6CDF693C7C9A0018173CB.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Floor_is_lava_BP.uasset'
+[2022.03.02-23.31.14:466][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Michaels_Work/Blueprints/Main_GM" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Main_GM.uasset" SILENT=true
+[2022.03.02-23.31.14:474][306]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_GM6EE2CDDD4B68D2A93C572687A65D4194.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Main_GM.uasset'
+[2022.03.02-23.31.14:475][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Michael_Test_Level" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Maps/Michael_Test_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.02-23.31.14:515][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.03.02-23.31.14:539][306]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Michael_Test_LevelC7D77E5545833F421D37BE96C0CC4E86.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Maps/Michael_Test_Level.umap'
+[2022.03.02-23.31.14:549][306]LogFileHelpers: Saving map 'Michael_Test_Level' took 0.074
+[2022.03.02-23.31.14:575][306]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.02-23.31.14:575][306]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Completion_point_BP.Completion_point_BP
+[2022.03.02-23.31.14:575][306]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Floor_is_lava_BP.Floor_is_lava_BP
+[2022.03.02-23.31.14:575][306]LogContentValidation: Display: Validating World /Game/Maps/Michael_Test_Level.Michael_Test_Level
+[2022.03.02-23.31.14:575][306]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Main_GM.Main_GM
