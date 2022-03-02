@@ -2208,3 +2208,59 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.02-05.18.15:871][284]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/pencilgrid_Auto1CF3AB34B413A3BDADE6FEB8D0E07C7E8.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Widgets/Fonts/pencilgrid_Auto1.uasset'
 [2022.03.02-05.18.15:872][284]LogFileHelpers: Auto-saving content packages took 0.016
 [2022.03.02-05.18.19:626][613]LogSlate: Took 0.000317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.02-05.21.33:741][668]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 21653
+[2022.03.02-05.21.33:742][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-05.21.33:755][669]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.02-05.21.33:760][669]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.02-05.21.33:760][669]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.02-05.21.33:762][669]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.02-05.21.33:763][669]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.02-05.21.34:146][713]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 45
+[2022.03.02-05.21.34:146][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-05.21.34:157][714]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.02-05.21.34:161][714]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.02-05.21.34:162][714]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.02-05.21.34:163][714]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.02-05.21.34:166][714]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.02-05.21.48:121][287]LogSlate: Took 0.003206 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2022.03.02-05.23.25:383][961]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.02-05.23.28:292][296]EditorErrors: Warning: Insufficient writing permission to save /Engine/UMG/Editor/Transient
+[2022.03.02-05.23.54:455][ 73]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.02-05.24.15:333][544]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.02-05.24.20:811][164]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.02-05.25.27:590][ 40]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.03.02-05.27.50:416][831]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.02-05.27.59:522][909]LogEditorTransaction: Undo Animatable Property Changed
+[2022.03.02-05.29.09:981][786]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.03.02-05.29.44:247][535]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.02-05.29.51:490][339]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.02-05.30.52:533][334]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.03.02-05.31.11:887][325]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.03.02-05.34.33:842][622]LogEditorTransaction: Undo Change Section Easing
+[2022.03.02-05.34.45:052][845]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.02-05.34.52:675][679]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.02-05.34.59:120][402]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.02-05.36.03:437][633]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.02-05.36.15:589][ 31]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.02-05.36.29:430][634]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.02-05.37.40:467][795]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.03.02-05.38.04:654][513]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.03.02-05.38.56:009][383]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2022.03.02-05.38.56:011][383]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Michael_Test_Level' took 0.052
+[2022.03.02-05.38.56:012][383]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Michaels_Work/Widgets/You_Lose_Widget] ([2] browsable assets)...
+[2022.03.02-05.38.56:012][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Widgets/You_Lose_Widget]
+[2022.03.02-05.38.56:039][383]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/You_Lose_Widget_Auto22B44684F433CEC7F3D4B138E3BB6AD8A.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Widgets/You_Lose_Widget_Auto2.uasset'
+[2022.03.02-05.38.56:040][383]LogFileHelpers: Auto-saving content packages took 0.029
+[2022.03.02-05.40.00:551][502]LogEditorTransaction: Undo Add Keys at Current Time
+[2022.03.02-05.40.01:942][612]LogEditorTransaction: Undo Set Key Value
+[2022.03.02-05.41.10:264][540]LogEditorTransaction: Undo Set Key Value
+[2022.03.02-05.41.11:169][594]LogEditorTransaction: Undo Set Key Value
+[2022.03.02-05.41.11:750][653]LogEditorTransaction: Undo Add Keys at Current Time
+[2022.03.02-05.42.32:820][326]LogEditorTransaction: Undo Set Key Value
+[2022.03.02-05.44.20:135][686]LogEditorTransaction: Undo Set Key Value
+[2022.03.02-05.45.41:673][940]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.03.02-05.47.33:775][399]BlueprintLog: New page: Compile You_Lose_Widget
+[2022.03.02-05.47.33:880][399]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2022.03.02-05.47.34:605][460]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/You_Lose_WidgetFBBA43254E95D5788D9BD8B1B899524E.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Content/Michaels_Work/Widgets/You_Lose_Widget.uasset'
+[2022.03.02-05.47.34:627][460]AssetCheck: New page: Asset Save: You_Lose_Widget
+[2022.03.02-05.47.34:628][460]LogContentValidation: Display: Validating WidgetBlueprint /Game/Michaels_Work/Widgets/You_Lose_Widget.You_Lose_Widget
