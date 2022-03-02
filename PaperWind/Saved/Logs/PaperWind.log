@@ -1430,3 +1430,702 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.02-04.12.10:785][396]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Paper_Ball_Set_ForceC1FBFB5E4AA3DBF74AB10FBD33212857.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Paper_Ball_Set_Force.uasset'
 [2022.03.02-04.12.10:799][396]AssetCheck: New page: Asset Save: Paper_Ball_Set_Force
 [2022.03.02-04.12.10:800][396]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force.Paper_Ball_Set_Force
+[2022.03.02-04.12.32:225][987]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.02-04.12.32:234][987]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.02-04.12.32:234][987]PIE: New page: PIE session: Michael_Test_Level (3 Mar 2022, 2:12:32 am)
+[2022.03.02-04.12.32:235][987]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.12.32:237][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002285s)
+[2022.03.02-04.12.32:238][987]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.12.32:239][987]LogPlayLevel: PIE: World Init took: (0.001632s)
+[2022.03.02-04.12.32:239][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.004024s)
+[2022.03.02-04.12.32:257][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.03.02-04.12.32:259][987]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.03.02-04.12.32:259][987]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.02-04.12.32:259][987]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.02-04.12.32:259][987]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.02-04.12.32:259][987]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.02-04.12.32:259][987]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.02-04.12.32:259][987]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.02-04.12.32:259][987]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.02-04.12.32:259][987]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.02-04.12.32:259][987]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.02-04.12.32:259][987]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.02-04.12.32:259][987]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.02-04.12.32:259][987]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.02-04.12.32:267][987]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-04.12.32:267][987]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-04.12.32:282][987]LogAudioMixer: Display: Using Audio Device U28E850 (NVIDIA High Definition Audio)
+[2022.03.02-04.12.32:282][987]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.02-04.12.32:282][987]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.02-04.12.32:282][987]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.02-04.12.32:283][987]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.02-04.12.32:283][987]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.02-04.12.32:283][987]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.02-04.12.32:284][987]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.02-04.12.32:284][987]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.02-04.12.32:284][987]LogInit: FAudioDevice initialized.
+[2022.03.02-04.12.32:284][987]LogAudio: Display: Audio Device (ID: 5) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.12.32:296][987]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.12.32:297][987]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.12.32
+[2022.03.02-04.12.32:297][987]LogWorld: Bringing up level for play took: 0.000657
+[2022.03.02-04.12.32:297][987]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.03.02-04.12.32:299][987]PIE: Server logged in
+[2022.03.02-04.12.32:300][987]PIE: Play in editor total start time 0.07 seconds.
+[2022.03.02-04.12.36:604][499]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.12.36:604][499]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.12.36:604][499]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.12.36:604][499]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.12.36:604][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.12.36:661][499]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.12.36:665][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.03.02-04.12.36:666][499]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.12.36:668][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002312s)
+[2022.03.02-04.12.36:669][499]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.12.36:669][499]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2022.03.02-04.12.36:669][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.003335s)
+[2022.03.02-04.12.36:669][499]LogAudio: Display: Audio Device (ID: 5) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.12.36:669][499]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.12.36:671][499]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.12.36
+[2022.03.02-04.12.36:671][499]LogWorld: Bringing up level for play took: 0.000587
+[2022.03.02-04.12.36:672][499]LogLoad: Took 0.068202 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.12.43:609][329]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.12.43:609][329]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.12.43:609][329]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.12.43:610][329]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.12.43:610][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.12.43:647][329]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.12.43:650][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.03.02-04.12.43:651][329]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.12.43:655][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002974s)
+[2022.03.02-04.12.43:656][329]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.12.43:657][329]LogPlayLevel: PIE: World Init took: (0.001787s)
+[2022.03.02-04.12.43:657][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.004975s)
+[2022.03.02-04.12.43:657][329]LogAudio: Display: Audio Device (ID: 5) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.12.43:658][329]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.12.43:659][329]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.12.43
+[2022.03.02-04.12.43:659][329]LogWorld: Bringing up level for play took: 0.000656
+[2022.03.02-04.12.43:660][329]LogLoad: Took 0.051257 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.12.51:837][308]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.12.51:837][308]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.12.51:837][308]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.12.51:838][308]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.12.51:838][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.12.51:888][308]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.12.51:891][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.03.02-04.12.51:892][308]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.12.51:895][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002537s)
+[2022.03.02-04.12.51:896][308]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.12.51:897][308]LogPlayLevel: PIE: World Init took: (0.001922s)
+[2022.03.02-04.12.51:897][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.004610s)
+[2022.03.02-04.12.51:897][308]LogAudio: Display: Audio Device (ID: 5) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.12.51:897][308]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.12.51:899][308]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.12.51
+[2022.03.02-04.12.51:899][308]LogWorld: Bringing up level for play took: 0.000587
+[2022.03.02-04.12.51:900][308]LogLoad: Took 0.062133 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.12.56:828][897]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.12.56:828][897]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.12.56:828][897]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.12.56:828][897]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.12.56:829][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.12.56:876][897]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.12.56:879][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.03.02-04.12.56:880][897]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.12.56:884][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003024s)
+[2022.03.02-04.12.56:885][897]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.12.56:885][897]LogPlayLevel: PIE: World Init took: (0.001143s)
+[2022.03.02-04.12.56:885][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.004367s)
+[2022.03.02-04.12.56:885][897]LogAudio: Display: Audio Device (ID: 5) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.12.56:885][897]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.12.56:886][897]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.12.56
+[2022.03.02-04.12.56:886][897]LogWorld: Bringing up level for play took: 0.000624
+[2022.03.02-04.12.56:887][897]LogLoad: Took 0.059122 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.13.00:645][346]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.13.00:645][346]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.13.00:645][346]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.13.00:646][346]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.13.00:646][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.13.00:697][346]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.13.00:700][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.03.02-04.13.00:701][346]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.13.00:703][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002502s)
+[2022.03.02-04.13.00:704][346]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.13.00:704][346]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2022.03.02-04.13.00:704][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.003640s)
+[2022.03.02-04.13.00:704][346]LogAudio: Display: Audio Device (ID: 5) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.13.00:705][346]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.13.00:706][346]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.13.00
+[2022.03.02-04.13.00:706][346]LogWorld: Bringing up level for play took: 0.000640
+[2022.03.02-04.13.00:707][346]LogLoad: Took 0.061934 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.13.13:046][822]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.13.13:046][822]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.13.13:046][822]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.13.13:046][822]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.13.13:047][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.13.13:089][822]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.13.13:091][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.03.02-04.13.13:093][822]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.13.13:096][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002419s)
+[2022.03.02-04.13.13:097][822]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.13.13:098][822]LogPlayLevel: PIE: World Init took: (0.001760s)
+[2022.03.02-04.13.13:098][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.004379s)
+[2022.03.02-04.13.13:098][822]LogAudio: Display: Audio Device (ID: 5) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.13.13:098][822]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.13.13:099][822]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.13.13
+[2022.03.02-04.13.13:100][822]LogWorld: Bringing up level for play took: 0.000562
+[2022.03.02-04.13.13:100][822]LogLoad: Took 0.053692 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.13.19:799][623]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.13.19:799][623]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.13.19:799][623]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.13.19:799][623]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.13.19:799][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.13.19:857][623]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.13.19:860][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.03.02-04.13.19:861][623]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.13.19:864][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002322s)
+[2022.03.02-04.13.19:864][623]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.13.19:865][623]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2022.03.02-04.13.19:865][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.003468s)
+[2022.03.02-04.13.19:865][623]LogAudio: Display: Audio Device (ID: 5) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.13.19:865][623]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.13.19:867][623]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.13.19
+[2022.03.02-04.13.19:867][623]LogWorld: Bringing up level for play took: 0.000594
+[2022.03.02-04.13.19:868][623]LogLoad: Took 0.069575 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.13.21:916][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-04.13.21:916][861]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.13.21:916][861]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.13.21:917][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.13.21:925][861]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.02-04.13.21:935][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.13.21:951][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-04.13.21:951][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-04.13.21:953][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-04.13.21:958][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.03.02-04.13.22:000][862]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.03.02-04.13.26:742][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Desk_02)
+[2022.03.02-04.13.33:139][ 96]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.02-04.13.33:147][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.02-04.13.33:147][ 96]PIE: New page: PIE session: Michael_Test_Level (3 Mar 2022, 2:13:33 am)
+[2022.03.02-04.13.33:182][ 96]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.13.33:185][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002782s)
+[2022.03.02-04.13.33:187][ 96]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.13.33:187][ 96]LogPlayLevel: PIE: World Init took: (0.001698s)
+[2022.03.02-04.13.33:187][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.004709s)
+[2022.03.02-04.13.33:206][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.03.02-04.13.33:208][ 96]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.03.02-04.13.33:208][ 96]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.02-04.13.33:208][ 96]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.02-04.13.33:208][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.02-04.13.33:208][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.02-04.13.33:208][ 96]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.02-04.13.33:208][ 96]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.02-04.13.33:208][ 96]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.02-04.13.33:208][ 96]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.02-04.13.33:208][ 96]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.02-04.13.33:208][ 96]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.02-04.13.33:208][ 96]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.02-04.13.33:208][ 96]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.02-04.13.33:217][ 96]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-04.13.33:217][ 96]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-04.13.33:231][ 96]LogAudioMixer: Display: Using Audio Device U28E850 (NVIDIA High Definition Audio)
+[2022.03.02-04.13.33:231][ 96]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.02-04.13.33:231][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.02-04.13.33:232][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.02-04.13.33:232][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.02-04.13.33:232][ 96]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.02-04.13.33:232][ 96]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.02-04.13.33:233][ 96]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.02-04.13.33:233][ 96]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.02-04.13.33:233][ 96]LogInit: FAudioDevice initialized.
+[2022.03.02-04.13.33:233][ 96]LogAudio: Display: Audio Device (ID: 6) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.13.33:240][ 96]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.13.33:241][ 96]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.13.33
+[2022.03.02-04.13.33:242][ 96]LogWorld: Bringing up level for play took: 0.000704
+[2022.03.02-04.13.33:242][ 96]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.03.02-04.13.33:243][ 96]PIE: Server logged in
+[2022.03.02-04.13.33:244][ 96]PIE: Play in editor total start time 0.101 seconds.
+[2022.03.02-04.13.36:433][475]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.13.36:433][475]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.13.36:433][475]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.13.36:433][475]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.13.36:433][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.13.36:496][475]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.13.36:499][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.03.02-04.13.36:500][475]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.13.36:502][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002324s)
+[2022.03.02-04.13.36:503][475]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.13.36:503][475]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2022.03.02-04.13.36:503][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.003454s)
+[2022.03.02-04.13.36:503][475]LogAudio: Display: Audio Device (ID: 6) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.13.36:504][475]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.13.36:505][475]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.13.36
+[2022.03.02-04.13.36:505][475]LogWorld: Bringing up level for play took: 0.000488
+[2022.03.02-04.13.36:506][475]LogLoad: Took 0.073377 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.13.40:743][980]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.13.40:743][980]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.13.40:743][980]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.13.40:743][980]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.13.40:743][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.13.40:809][980]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.13.40:812][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.03.02-04.13.40:813][980]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.13.40:818][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004688s)
+[2022.03.02-04.13.40:820][980]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.13.40:820][980]LogPlayLevel: PIE: World Init took: (0.002082s)
+[2022.03.02-04.13.40:820][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.007059s)
+[2022.03.02-04.13.40:821][980]LogAudio: Display: Audio Device (ID: 6) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.13.40:821][980]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.13.40:822][980]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.13.40
+[2022.03.02-04.13.40:823][980]LogWorld: Bringing up level for play took: 0.000995
+[2022.03.02-04.13.40:824][980]LogLoad: Took 0.081489 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.13.44:534][422]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.13.44:534][422]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.13.44:534][422]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.13.44:534][422]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.13.44:534][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.13.44:576][422]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.13.44:578][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.03.02-04.13.44:580][422]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.13.44:583][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003063s)
+[2022.03.02-04.13.44:584][422]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.13.44:585][422]LogPlayLevel: PIE: World Init took: (0.001823s)
+[2022.03.02-04.13.44:585][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.005084s)
+[2022.03.02-04.13.44:585][422]LogAudio: Display: Audio Device (ID: 6) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.13.44:585][422]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.13.44:587][422]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.13.44
+[2022.03.02-04.13.44:587][422]LogWorld: Bringing up level for play took: 0.000619
+[2022.03.02-04.13.44:588][422]LogLoad: Took 0.053823 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.13.50:474][126]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.13.50:474][126]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.13.50:474][126]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.13.50:474][126]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.13.50:474][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.13.50:528][126]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.13.50:530][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.03.02-04.13.50:532][126]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.13.50:534][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002253s)
+[2022.03.02-04.13.50:535][126]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.13.50:536][126]LogPlayLevel: PIE: World Init took: (0.001566s)
+[2022.03.02-04.13.50:536][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.003989s)
+[2022.03.02-04.13.50:536][126]LogAudio: Display: Audio Device (ID: 6) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.13.50:536][126]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.13.50:537][126]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.13.50
+[2022.03.02-04.13.50:538][126]LogWorld: Bringing up level for play took: 0.000494
+[2022.03.02-04.13.50:539][126]LogLoad: Took 0.064844 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.13.59:943][252]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.13.59:943][252]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.13.59:943][252]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.13.59:943][252]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.13.59:943][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.14.00:007][252]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.14.00:009][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.03.02-04.14.00:011][252]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.14.00:014][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002876s)
+[2022.03.02-04.14.00:015][252]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.14.00:016][252]LogPlayLevel: PIE: World Init took: (0.001920s)
+[2022.03.02-04.14.00:016][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.005068s)
+[2022.03.02-04.14.00:016][252]LogAudio: Display: Audio Device (ID: 6) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.14.00:016][252]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.14.00:018][252]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.14.00
+[2022.03.02-04.14.00:019][252]LogWorld: Bringing up level for play took: 0.001022
+[2022.03.02-04.14.00:019][252]LogLoad: Took 0.076482 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.14.03:891][714]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.14.03:891][714]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.14.03:891][714]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.14.03:891][714]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.14.03:891][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.14.03:954][714]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.14.03:959][714]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.03.02-04.14.03:961][714]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.14.03:966][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004909s)
+[2022.03.02-04.14.03:967][714]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.14.03:968][714]LogPlayLevel: PIE: World Init took: (0.001810s)
+[2022.03.02-04.14.03:968][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.007065s)
+[2022.03.02-04.14.03:968][714]LogAudio: Display: Audio Device (ID: 6) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.14.03:969][714]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.14.03:970][714]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.14.03
+[2022.03.02-04.14.03:970][714]LogWorld: Bringing up level for play took: 0.000580
+[2022.03.02-04.14.03:971][714]LogLoad: Took 0.079780 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.14.07:590][146]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.14.07:591][146]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.14.07:591][146]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.14.07:591][146]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.14.07:591][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.14.07:636][146]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.14.07:639][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.03.02-04.14.07:640][146]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.14.07:642][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002263s)
+[2022.03.02-04.14.07:643][146]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.14.07:643][146]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2022.03.02-04.14.07:643][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.003301s)
+[2022.03.02-04.14.07:643][146]LogAudio: Display: Audio Device (ID: 6) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.14.07:643][146]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.14.07:645][146]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.14.07
+[2022.03.02-04.14.07:645][146]LogWorld: Bringing up level for play took: 0.000492
+[2022.03.02-04.14.07:645][146]LogLoad: Took 0.054742 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.14.11:081][556]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.14.11:081][556]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.14.11:081][556]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.14.11:082][556]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.14.11:082][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.14.11:136][556]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.14.11:139][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.03.02-04.14.11:140][556]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.14.11:142][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002412s)
+[2022.03.02-04.14.11:143][556]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.14.11:143][556]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2022.03.02-04.14.11:143][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.003553s)
+[2022.03.02-04.14.11:143][556]LogAudio: Display: Audio Device (ID: 6) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.14.11:144][556]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.14.11:145][556]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.14.11
+[2022.03.02-04.14.11:145][556]LogWorld: Bringing up level for play took: 0.000620
+[2022.03.02-04.14.11:146][556]LogLoad: Took 0.064907 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.14.11:954][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-04.14.11:954][646]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.14.11:954][646]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.14.11:955][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.14.11:961][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.02-04.14.11:975][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.14.11:991][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-04.14.11:992][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-04.14.11:993][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-04.14.11:998][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.03.02-04.14.12:041][647]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.03.02-04.14.35:086][ 13]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force.Paper_Ball_Set_Force
+[2022.03.02-04.14.53:808][339]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.02-04.14.53:855][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.03.02-04.14.54:551][379]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Paper_Ball_Set_ForceA3E0DF694A704089F83513B54C9B2914.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Paper_Ball_Set_Force.uasset'
+[2022.03.02-04.14.54:571][379]AssetCheck: New page: Asset Save: Paper_Ball_Set_Force
+[2022.03.02-04.14.54:571][379]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force.Paper_Ball_Set_Force
+[2022.03.02-04.14.56:264][505]LogSlate: Window 'Paper_Ball_Set_Force' being destroyed
+[2022.03.02-04.14.56:268][505]LogSlate: Window 'Paper_Ball_Set_Force' being destroyed
+[2022.03.02-04.14.56:272][505]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.14.56:272][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.14.58:075][708]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.02-04.14.58:085][708]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.02-04.14.58:085][708]PIE: New page: PIE session: Michael_Test_Level (3 Mar 2022, 2:14:58 am)
+[2022.03.02-04.14.58:110][708]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.14.58:113][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002388s)
+[2022.03.02-04.14.58:114][708]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.14.58:114][708]LogPlayLevel: PIE: World Init took: (0.001566s)
+[2022.03.02-04.14.58:115][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.004165s)
+[2022.03.02-04.14.58:136][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.03.02-04.14.58:137][708]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.03.02-04.14.58:137][708]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.02-04.14.58:137][708]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.02-04.14.58:137][708]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.02-04.14.58:137][708]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.02-04.14.58:137][708]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.02-04.14.58:137][708]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.02-04.14.58:137][708]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.02-04.14.58:137][708]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.02-04.14.58:138][708]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.02-04.14.58:138][708]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.02-04.14.58:138][708]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.02-04.14.58:138][708]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.02-04.14.58:145][708]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-04.14.58:145][708]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-04.14.58:160][708]LogAudioMixer: Display: Using Audio Device U28E850 (NVIDIA High Definition Audio)
+[2022.03.02-04.14.58:161][708]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.02-04.14.58:161][708]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.02-04.14.58:161][708]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.02-04.14.58:161][708]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.02-04.14.58:161][708]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.02-04.14.58:161][708]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.02-04.14.58:162][708]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.02-04.14.58:162][708]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.02-04.14.58:162][708]LogInit: FAudioDevice initialized.
+[2022.03.02-04.14.58:162][708]LogAudio: Display: Audio Device (ID: 7) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.14.58:172][708]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.14.58:173][708]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.14.58
+[2022.03.02-04.14.58:173][708]LogWorld: Bringing up level for play took: 0.000810
+[2022.03.02-04.14.58:174][708]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.03.02-04.14.58:175][708]PIE: Server logged in
+[2022.03.02-04.14.58:176][708]PIE: Play in editor total start time 0.097 seconds.
+[2022.03.02-04.15.02:777][257]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.15.02:777][257]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.15.02:777][257]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.15.02:778][257]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.15.02:778][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.15.02:835][257]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.15.02:837][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.03.02-04.15.02:838][257]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.15.02:841][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002377s)
+[2022.03.02-04.15.02:842][257]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.15.02:842][257]LogPlayLevel: PIE: World Init took: (0.001072s)
+[2022.03.02-04.15.02:842][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.003588s)
+[2022.03.02-04.15.02:842][257]LogAudio: Display: Audio Device (ID: 7) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.15.02:842][257]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.15.02:844][257]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.15.02
+[2022.03.02-04.15.02:844][257]LogWorld: Bringing up level for play took: 0.000584
+[2022.03.02-04.15.02:845][257]LogLoad: Took 0.067486 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.15.15:460][768]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.15.15:460][768]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.15.15:460][768]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.15.15:460][768]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.15.15:460][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.15.15:504][768]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.15.15:507][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.03.02-04.15.15:508][768]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.15.15:511][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002353s)
+[2022.03.02-04.15.15:512][768]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.15.15:512][768]LogPlayLevel: PIE: World Init took: (0.001364s)
+[2022.03.02-04.15.15:512][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.003899s)
+[2022.03.02-04.15.15:512][768]LogAudio: Display: Audio Device (ID: 7) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.15.15:513][768]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.15.15:514][768]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.15.15
+[2022.03.02-04.15.15:514][768]LogWorld: Bringing up level for play took: 0.000851
+[2022.03.02-04.15.15:515][768]LogLoad: Took 0.055574 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.15.16:343][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-04.15.16:343][861]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.15.16:343][861]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.15.16:343][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.15.16:356][861]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.02-04.15.16:371][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.15.16:386][861]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.15.16:386][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-04.15.16:388][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-04.15.16:390][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-04.15.16:394][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.03.02-04.15.16:435][862]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.03.02-04.15.18:556][ 62]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force.Paper_Ball_Set_Force
+[2022.03.02-04.15.21:128][203]LogSlate: Window 'Paper_Ball_Set_Force' being destroyed
+[2022.03.02-04.15.22:338][313]LogSlate: Window 'Paper_Ball_Set_Force' being destroyed
+[2022.03.02-04.15.34:075][584]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.02-04.15.34:120][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.03.02-04.15.34:739][632]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Paper_Ball_Set_Force91D7F7954621F47F11BD9391141B48FA.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Paper_Ball_Set_Force.uasset'
+[2022.03.02-04.15.34:753][632]AssetCheck: New page: Asset Save: Paper_Ball_Set_Force
+[2022.03.02-04.15.34:753][632]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force.Paper_Ball_Set_Force
+[2022.03.02-04.15.36:261][784]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.02-04.15.36:270][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.02-04.15.36:270][784]PIE: New page: PIE session: Michael_Test_Level (3 Mar 2022, 2:15:36 am)
+[2022.03.02-04.15.36:270][784]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.15.36:273][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002276s)
+[2022.03.02-04.15.36:273][784]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.15.36:273][784]LogPlayLevel: PIE: World Init took: (0.001713s)
+[2022.03.02-04.15.36:273][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.004115s)
+[2022.03.02-04.15.36:295][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.03.02-04.15.36:296][784]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.03.02-04.15.36:296][784]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.02-04.15.36:296][784]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.02-04.15.36:296][784]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.02-04.15.36:296][784]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.02-04.15.36:296][784]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.02-04.15.36:296][784]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.02-04.15.36:296][784]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.02-04.15.36:296][784]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.02-04.15.36:296][784]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.02-04.15.36:296][784]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.02-04.15.36:296][784]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.02-04.15.36:297][784]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.02-04.15.36:304][784]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-04.15.36:304][784]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-04.15.36:318][784]LogAudioMixer: Display: Using Audio Device U28E850 (NVIDIA High Definition Audio)
+[2022.03.02-04.15.36:318][784]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.02-04.15.36:318][784]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.02-04.15.36:318][784]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.02-04.15.36:319][784]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.02-04.15.36:319][784]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.02-04.15.36:319][784]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.02-04.15.36:320][784]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.02-04.15.36:320][784]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.02-04.15.36:320][784]LogInit: FAudioDevice initialized.
+[2022.03.02-04.15.36:320][784]LogAudio: Display: Audio Device (ID: 8) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.15.36:332][784]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.15.36:334][784]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.15.36
+[2022.03.02-04.15.36:334][784]LogWorld: Bringing up level for play took: 0.000647
+[2022.03.02-04.15.36:334][784]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.03.02-04.15.36:336][784]PIE: Server logged in
+[2022.03.02-04.15.36:337][784]PIE: Play in editor total start time 0.073 seconds.
+[2022.03.02-04.15.41:274][374]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.15.41:274][374]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.15.41:274][374]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.15.41:274][374]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.15.41:274][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.15.41:337][374]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.15.41:339][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.03.02-04.15.41:340][374]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.15.41:342][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002450s)
+[2022.03.02-04.15.41:343][374]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.15.41:343][374]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2022.03.02-04.15.41:343][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.003501s)
+[2022.03.02-04.15.41:343][374]LogAudio: Display: Audio Device (ID: 8) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.15.41:344][374]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.15.41:345][374]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.15.41
+[2022.03.02-04.15.41:345][374]LogWorld: Bringing up level for play took: 0.000479
+[2022.03.02-04.15.41:346][374]LogLoad: Took 0.072604 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.15.44:894][797]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.15.44:894][797]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.15.44:894][797]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.15.44:894][797]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.15.44:894][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.15.44:937][797]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.15.44:940][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.03.02-04.15.44:940][797]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.15.44:943][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002337s)
+[2022.03.02-04.15.44:944][797]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.15.44:945][797]LogPlayLevel: PIE: World Init took: (0.001874s)
+[2022.03.02-04.15.44:945][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.004420s)
+[2022.03.02-04.15.44:945][797]LogAudio: Display: Audio Device (ID: 8) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.15.44:945][797]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.15.44:946][797]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.15.44
+[2022.03.02-04.15.44:946][797]LogWorld: Bringing up level for play took: 0.000484
+[2022.03.02-04.15.44:947][797]LogLoad: Took 0.053604 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.15.45:542][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-04.15.45:542][861]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.15.45:542][861]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.15.45:542][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.15.45:558][861]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.02-04.15.45:573][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.15.45:592][861]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.15.45:592][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-04.15.45:593][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-04.15.45:596][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-04.15.45:599][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.03.02-04.15.45:642][862]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.03.02-04.16.03:356][854]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.02-04.16.03:402][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.03.02-04.16.05:926][112]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.02-04.16.05:935][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.02-04.16.05:935][112]PIE: New page: PIE session: Michael_Test_Level (3 Mar 2022, 2:16:05 am)
+[2022.03.02-04.16.05:969][112]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.16.05:971][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002430s)
+[2022.03.02-04.16.05:973][112]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.16.05:973][112]LogPlayLevel: PIE: World Init took: (0.001480s)
+[2022.03.02-04.16.05:973][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.004052s)
+[2022.03.02-04.16.05:994][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.03.02-04.16.05:995][112]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.03.02-04.16.05:995][112]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.02-04.16.05:995][112]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.02-04.16.05:995][112]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.02-04.16.05:995][112]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.02-04.16.05:995][112]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.02-04.16.05:995][112]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.02-04.16.05:995][112]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.02-04.16.05:995][112]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.02-04.16.05:995][112]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.02-04.16.05:995][112]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.02-04.16.05:995][112]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.02-04.16.05:995][112]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.02-04.16.06:004][112]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-04.16.06:004][112]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-04.16.06:017][112]LogAudioMixer: Display: Using Audio Device U28E850 (NVIDIA High Definition Audio)
+[2022.03.02-04.16.06:017][112]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.02-04.16.06:017][112]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.02-04.16.06:017][112]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.02-04.16.06:018][112]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.02-04.16.06:018][112]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.02-04.16.06:018][112]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.02-04.16.06:020][112]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.02-04.16.06:020][112]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.02-04.16.06:020][112]LogInit: FAudioDevice initialized.
+[2022.03.02-04.16.06:020][112]LogAudio: Display: Audio Device (ID: 9) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.16.06:032][112]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.16.06:034][112]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.16.06
+[2022.03.02-04.16.06:034][112]LogWorld: Bringing up level for play took: 0.000919
+[2022.03.02-04.16.06:034][112]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.03.02-04.16.06:036][112]PIE: Server logged in
+[2022.03.02-04.16.06:037][112]PIE: Play in editor total start time 0.107 seconds.
+[2022.03.02-04.16.09:673][546]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.16.09:673][546]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.16.09:673][546]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.16.09:673][546]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.16.09:673][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.16.09:737][546]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.16.09:740][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.03.02-04.16.09:741][546]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.16.09:743][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002338s)
+[2022.03.02-04.16.09:744][546]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.16.09:744][546]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2022.03.02-04.16.09:744][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.003593s)
+[2022.03.02-04.16.09:744][546]LogAudio: Display: Audio Device (ID: 9) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.16.09:745][546]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.16.09:746][546]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.16.09
+[2022.03.02-04.16.09:746][546]LogWorld: Bringing up level for play took: 0.000466
+[2022.03.02-04.16.09:747][546]LogLoad: Took 0.074216 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.16.21:133][909]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.16.21:133][909]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.16.21:133][909]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.16.21:133][909]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.16.21:133][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.16.21:185][909]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.16.21:189][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.03.02-04.16.21:190][909]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.16.21:192][909]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002628s)
+[2022.03.02-04.16.21:194][909]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.16.21:194][909]LogPlayLevel: PIE: World Init took: (0.001714s)
+[2022.03.02-04.16.21:194][909]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.004565s)
+[2022.03.02-04.16.21:194][909]LogAudio: Display: Audio Device (ID: 9) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.16.21:195][909]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.16.21:196][909]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.16.21
+[2022.03.02-04.16.21:197][909]LogWorld: Bringing up level for play took: 0.000763
+[2022.03.02-04.16.21:198][909]LogLoad: Took 0.064494 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.16.32:437][255]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.16.32:437][255]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.16.32:437][255]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.16.32:438][255]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.16.32:438][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.16.32:497][255]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.16.32:499][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.03.02-04.16.32:500][255]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.16.32:502][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002325s)
+[2022.03.02-04.16.32:503][255]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.16.32:503][255]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2022.03.02-04.16.32:503][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.003463s)
+[2022.03.02-04.16.32:503][255]LogAudio: Display: Audio Device (ID: 9) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.16.32:504][255]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.16.32:505][255]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.16.32
+[2022.03.02-04.16.32:506][255]LogWorld: Bringing up level for play took: 0.000680
+[2022.03.02-04.16.32:506][255]LogLoad: Took 0.069149 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.16.44:311][666]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.16.44:311][666]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.16.44:311][666]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.16.44:312][666]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.16.44:312][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.16.44:355][666]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.16.44:358][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.03.02-04.16.44:358][666]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.16.44:362][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003200s)
+[2022.03.02-04.16.44:363][666]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.16.44:363][666]LogPlayLevel: PIE: World Init took: (0.001380s)
+[2022.03.02-04.16.44:363][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.004737s)
+[2022.03.02-04.16.44:363][666]LogAudio: Display: Audio Device (ID: 9) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.16.44:363][666]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.16.44:365][666]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.16.44
+[2022.03.02-04.16.44:365][666]LogWorld: Bringing up level for play took: 0.000685
+[2022.03.02-04.16.44:366][666]LogLoad: Took 0.054188 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.16.46:022][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-04.16.46:022][859]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.16.46:022][859]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.16.46:023][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.16.46:037][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.02-04.16.46:051][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.16.46:071][859]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.16.46:071][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-04.16.46:073][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-04.16.46:075][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-04.16.46:077][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.03.02-04.16.46:120][860]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.03.02-04.16.46:942][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Desk_02)
+[2022.03.02-04.16.49:582][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Desk_3)
+[2022.03.02-04.16.50:397][299]Cmd: DELETE
+[2022.03.02-04.16.50:397][299]Cmd: ACTOR DELETE
+[2022.03.02-04.16.50:399][299]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.02-04.16.50:418][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.03.02-04.16.50:419][299]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2022.03.02-04.16.51:322][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Desk_4)
+[2022.03.02-04.16.51:480][418]Cmd: DELETE
+[2022.03.02-04.16.51:480][418]Cmd: ACTOR DELETE
+[2022.03.02-04.16.51:481][418]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.02-04.16.51:501][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.03.02-04.16.51:502][418]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2022.03.02-04.16.52:343][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Desk_02)
+[2022.03.02-04.17.02:300][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Desk_3)
+[2022.03.02-04.17.08:156][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.03.02-04.17.09:689][264]LogSlate: Window 'Save Content' being destroyed
+[2022.03.02-04.17.09:744][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.03.02-04.17.09:764][264]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Michael_Test_LevelC9B6D43A47C4704A2C0460B1A6A4F65D.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Content/Maps/Michael_Test_Level.umap'
+[2022.03.02-04.17.09:770][264]LogFileHelpers: Saving map 'Michael_Test_Level' took 0.045
+[2022.03.02-04.17.09:816][264]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Paper_Ball_Set_ForceEE4EAF444B6BA10343BBF3B539C4772F.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Paper_Ball_Set_Force.uasset'
+[2022.03.02-04.17.09:832][264]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.02-04.17.09:832][264]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force.Paper_Ball_Set_Force
+[2022.03.02-04.17.09:832][264]LogContentValidation: Display: Validating World /Game/Maps/Michael_Test_Level.Michael_Test_Level
