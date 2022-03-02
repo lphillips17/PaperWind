@@ -3151,3 +3151,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.02-04.26.30:280][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.03.02-04.26.30:283][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
 [2022.03.02-04.26.30:327][911]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.03.02-04.31.13:603][609]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.03.02-04.31.14:929][609]LogSlate: Window 'Save Content' being destroyed
+[2022.03.02-04.31.14:984][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.03.02-04.31.15:004][609]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Michael_Test_LevelABE2CD6A4B8B83141FE45E8294E1AD1B.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Content/Maps/Michael_Test_Level.umap'
+[2022.03.02-04.31.15:010][609]LogFileHelpers: Saving map 'Michael_Test_Level' took 0.045
+[2022.03.02-04.31.15:058][609]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Paper_Ball_Set_ForceB37722D7445981C4653B139AE454B2CF.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Paper_Ball_Set_Force.uasset'
+[2022.03.02-04.31.15:083][609]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.02-04.31.15:083][609]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force.Paper_Ball_Set_Force
+[2022.03.02-04.31.15:083][609]LogContentValidation: Display: Validating World /Game/Maps/Michael_Test_Level.Michael_Test_Level
