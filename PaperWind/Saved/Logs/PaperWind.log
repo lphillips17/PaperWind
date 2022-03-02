@@ -937,3 +937,146 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.02-04.51.19:022][549]Cmd: MAP CHECKDEP NOCLEARLOG
 [2022.03.02-04.51.19:022][549]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.096ms to complete.
 [2022.03.02-04.51.19:022][549]LogFileHelpers: Loading map 'Michael_Test_Level' took 0.050
+[2022.03.02-04.53.53:905][960]LogEditorViewport: Clicking on Actor (LMB): Paper_Ball_Set_Force_C (Paper_Ball1)
+[2022.03.02-04.53.55:365][117]LogEditorViewport: Clicking on Actor (LMB): Floor_is_lava_BP_C (Floor_is_lava_BP)
+[2022.03.02-04.53.56:519][250]LogEditorViewport: Clicking on Actor (LMB): Paper_Ball_Set_Force_C (Paper_Ball1)
+[2022.03.02-04.54.06:266][337]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2022.03.02-04.54.54:857][666]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.03.02-04.54.54:870][666]LogContentBrowser: Creating deferred item: NewFolder
+[2022.03.02-04.55.00:089][288]LogContentBrowser: Attempting asset rename: NewFolder -> Widgets
+[2022.03.02-04.55.00:091][288]LogContentBrowser: End creating deferred item NewFolder
+[2022.03.02-04.55.07:745][832]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.02-04.55.12:127][309]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.03.02-04.55.12:135][309]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.03.02-04.55.24:132][738]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> You_Win_Widget
+[2022.03.02-04.55.24:140][738]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.03.02-04.55.41:400][754]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.03.02-04.55.41:410][754]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.03.02-04.55.52:075][ 23]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> You_Lose_Widget
+[2022.03.02-04.55.52:079][ 23]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.03.02-04.55.55:163][382]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Michaels_Work/Widgets/You_Win_Widget.You_Win_Widget
+[2022.03.02-04.55.55:320][382]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.03.02-04.55.56:584][382]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.02-04.55.59:632][651]LogSlate: Window 'You_Win_Widget' being destroyed
+[2022.03.02-04.55.59:640][651]LogSlate: Window 'You_Win_Widget' being destroyed
+[2022.03.02-04.55.59:644][651]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.55.59:644][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.55.59:653][651]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.55.59:653][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.56.02:592][952]LogEditorViewport: Clicking on Actor (LMB): Completion_point_BP_C (Completion_point_BP)
+[2022.03.02-04.56.10:896][778]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Michaels_Work/Blueprints/Completion_point_BP.Completion_point_BP
+[2022.03.02-04.56.18:179][569]LogRenderer: Reallocating scene render targets to support 1616x1260 Format 10 NumSamples 1 (Frame:1).
+[2022.03.02-04.56.36:881][594]LogSlate: Took 0.000358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.02-04.56.37:698][687]BlueprintLog: New page: Compile Completion_point_BP
+[2022.03.02-04.56.37:826][687]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2022.03.02-04.57.02:545][458]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.Completion_point_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.03.02-04.57.02:546][458]LogPhysics: Warning: Scale for /Game/Maps/Michael_Test_Level.Michael_Test_Level:PersistentLevel.Completion_point_BP_2.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.03.02-04.57.02:546][458]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.Completion_point_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.03.02-04.57.02:554][459]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.Completion_point_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.03.02-04.57.02:562][460]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.Completion_point_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2022.03.02-04.57.25:094][ 31]BlueprintLog: New page: Compile Completion_point_BP
+[2022.03.02-04.57.25:201][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.03.02-04.58.23:403][742]BlueprintLog: New page: Compile Completion_point_BP
+[2022.03.02-04.58.23:454][742]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.03.02-04.58.23:860][782]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Completion_point_BP2B39859448BAF41074C78F8962A3DD5F.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Completion_point_BP.uasset'
+[2022.03.02-04.58.23:882][782]AssetCheck: New page: Asset Save: Completion_point_BP
+[2022.03.02-04.58.23:882][782]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Completion_point_BP.Completion_point_BP
+[2022.03.02-04.58.25:794][996]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.02-04.58.25:803][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.02-04.58.25:803][996]PIE: New page: PIE session: Michael_Test_Level (3 Mar 2022, 2:58:25 am)
+[2022.03.02-04.58.25:804][996]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.02-04.58.25:806][996]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.02-04.58.25:806][996]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.58.25:809][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003016s)
+[2022.03.02-04.58.25:810][996]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.58.25:810][996]LogPlayLevel: PIE: World Init took: (0.001474s)
+[2022.03.02-04.58.25:810][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.004642s)
+[2022.03.02-04.58.25:836][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.03.02-04.58.25:836][996]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.02-04.58.25:836][996]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.02-04.58.25:836][996]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.02-04.58.25:837][996]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.02-04.58.25:837][996]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.02-04.58.25:837][996]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.02-04.58.25:837][996]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.02-04.58.25:837][996]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.02-04.58.25:837][996]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.02-04.58.25:837][996]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.02-04.58.25:837][996]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.02-04.58.25:837][996]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.02-04.58.25:837][996]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.02-04.58.25:845][996]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.02-04.58.25:846][996]LogAudioMixer: Display: 1: FrontRight
+[2022.03.02-04.58.25:862][996]LogAudioMixer: Display: Using Audio Device U28E850 (NVIDIA High Definition Audio)
+[2022.03.02-04.58.25:862][996]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.02-04.58.25:862][996]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.02-04.58.25:862][996]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.02-04.58.25:862][996]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.02-04.58.25:862][996]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.02-04.58.25:862][996]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.02-04.58.25:863][996]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.02-04.58.25:863][996]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.02-04.58.25:863][996]LogInit: FAudioDevice initialized.
+[2022.03.02-04.58.25:864][996]LogAudio: Display: Audio Device (ID: 2) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.58.25:873][996]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2022.03.02-04.58.25:873][996]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2022.03.02-04.58.25:873][996]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2022.03.02-04.58.25:873][996]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.58.25:875][996]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.58.25
+[2022.03.02-04.58.25:875][996]LogWorld: Bringing up level for play took: 0.000745
+[2022.03.02-04.58.25:875][996]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.03.02-04.58.25:882][996]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.03.02-04.58.25:883][996]PIE: Server logged in
+[2022.03.02-04.58.25:885][996]PIE: Play in editor total start time 0.086 seconds.
+[2022.03.02-04.58.32:781][786]LogNet: Browse: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.58.32:781][786]LogLoad: LoadMap: /Game/Maps/Michael_Test_Level
+[2022.03.02-04.58.32:781][786]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.58.32:782][786]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.58.32:782][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.58.32:838][786]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.58.32:886][786]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2022.03.02-04.58.32:888][786]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.58.32:891][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002855s)
+[2022.03.02-04.58.32:892][786]LogAIModule: Creating AISystem for world Michael_Test_Level
+[2022.03.02-04.58.32:892][786]LogPlayLevel: PIE: World Init took: (0.001631s)
+[2022.03.02-04.58.32:892][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Michael_Test_Level.Michael_Test_Level to /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level (0.004705s)
+[2022.03.02-04.58.32:892][786]LogAudio: Display: Audio Device (ID: 2) registered with world 'Michael_Test_Level'.
+[2022.03.02-04.58.32:893][786]LogLoad: Game class is 'GameModeBase'
+[2022.03.02-04.58.32:895][786]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Michael_Test_Level.Michael_Test_Level up for play (max tick rate 0) at 2022.03.02-15.58.32
+[2022.03.02-04.58.32:895][786]LogWorld: Bringing up level for play took: 0.000747
+[2022.03.02-04.58.32:896][786]LogLoad: Took 0.114625 seconds to LoadMap(/Game/Maps/UEDPIE_0_Michael_Test_Level)
+[2022.03.02-04.58.35:079][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-04.58.35:079][ 40]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Michael_Test_Level
+[2022.03.02-04.58.35:079][ 40]LogWorld: UWorld::CleanupWorld for Michael_Test_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.02-04.58.35:080][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.58.35:089][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.02-04.58.35:099][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.02-04.58.35:134][ 40]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.02-04.58.35:137][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-04.58.35:139][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.02-04.58.35:141][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.02-04.58.35:166][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.03.02-04.58.35:204][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.03.02-04.59.08:149][882]BlueprintLog: New page: Compile Completion_point_BP
+[2022.03.02-04.59.08:200][882]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.03.02-04.59.12:189][290]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Michaels_Work/Blueprints/Floor_is_lava_BP.Floor_is_lava_BP
+[2022.03.02-04.59.13:994][400]LogSlate: Window 'Floor_is_lava_BP' being destroyed
+[2022.03.02-04.59.14:003][401]LogRenderer: Reallocating scene render targets to support 2420x1260 Format 10 NumSamples 1 (Frame:25073).
+[2022.03.02-04.59.25:791][740]BlueprintLog: New page: Compile Floor_is_lava_BP
+[2022.03.02-04.59.25:843][740]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2022.03.02-04.59.26:492][810]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Floor_is_lava_BPBD47D18940AFE4EA0304AE835AEEB453.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Floor_is_lava_BP.uasset'
+[2022.03.02-04.59.26:517][810]AssetCheck: New page: Asset Save: Floor_is_lava_BP
+[2022.03.02-04.59.26:517][810]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Floor_is_lava_BP.Floor_is_lava_BP
+[2022.03.02-04.59.29:890][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.03.02-04.59.30:848][137]LogSlate: Window 'Save Content' being destroyed
+[2022.03.02-04.59.30:895][137]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Completion_point_BP9201F3A8448F7EF734D382A8842B5D5F.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Completion_point_BP.uasset'
+[2022.03.02-04.59.30:926][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.02-04.59.30:947][137]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Michael_Test_LevelE17696564BEB5B02AF26FDB486EEA3BE.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Content/Maps/Michael_Test_Level.umap'
+[2022.03.02-04.59.30:952][137]LogFileHelpers: Saving map 'Michael_Test_Level' took 0.056
+[2022.03.02-04.59.30:957][137]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/You_Lose_WidgetF257AA624183BC26C3373BA55C4E23EC.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Content/Michaels_Work/Widgets/You_Lose_Widget.uasset'
+[2022.03.02-04.59.30:963][137]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/You_Win_Widget73C9E1D64C040469CA10748D077951F9.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Content/Michaels_Work/Widgets/You_Win_Widget.uasset'
+[2022.03.02-04.59.30:982][137]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.02-04.59.30:982][137]LogContentValidation: Display: Validating WidgetBlueprint /Game/Michaels_Work/Widgets/You_Lose_Widget.You_Lose_Widget
+[2022.03.02-04.59.30:982][137]LogContentValidation: Display: Validating WidgetBlueprint /Game/Michaels_Work/Widgets/You_Win_Widget.You_Win_Widget
+[2022.03.02-04.59.30:982][137]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Completion_point_BP.Completion_point_BP
+[2022.03.02-04.59.30:982][137]LogContentValidation: Display: Validating World /Game/Maps/Michael_Test_Level.Michael_Test_Level
