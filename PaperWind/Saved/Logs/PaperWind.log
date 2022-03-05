@@ -2564,3 +2564,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.05-10.36.23:702][705]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.03.05-10.36.23:708][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
 [2022.03.05-10.36.23:744][706]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.03.05-10.38.08:275][673]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.03.05-10.38.09:406][673]LogSlate: Window 'Save Content' being destroyed
+[2022.03.05-10.38.09:435][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Michael_Test_Level" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Maps/Michael_Test_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.05-10.38.09:469][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.03.05-10.38.09:484][673]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Michael_Test_Level975DBC154EA0C1BF539085BC82397BFC.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Maps/Michael_Test_Level.umap'
+[2022.03.05-10.38.09:496][673]LogFileHelpers: Saving map 'Michael_Test_Level' took 0.061
+[2022.03.05-10.38.09:509][673]AssetCheck: New page: Asset Save: Michael_Test_Level
+[2022.03.05-10.38.09:509][673]LogContentValidation: Display: Validating World /Game/Maps/Michael_Test_Level.Michael_Test_Level
