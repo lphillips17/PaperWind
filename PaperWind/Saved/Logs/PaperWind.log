@@ -5126,3 +5126,70 @@ Script Stack (0 frames):
 [2022.03.06-10.28.18:671][680]LogContentValidation: Display: Validating World /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test
 [2022.03.06-10.28.18:671][680]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Michaels_Work/Materials/M_Bin_Glow_Inst.M_Bin_Glow_Inst
 [2022.03.06-10.28.18:671][680]LogContentValidation: Display: Validating World /Game/Maps/Michael_Test_Level.Michael_Test_Level
+[2022.03.06-10.28.49:505][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.03.06-10.28.49:547][ 56]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-10.28.49:547][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-10.28.49:865][ 56]LogSlate: Window 'PaperWind - Unreal Editor' being destroyed
+[2022.03.06-10.28.50:332][ 57]Cmd: QUIT_EDITOR
+[2022.03.06-10.28.50:332][ 57]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.03.06-10.28.50:514][ 57]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.03.06-10.28.51:342][ 57]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.03.06-10.28.51:342][ 57]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.03.06-10.28.51:342][ 57]LogAudio: Display: Audio Device unregistered from world 'Main_Level_Test'.
+[2022.03.06-10.28.51:342][ 57]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-10.28.51:344][ 57]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-10.28.51:390][ 57]LogAudio: Display: Audio Device Manager Shutdown
+[2022.03.06-10.28.51:436][ 57]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.06-10.28.51:450][ 57]LogExit: Preparing to exit.
+[2022.03.06-10.28.51:774][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.03.06-10.28.52:665][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:665][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:665][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:665][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:665][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:665][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:665][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:665][ 57]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-10.28.52:667][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:667][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:667][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:667][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:668][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:668][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:668][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:668][ 57]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-10.28.52:670][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:670][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:670][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:670][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:670][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:670][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:670][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:670][ 57]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-10.28.52:672][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:672][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:672][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:672][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:672][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:672][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:672][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:672][ 57]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-10.28.52:675][ 57]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-10.28.52:677][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:677][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:677][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:677][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:677][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:677][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:677][ 57]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.03.06-10.28.52:677][ 57]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-10.28.52:959][ 57]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.03.06-10.28.53:420][ 57]LogExit: Editor shut down
+[2022.03.06-10.28.53:422][ 57]LogExit: Transaction tracking system shut down
+[2022.03.06-10.28.57:846][ 57]LogExit: Object subsystem successfully closed.
+[2022.03.06-10.28.57:864][ 57]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-10.28.57:864][ 57]LogShaderCompilers: Display: Total job queries 4704, among them cache hits 3974 (84.48%)
+[2022.03.06-10.28.57:864][ 57]LogShaderCompilers: Display: Tracking 509 distinct input hashes that result in 218 distinct outputs (42.83%)
+[2022.03.06-10.28.57:864][ 57]LogShaderCompilers: Display: RAM used: 1.12 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.14%
+[2022.03.06-10.28.57:864][ 57]LogShaderCompilers: Display: ================================================
+[2022.03.06-10.28.58:479][ 57]LogShaderCompilers: Display: Shaders left to compile 0
