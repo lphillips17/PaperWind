@@ -4485,3 +4485,644 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.06-08.49.39:972][315]AssetCheck: New page: Asset Save: multiple assets
 [2022.03.06-08.49.39:972][315]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Lachlans_Work/Maps/Main_Level_Test_BuiltData.Main_Level_Test_BuiltData
 [2022.03.06-08.49.39:972][315]LogContentValidation: Display: Validating World /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test
+[2022.03.06-08.51.18:235][115]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force.Paper_Ball_Set_Force
+[2022.03.06-08.51.29:259][ 82]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::DrawDebugArrow' [The specified module could not be found.]
+[2022.03.06-08.53.46:261][620]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.06-08.53.46:325][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.03.06-08.53.52:011][286]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::DrawDebugArrow' [The specified module could not be found.]
+[2022.03.06-08.59.40:133][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.03.06-08.59.40:206][ 96]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test_Auto5454187C148D1AF63701121A3838CB82F.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Lachlans_Work/Maps/Main_Level_Test_Auto5.umap'
+[2022.03.06-08.59.40:211][ 96]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lachlans_Work/Maps/Main_Level_Test' took 0.105
+[2022.03.06-08.59.40:211][ 96]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.105
+[2022.03.06-08.59.40:212][ 96]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force] ([2] browsable assets)...
+[2022.03.06-08.59.40:222][ 96]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force.Paper_Ball_Set_Force]
+[2022.03.06-08.59.40:222][ 96]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force]
+[2022.03.06-08.59.40:266][ 96]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Paper_Ball_Set_Force_Auto58DCA679946E0269BA2C2EAA75874B5C2.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force_Auto5.uasset'
+[2022.03.06-08.59.40:268][ 96]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Michaels_Work/Materials/M_Bin_Glow] ([1] browsable assets)...
+[2022.03.06-08.59.40:283][ 96]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Michaels_Work/Materials/M_Bin_Glow.M_Bin_Glow]
+[2022.03.06-08.59.40:283][ 96]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Materials/M_Bin_Glow]
+[2022.03.06-08.59.40:296][ 96]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/M_Bin_Glow_Auto5194AFF10425BFBF195BDEFAA9163445A.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Materials/M_Bin_Glow_Auto5.uasset'
+[2022.03.06-08.59.40:297][ 96]LogFileHelpers: Auto-saving content packages took 0.085
+[2022.03.06-09.53.24:736][610]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.06-09.53.24:752][610]LogBlueprint: Error: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Paper_Ball_Set_Force.uasset: [Compiler] This blueprint (self) is not a ParticleSystemComponent, therefore ' Target ' must have a connection.
+[2022.03.06-09.53.24:752][610]LogBlueprint: Error: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Paper_Ball_Set_Force.uasset: [Compiler] This blueprint (self) is not a ParticleSystemComponent, therefore ' Target ' must have a connection.
+[2022.03.06-09.53.24:839][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.03.06-09.54.24:220][695]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.03.06-09.54.24:289][695]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test_Auto63E4A7BE44A549152517BB8BE87F2B887.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Lachlans_Work/Maps/Main_Level_Test_Auto6.umap'
+[2022.03.06-09.54.24:310][695]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lachlans_Work/Maps/Main_Level_Test' took 0.113
+[2022.03.06-09.54.24:310][695]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.113
+[2022.03.06-09.54.24:311][695]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force] ([2] browsable assets)...
+[2022.03.06-09.54.24:319][695]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force.Paper_Ball_Set_Force]
+[2022.03.06-09.54.24:319][695]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force]
+[2022.03.06-09.54.24:357][695]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Paper_Ball_Set_Force_Auto6CBCA6FC146C4596646E29286BFFE6116.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force_Auto6.uasset'
+[2022.03.06-09.54.24:358][695]LogFileHelpers: Auto-saving content packages took 0.048
+[2022.03.06-09.58.24:921][853]LogEditorTransaction: Undo Delete current selection
+[2022.03.06-09.58.24:954][853]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 04CFEF807C0011983BE7FCB199A1CC12847D5725), compiling. 
+[2022.03.06-09.58.24:967][853]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-09.58.24:967][853]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-09.58.25:248][867]LogEditorTransaction: Undo Delete current selection
+[2022.03.06-09.58.25:279][867]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 13D63FBFF5412C4D9E72D5124FC0660CA8C27D61), compiling. 
+[2022.03.06-09.58.25:469][876]LogEditorTransaction: Undo Move Node
+[2022.03.06-09.58.25:491][876]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: E87909C3D6C8FE54E677A5550E7FB7A0E664DEB1), compiling. 
+[2022.03.06-09.58.25:874][911]LogEditorTransaction: Undo Move Node
+[2022.03.06-09.58.25:902][911]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: BE2687D60C2A4EB955E11BF4139C7F58693D4921), compiling. 
+[2022.03.06-09.58.26:342][954]LogEditorTransaction: Undo Move Node
+[2022.03.06-09.58.26:364][954]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 7E63F1347AFEDA11FD294AF1CA712DA740D36564), compiling. 
+[2022.03.06-09.58.26:724][988]LogEditorTransaction: Undo Move Node
+[2022.03.06-09.58.26:745][988]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: C2CEE2278823C56FB2AEF176480782C7B265418D), compiling. 
+[2022.03.06-09.58.27:137][ 25]LogEditorTransaction: Undo Break Pin Links
+[2022.03.06-09.58.27:158][ 25]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 623CA8250D6B226EDD5E267C94BFA083EABF0FBB), compiling. 
+[2022.03.06-09.58.27:353][ 40]LogEditorTransaction: Undo Create Pin Link
+[2022.03.06-09.58.27:375][ 40]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 4D344ABFB5A8F6FC2A2CA65FCC45DD8946609890), compiling. 
+[2022.03.06-09.58.27:555][ 54]LogEditorTransaction: Undo Add Node
+[2022.03.06-09.58.27:576][ 54]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 57A019F6EA5451493562E7D9435E05168E41B74E), compiling. 
+[2022.03.06-09.58.27:891][ 83]LogEditorTransaction: Undo Create Pin Link
+[2022.03.06-09.58.27:912][ 83]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 1B3EB30AE98439D0B6F1360AC2739FD918073F97), compiling. 
+[2022.03.06-09.58.28:283][118]LogEditorTransaction: Undo Break Pin Links
+[2022.03.06-09.58.28:311][118]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: C8118BBCD4CEAE338D9A00A070358C8148B57E66), compiling. 
+[2022.03.06-09.58.28:544][139]LogEditorTransaction: Undo Add Node
+[2022.03.06-09.58.28:565][139]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 9407DC1A7429B76A8271B593B9F21039B7CBD344), compiling. 
+[2022.03.06-09.58.29:039][188]LogEditorTransaction: Undo Break Pin Links
+[2022.03.06-09.58.29:059][188]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 277CB333CAC95266ADAAF8B3FD923A4CE653DCA6), compiling. 
+[2022.03.06-09.58.29:527][235]LogEditorTransaction: Undo Create Pin Link
+[2022.03.06-09.58.29:547][235]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: EB03CBE9E796F1E914B8710F3B4F8EF003E7406A), compiling. 
+[2022.03.06-09.58.29:935][272]LogEditorTransaction: Undo Move Node
+[2022.03.06-09.58.29:955][272]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: DA0CFD87DF34BECE6084E1E8DE8330D48257C947), compiling. 
+[2022.03.06-09.59.15:503][195]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.06-10.03.14:881][500]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.03.06-10.03.15:317][500]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.435 s
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: === Handled ensure: ===
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: 
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:/Build/++UE4/Sync/Engine/Source/Editor/GraphEditor/Private/SGraphPin.cpp] [Line: 821]
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: The Graph Pin Object has been invalidated. Someone is keeping a hard ref on the SGraphPin (SGraphPinKnot [SGraphNodeKnot.cpp(406)]). See InvalidateGraphData for more info
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: Stack: 
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbb41a476b UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbb40512db UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbb404ff58 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbb405d0bc UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbb40d879c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbb40d5c7f UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc82eb559 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc82eb3e4 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c4adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc82ed800 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc82ed800 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c4adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc82eb3e4 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c4adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc82ed800 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c4adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c4adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c7787 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc75dbe74 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc76c7a1c UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc80c1bee UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc80f2779 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.06-10.03.15:317][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc80c2547 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.06-10.03.15:318][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc8118279 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.06-10.03.15:318][500]LogOutputDevice: Error: [Callstack] 0x00007ffbc8117a73 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.06-10.03.15:318][500]LogOutputDevice: Error: [Callstack] 0x00007ff7dd139a1f UE4Editor.exe!UnknownFunction []
+[2022.03.06-10.03.15:318][500]LogOutputDevice: Error: [Callstack] 0x00007ff7dd150fcc UE4Editor.exe!UnknownFunction []
+[2022.03.06-10.03.15:318][500]LogOutputDevice: Error: [Callstack] 0x00007ff7dd1510ba UE4Editor.exe!UnknownFunction []
+[2022.03.06-10.03.15:318][500]LogOutputDevice: Error: [Callstack] 0x00007ff7dd1540dd UE4Editor.exe!UnknownFunction []
+[2022.03.06-10.03.15:318][500]LogOutputDevice: Error: [Callstack] 0x00007ff7dd165984 UE4Editor.exe!UnknownFunction []
+[2022.03.06-10.03.15:318][500]LogOutputDevice: Error: [Callstack] 0x00007ff7dd16853a UE4Editor.exe!UnknownFunction []
+[2022.03.06-10.03.15:318][500]LogOutputDevice: Error: [Callstack] 0x00007ffc03bf7034 KERNEL32.DLL!UnknownFunction []
+[2022.03.06-10.03.15:318][500]LogOutputDevice: Error: [Callstack] 0x00007ffc059c2651 ntdll.dll!UnknownFunction []
+[2022.03.06-10.03.15:318][500]LogOutputDevice: Error: 
+[2022.03.06-10.03.15:326][500]LogStats:                SubmitErrorReport -  0.000 s
+[2022.03.06-10.03.24:859][500]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\core_api\platforms\win\src\fmod_output_wasapi.cpp(577) - Starvation detected in WASAPI output buffer!
+
+[2022.03.06-10.03.24:859][500]LogStats:                    SendNewReport -  9.534 s
+[2022.03.06-10.03.24:859][500]LogStats:             FDebug::EnsureFailed -  9.978 s
+[2022.03.06-10.03.24:860][501]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\core_api\platforms\win\src\fmod_output_wasapi.cpp(577) - Starvation detected in WASAPI output buffer!
+
+[2022.03.06-10.03.25:746][501]LogAudioMixer: Resetting audio stream to device id 
+[2022.03.06-10.03.25:759][501]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.06-10.03.25:759][501]LogAudioMixer: Display: 1: FrontRight
+[2022.03.06-10.04.49:926][421]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.06-10.04.50:002][421]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.03.06-10.04.52:860][647]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.06-10.04.52:910][647]LogFMOD: Default sample rate = 48000
+[2022.03.06-10.04.52:910][647]LogFMOD: System sample rate = 48000
+[2022.03.06-10.04.52:910][647]LogFMOD: Matching system sample rate 48000
+[2022.03.06-10.04.52:929][647]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.06-10.04.52:974][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.06-10.04.52:974][647]PIE: New page: PIE session: Main_Level_Test (7 Mar 2022, 8:04:52 am)
+[2022.03.06-10.04.53:013][647]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-10.04.53:023][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010221s)
+[2022.03.06-10.04.53:024][647]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.06-10.04.53:024][647]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2022.03.06-10.04.53:024][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.011358s)
+[2022.03.06-10.04.53:045][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.03.06-10.04.53:047][647]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.03.06-10.04.53:047][647]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.06-10.04.53:047][647]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.06-10.04.53:047][647]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.06-10.04.53:047][647]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.06-10.04.53:047][647]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.06-10.04.53:047][647]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.06-10.04.53:047][647]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.06-10.04.53:047][647]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.06-10.04.53:047][647]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.06-10.04.53:047][647]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.06-10.04.53:047][647]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.06-10.04.53:047][647]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.06-10.04.53:054][647]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.06-10.04.53:054][647]LogAudioMixer: Display: 1: FrontRight
+[2022.03.06-10.04.53:066][647]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.06-10.04.53:066][647]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.06-10.04.53:066][647]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.06-10.04.53:066][647]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.06-10.04.53:067][647]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.06-10.04.53:067][647]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.06-10.04.53:067][647]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.06-10.04.53:068][647]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.06-10.04.53:068][647]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.06-10.04.53:068][647]LogInit: FAudioDevice initialized.
+[2022.03.06-10.04.53:068][647]LogAudio: Display: Audio Device (ID: 23) registered with world 'Main_Level_Test'.
+[2022.03.06-10.04.53:080][647]LogLoad: Game class is 'Main_GM_C'
+[2022.03.06-10.04.53:086][647]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.06-21.04.53
+[2022.03.06-10.04.53:086][647]LogWorld: Bringing up level for play took: 0.004998
+[2022.03.06-10.04.53:086][647]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2022.03.06-10.04.53:089][647]PIE: Server logged in
+[2022.03.06-10.04.53:090][647]PIE: Play in editor total start time 0.223 seconds.
+[2022.03.06-10.04.59:574][ 39]LogNet: Browse: /Game/Lachlans_Work/Maps/Main_Level_Test
+[2022.03.06-10.04.59:574][ 39]LogLoad: LoadMap: /Game/Lachlans_Work/Maps/Main_Level_Test
+[2022.03.06-10.04.59:574][ 39]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-10.04.59:575][ 39]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-10.04.59:576][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-10.04.59:599][ 39]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.06-10.04.59:623][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.03.06-10.04.59:636][ 39]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-10.04.59:647][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010545s)
+[2022.03.06-10.04.59:648][ 39]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.06-10.04.59:648][ 39]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2022.03.06-10.04.59:648][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.011639s)
+[2022.03.06-10.04.59:648][ 39]LogAudio: Display: Audio Device (ID: 23) registered with world 'Main_Level_Test'.
+[2022.03.06-10.04.59:648][ 39]LogLoad: Game class is 'Main_GM_C'
+[2022.03.06-10.04.59:651][ 39]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.06-21.04.59
+[2022.03.06-10.04.59:651][ 39]LogWorld: Bringing up level for play took: 0.002297
+[2022.03.06-10.04.59:652][ 39]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.06-10.04.59:652][ 39]LogLoad: Took 0.077703 seconds to LoadMap(/Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test)
+[2022.03.06-10.05.02:229][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-10.05.02:229][320]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-10.05.02:229][320]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-10.05.02:230][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-10.05.02:247][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.06-10.05.02:258][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-10.05.02:276][320]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.06-10.05.02:277][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-10.05.02:277][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-10.05.02:280][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-10.05.02:284][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.03.06-10.05.02:304][321]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2022.03.06-10.05.23:882][580]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.06-10.05.23:949][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.03.06-10.05.26:021][741]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.06-10.05.26:071][741]LogFMOD: Default sample rate = 48000
+[2022.03.06-10.05.26:071][741]LogFMOD: System sample rate = 48000
+[2022.03.06-10.05.26:071][741]LogFMOD: Matching system sample rate 48000
+[2022.03.06-10.05.26:089][741]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.06-10.05.26:134][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.06-10.05.26:134][741]PIE: New page: PIE session: Main_Level_Test (7 Mar 2022, 8:05:26 am)
+[2022.03.06-10.05.26:134][741]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-10.05.26:147][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012500s)
+[2022.03.06-10.05.26:147][741]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.06-10.05.26:148][741]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2022.03.06-10.05.26:148][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.013492s)
+[2022.03.06-10.05.26:168][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.03.06-10.05.26:169][741]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.03.06-10.05.26:169][741]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.06-10.05.26:169][741]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.06-10.05.26:169][741]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.06-10.05.26:169][741]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.06-10.05.26:169][741]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.06-10.05.26:169][741]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.06-10.05.26:169][741]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.06-10.05.26:169][741]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.06-10.05.26:170][741]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.06-10.05.26:170][741]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.06-10.05.26:170][741]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.06-10.05.26:170][741]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.06-10.05.26:177][741]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.06-10.05.26:177][741]LogAudioMixer: Display: 1: FrontRight
+[2022.03.06-10.05.26:188][741]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.06-10.05.26:189][741]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.06-10.05.26:189][741]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.06-10.05.26:189][741]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.06-10.05.26:189][741]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.06-10.05.26:189][741]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.06-10.05.26:189][741]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.06-10.05.26:190][741]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.06-10.05.26:190][741]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.06-10.05.26:190][741]LogInit: FAudioDevice initialized.
+[2022.03.06-10.05.26:190][741]LogAudio: Display: Audio Device (ID: 24) registered with world 'Main_Level_Test'.
+[2022.03.06-10.05.26:195][741]LogLoad: Game class is 'Main_GM_C'
+[2022.03.06-10.05.26:201][741]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.06-21.05.26
+[2022.03.06-10.05.26:201][741]LogWorld: Bringing up level for play took: 0.004870
+[2022.03.06-10.05.26:201][741]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2022.03.06-10.05.26:203][741]PIE: Server logged in
+[2022.03.06-10.05.26:204][741]PIE: Play in editor total start time 0.175 seconds.
+[2022.03.06-10.05.33:838][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-10.05.33:838][129]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-10.05.33:838][129]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-10.05.33:839][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-10.05.33:856][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.06-10.05.33:867][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-10.05.33:886][129]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.06-10.05.33:886][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-10.05.33:887][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-10.05.33:891][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-10.05.33:897][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.03.06-10.05.33:942][130]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.03.06-10.05.50:935][818]LogEditorTransaction: Undo Break Pin Links
+[2022.03.06-10.05.50:957][818]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 89BD85FE7230FF97664F4552691BDF28DDC23F79), compiling. 
+[2022.03.06-10.05.51:205][831]LogEditorTransaction: Undo Create Pin Link
+[2022.03.06-10.05.51:226][831]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: FC4F9BB26DE08FD44099E15F39AE5B5C29AEA58E), compiling. 
+[2022.03.06-10.05.51:413][839]LogEditorTransaction: Undo Create Pin Link
+[2022.03.06-10.05.51:442][839]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: D499DBFAE1BAC8EDF7C49EC3FD7AB4D4A8B5078C), compiling. 
+[2022.03.06-10.05.51:799][875]LogEditorTransaction: Undo Break Pin Links
+[2022.03.06-10.05.51:831][875]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 1CE6D33458524362EECBA3C4F694C11D068B65CB), compiling. 
+[2022.03.06-10.05.52:029][893]LogEditorTransaction: Undo Create Pin Link
+[2022.03.06-10.05.52:051][893]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 7674170F74C018201DFC1AAD9B96E6152DAD81DA), compiling. 
+[2022.03.06-10.05.52:235][910]LogEditorTransaction: Undo Move Node
+[2022.03.06-10.05.52:265][910]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 960F12DE7FAE06EDA80CBB08C775EFD1A7368D59), compiling. 
+[2022.03.06-10.05.52:512][934]LogEditorTransaction: Undo Create Pin Link
+[2022.03.06-10.05.52:534][934]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: F31F3190F1417574D950EB105807C8D6B0621A62), compiling. 
+[2022.03.06-10.05.52:735][953]LogEditorTransaction: Undo Break Pin Links
+[2022.03.06-10.05.52:766][953]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 047F6B90CFE2A54F12877ECABE167F7F7423C626), compiling. 
+[2022.03.06-10.05.52:928][967]LogEditorTransaction: Undo Break Pin Links
+[2022.03.06-10.05.52:950][967]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 80B173E0E102C6E0EBD6E7C8A75E45190A4C56AB), compiling. 
+[2022.03.06-10.05.53:216][994]LogEditorTransaction: Undo Create Pin Link
+[2022.03.06-10.05.53:245][994]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 303866F3335997607E032EC759E8E60CDDB9CA1A), compiling. 
+[2022.03.06-10.05.53:502][ 19]LogEditorTransaction: Undo Break Pin Links
+[2022.03.06-10.05.53:524][ 19]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 75E64882EB1648D2A62753AF934D936719D8E6E8), compiling. 
+[2022.03.06-10.05.53:761][ 42]LogEditorTransaction: Undo Create Pin Link
+[2022.03.06-10.05.53:783][ 42]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: B9D005183ACF588A32F23528D754BB5F081D5E77), compiling. 
+[2022.03.06-10.05.54:137][ 79]LogEditorTransaction: Undo Break Pin Links
+[2022.03.06-10.05.54:159][ 79]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 748FD61D7F1D2B3E0227A9006265584BB7EC28B6), compiling. 
+[2022.03.06-10.05.54:436][107]LogEditorTransaction: Undo Delete current selection
+[2022.03.06-10.05.54:459][107]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 11564E793C4A51AEA3FF8FC472D44E4A3000AA15), compiling. 
+[2022.03.06-10.05.54:831][145]LogEditorTransaction: Undo Create Reroute Node
+[2022.03.06-10.05.54:860][145]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: C552846050823D753C57ED7CE0A9F4B4E3354B6A), compiling. 
+[2022.03.06-10.05.55:070][164]LogEditorTransaction: Undo Create Pin Link
+[2022.03.06-10.05.55:092][164]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 3597EA70AF2676E2927C9FB8BFE5EE89324886A8), compiling. 
+[2022.03.06-10.05.55:461][202]LogEditorTransaction: Undo Create Pin Link
+[2022.03.06-10.05.55:484][202]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: B3458B5C9F4D920107132B6D6C36C54FE01D19ED), compiling. 
+[2022.03.06-10.05.55:925][250]LogEditorTransaction: Undo Break Pin Links
+[2022.03.06-10.05.55:955][250]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: DDB072EBD60ABE7FB409669314D6075FBBEEDD99), compiling. 
+[2022.03.06-10.05.56:157][269]LogEditorTransaction: Undo Create Pin Link
+[2022.03.06-10.05.56:180][269]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 5E32F20C23C54112C05B5CA96203513889F8FD9E), compiling. 
+[2022.03.06-10.05.56:475][299]LogEditorTransaction: Undo Move Node
+[2022.03.06-10.05.56:505][299]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 41DCA88CECF285561C3145E9F51E0156B136004C), compiling. 
+[2022.03.06-10.05.56:683][315]LogEditorTransaction: Undo Add Node
+[2022.03.06-10.05.56:705][315]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 60588C815D597E84EB0000523960F2DD6BAD6C43), compiling. 
+[2022.03.06-10.05.57:149][363]LogEditorTransaction: Undo Move Node
+[2022.03.06-10.05.57:178][363]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 83032AA57F6F3C8E77E2792CC4151956049904B8), compiling. 
+[2022.03.06-10.05.57:450][390]LogEditorTransaction: Undo Create Pin Link
+[2022.03.06-10.05.57:479][390]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: F6DD9C3C388EEA2DE476A3455C8F8C229FCDDE5F), compiling. 
+[2022.03.06-10.05.57:812][425]LogEditorTransaction: Undo Move Node
+[2022.03.06-10.05.57:841][425]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: A7A09F4516DCA20E5D463837D86C3DFDD5057515), compiling. 
+[2022.03.06-10.05.58:226][466]LogEditorTransaction: Undo Add Node
+[2022.03.06-10.05.58:248][466]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 93D9839D0C355959969D46A72793234F3F80C1A3), compiling. 
+[2022.03.06-10.05.58:756][522]LogEditorTransaction: Undo Add Node
+[2022.03.06-10.05.58:785][522]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 6855B8D6E3A9503C491E74592BB0192E9A634D6B), compiling. 
+[2022.03.06-10.05.59:549][609]LogEditorTransaction: Undo Move Node
+[2022.03.06-10.05.59:577][609]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 6FE22DBF803165DEFD0632784204720F4195DA25), compiling. 
+[2022.03.06-10.06.00:061][662]LogEditorTransaction: Undo Change Class Pin Value
+[2022.03.06-10.06.00:083][662]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 5BBA1F731C4D4DF5C57BF871C1EBFB438D20E837), compiling. 
+[2022.03.06-10.06.00:583][716]LogEditorTransaction: Undo Move Node
+[2022.03.06-10.06.00:606][716]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 80B1D2180654DF0C6B16311DB8D5025BDA5D1F09), compiling. 
+[2022.03.06-10.06.01:250][783]LogEditorTransaction: Undo Add Node
+[2022.03.06-10.06.01:272][783]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 923870EAB304ABCD825885EB0C79E8FA56EBFE94), compiling. 
+[2022.03.06-10.06.03:668][ 31]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.06-10.06.03:740][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.03.06-10.06.04:347][ 77]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Paper_Ball_Set_ForceAEAB0FE64C6C576BF78BA7B632BE1C36.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Paper_Ball_Set_Force.uasset'
+[2022.03.06-10.06.04:368][ 77]AssetCheck: New page: Asset Save: Paper_Ball_Set_Force
+[2022.03.06-10.06.04:368][ 77]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force.Paper_Ball_Set_Force
+[2022.03.06-10.06.35:483][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.03.06-10.06.35:552][943]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test_Auto7F5D676AD4E925F6052D36BAC2CA7B98B.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Lachlans_Work/Maps/Main_Level_Test_Auto7.umap'
+[2022.03.06-10.06.35:557][943]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lachlans_Work/Maps/Main_Level_Test' took 0.096
+[2022.03.06-10.06.35:557][943]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.096
+[2022.03.06-10.11.26:219][988]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.06-10.11.26:228][988]LogBlueprint: Error: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Paper_Ball_Set_Force.uasset: [Compiler] This blueprint (self) is not a Canvas, therefore ' Target ' must have a connection.
+[2022.03.06-10.11.26:278][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.03.06-10.11.40:551][504]LogEditorTransaction: Undo Break Pin Links
+[2022.03.06-10.11.40:572][504]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 94CF6E6F32B749069C7B91DBAAEBC8103FA7556B), compiling. 
+[2022.03.06-10.11.40:783][514]LogEditorTransaction: Undo Break Pin Links
+[2022.03.06-10.11.40:814][514]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 28D35D7377306C3D266A34195457C7A0F85DDF2D), compiling. 
+[2022.03.06-10.11.41:070][525]LogEditorTransaction: Undo Create Pin Link
+[2022.03.06-10.11.41:091][525]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 279D96765BD6E35166464B1E11093026A94194FF), compiling. 
+[2022.03.06-10.11.41:410][556]LogEditorTransaction: Undo Create Pin Link
+[2022.03.06-10.11.41:439][556]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 1F4578FB894B2772B583135705975D3F2634F80A), compiling. 
+[2022.03.06-10.11.41:727][583]LogEditorTransaction: Undo Move Node
+[2022.03.06-10.11.41:749][583]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: B64F920F7B31634E0F4D787B0BBB8EA206DDD07E), compiling. 
+[2022.03.06-10.11.42:077][614]LogEditorTransaction: Undo Break Pin Links
+[2022.03.06-10.11.42:107][614]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: BDD3FC3EB68501605288C4C51BD3E3779840FFF7), compiling. 
+[2022.03.06-10.11.42:512][655]LogEditorTransaction: Undo Break Pin Links
+[2022.03.06-10.11.42:544][655]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 111C26CA40EA7AE996330058BFE9DD9ECF2ACCE4), compiling. 
+[2022.03.06-10.11.42:851][685]LogEditorTransaction: Undo Create Pin Link
+[2022.03.06-10.11.42:874][685]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 996E43FC8A1677EA3B37B8B27944577F45457E8D), compiling. 
+[2022.03.06-10.11.43:254][722]LogEditorTransaction: Undo Move Node
+[2022.03.06-10.11.43:283][722]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: FBEFDDF8F6F0930ABEA13AE0C83E4A7F50427C6C), compiling. 
+[2022.03.06-10.11.43:954][793]LogEditorTransaction: Undo Create Pin Link
+[2022.03.06-10.11.43:975][793]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 5782B3118E8ABD5A53BC8D8D11485B0363E78982), compiling. 
+[2022.03.06-10.11.44:396][836]LogEditorTransaction: Undo Move Node
+[2022.03.06-10.11.44:425][836]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: B086F2A5463F9C59E4249989798FC3B70487B87C), compiling. 
+[2022.03.06-10.11.45:000][896]LogEditorTransaction: Undo Move Node
+[2022.03.06-10.11.45:021][896]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: AE5B91426CEF34F080D5DDBA6A0566B4867B75CA), compiling. 
+[2022.03.06-10.11.45:632][960]LogEditorTransaction: Undo Add Node
+[2022.03.06-10.11.45:661][960]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: B1C4989895052C2FEBE50372C041AABC67220C70), compiling. 
+[2022.03.06-10.13.14:139][485]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.06-10.13.14:155][485]LogBlueprint: Error: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Paper_Ball_Set_Force.uasset: [Compiler] The current value of the ' Context ' pin is invalid: 'Context' in action 'Draw Line' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.03.06-10.13.14:205][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.03.06-10.16.18:430][996]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.06-10.16.18:485][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.03.06-10.16.20:457][141]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.06-10.16.20:511][141]LogFMOD: Default sample rate = 48000
+[2022.03.06-10.16.20:511][141]LogFMOD: System sample rate = 48000
+[2022.03.06-10.16.20:511][141]LogFMOD: Matching system sample rate 48000
+[2022.03.06-10.16.20:529][141]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.06-10.16.20:573][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.06-10.16.20:573][141]PIE: New page: PIE session: Main_Level_Test (7 Mar 2022, 8:16:20 am)
+[2022.03.06-10.16.20:573][141]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-10.16.20:583][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009944s)
+[2022.03.06-10.16.20:584][141]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.06-10.16.20:584][141]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2022.03.06-10.16.20:584][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.011062s)
+[2022.03.06-10.16.20:604][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.03.06-10.16.20:605][141]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.03.06-10.16.20:605][141]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.06-10.16.20:605][141]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.06-10.16.20:605][141]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.06-10.16.20:605][141]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.06-10.16.20:605][141]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.06-10.16.20:605][141]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.06-10.16.20:605][141]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.06-10.16.20:605][141]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.06-10.16.20:606][141]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.06-10.16.20:606][141]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.06-10.16.20:606][141]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.06-10.16.20:606][141]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.06-10.16.20:613][141]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.06-10.16.20:613][141]LogAudioMixer: Display: 1: FrontRight
+[2022.03.06-10.16.20:624][141]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.06-10.16.20:624][141]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.06-10.16.20:625][141]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.06-10.16.20:625][141]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.06-10.16.20:625][141]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.06-10.16.20:625][141]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.06-10.16.20:625][141]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.06-10.16.20:626][141]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.06-10.16.20:626][141]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.06-10.16.20:626][141]LogInit: FAudioDevice initialized.
+[2022.03.06-10.16.20:626][141]LogAudio: Display: Audio Device (ID: 25) registered with world 'Main_Level_Test'.
+[2022.03.06-10.16.20:633][141]LogLoad: Game class is 'Main_GM_C'
+[2022.03.06-10.16.20:639][141]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.06-21.16.20
+[2022.03.06-10.16.20:639][141]LogWorld: Bringing up level for play took: 0.004643
+[2022.03.06-10.16.20:639][141]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2022.03.06-10.16.20:641][141]PIE: Server logged in
+[2022.03.06-10.16.20:642][141]PIE: Play in editor total start time 0.178 seconds.
+[2022.03.06-10.16.33:088][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-10.16.33:088][485]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-10.16.33:088][485]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-10.16.33:089][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-10.16.33:104][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.06-10.16.33:114][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-10.16.33:133][485]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.06-10.16.33:133][485]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-10.16.33:134][485]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-10.16.33:138][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-10.16.33:142][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.03.06-10.16.33:163][486]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2022.03.06-10.16.34:170][534]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.06-10.16.34:211][534]LogFMOD: Default sample rate = 48000
+[2022.03.06-10.16.34:211][534]LogFMOD: System sample rate = 48000
+[2022.03.06-10.16.34:211][534]LogFMOD: Matching system sample rate 48000
+[2022.03.06-10.16.34:229][534]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.06-10.16.34:275][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.06-10.16.34:275][534]PIE: New page: PIE session: Main_Level_Test (7 Mar 2022, 8:16:34 am)
+[2022.03.06-10.16.34:275][534]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-10.16.34:285][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010097s)
+[2022.03.06-10.16.34:286][534]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.06-10.16.34:286][534]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2022.03.06-10.16.34:286][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.011109s)
+[2022.03.06-10.16.34:306][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.03.06-10.16.34:308][534]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.03.06-10.16.34:308][534]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.06-10.16.34:308][534]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.06-10.16.34:308][534]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.06-10.16.34:308][534]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.06-10.16.34:308][534]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.06-10.16.34:308][534]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.06-10.16.34:308][534]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.06-10.16.34:308][534]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.06-10.16.34:308][534]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.06-10.16.34:308][534]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.06-10.16.34:308][534]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.06-10.16.34:308][534]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.06-10.16.34:315][534]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.06-10.16.34:315][534]LogAudioMixer: Display: 1: FrontRight
+[2022.03.06-10.16.34:327][534]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.06-10.16.34:327][534]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.06-10.16.34:327][534]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.06-10.16.34:327][534]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.06-10.16.34:327][534]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.06-10.16.34:328][534]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.06-10.16.34:328][534]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.06-10.16.34:329][534]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.06-10.16.34:329][534]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.06-10.16.34:329][534]LogInit: FAudioDevice initialized.
+[2022.03.06-10.16.34:329][534]LogAudio: Display: Audio Device (ID: 26) registered with world 'Main_Level_Test'.
+[2022.03.06-10.16.34:340][534]LogLoad: Game class is 'Main_GM_C'
+[2022.03.06-10.16.34:344][534]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.06-21.16.34
+[2022.03.06-10.16.34:345][534]LogWorld: Bringing up level for play took: 0.004226
+[2022.03.06-10.16.34:345][534]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2022.03.06-10.16.34:347][534]PIE: Server logged in
+[2022.03.06-10.16.34:348][534]PIE: Play in editor total start time 0.17 seconds.
+[2022.03.06-10.16.52:528][578]LogNet: Browse: /Game/Lachlans_Work/Maps/Main_Level_Test
+[2022.03.06-10.16.52:528][578]LogLoad: LoadMap: /Game/Lachlans_Work/Maps/Main_Level_Test
+[2022.03.06-10.16.52:528][578]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-10.16.52:529][578]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-10.16.52:530][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-10.16.52:580][578]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.06-10.16.52:584][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.03.06-10.16.52:589][578]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-10.16.52:599][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009985s)
+[2022.03.06-10.16.52:600][578]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.06-10.16.52:600][578]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2022.03.06-10.16.52:600][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.010997s)
+[2022.03.06-10.16.52:600][578]LogAudio: Display: Audio Device (ID: 26) registered with world 'Main_Level_Test'.
+[2022.03.06-10.16.52:600][578]LogLoad: Game class is 'Main_GM_C'
+[2022.03.06-10.16.52:603][578]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.06-21.16.52
+[2022.03.06-10.16.52:603][578]LogWorld: Bringing up level for play took: 0.002714
+[2022.03.06-10.16.52:604][578]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.06-10.16.52:605][578]LogLoad: Took 0.076140 seconds to LoadMap(/Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test)
+[2022.03.06-10.17.03:928][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-10.17.03:928][874]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-10.17.03:929][874]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-10.17.03:929][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-10.17.03:938][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.06-10.17.03:949][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-10.17.03:966][874]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.06-10.17.03:967][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-10.17.03:968][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-10.17.03:971][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-10.17.03:975][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.03.06-10.17.03:999][875]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.03.06-10.17.28:810][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.03.06-10.17.28:879][ 37]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test_Auto808205A4445621D58C9CD1A8B774E3E11.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Lachlans_Work/Maps/Main_Level_Test_Auto8.umap'
+[2022.03.06-10.17.28:883][ 37]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lachlans_Work/Maps/Main_Level_Test' took 0.093
+[2022.03.06-10.17.28:883][ 37]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.093
+[2022.03.06-10.17.28:884][ 37]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force] ([4] browsable assets)...
+[2022.03.06-10.17.28:897][ 37]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force.Paper_Ball_Set_Force]
+[2022.03.06-10.17.28:904][ 37]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force.Paper_Ball_Set_Force]
+[2022.03.06-10.17.28:905][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force]
+[2022.03.06-10.17.28:948][ 37]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Paper_Ball_Set_Force_Auto839333ED44A2BC7A46FACCD98F91F62EE.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force_Auto8.uasset'
+[2022.03.06-10.17.28:949][ 37]LogFileHelpers: Auto-saving content packages took 0.065
+[2022.03.06-10.17.40:239][ 73]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-10.17.40:240][ 73]LogShaderCompilers: Display: Total job queries 4680, among them cache hits 3950 (84.40%)
+[2022.03.06-10.17.40:240][ 73]LogShaderCompilers: Display: Tracking 509 distinct input hashes that result in 218 distinct outputs (42.83%)
+[2022.03.06-10.17.40:240][ 73]LogShaderCompilers: Display: RAM used: 1.12 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.14%
+[2022.03.06-10.17.40:240][ 73]LogShaderCompilers: Display: ================================================
+[2022.03.06-10.17.40:249][ 74]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-10.17.40:249][ 74]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-10.17.44:445][544]LogEditorTransaction: Undo Create Pin Link
+[2022.03.06-10.17.44:461][544]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: F78D354D33A76679242E84544821D24FA88C2178), compiling. 
+[2022.03.06-10.17.44:478][544]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-10.17.44:478][544]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-10.17.44:665][553]LogEditorTransaction: Undo Add Node
+[2022.03.06-10.17.44:693][553]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: E8AB771A6C5CCD3D93CB7874F81EE090DDFE9AD8), compiling. 
+[2022.03.06-10.17.44:845][559]LogEditorTransaction: Undo Move Node
+[2022.03.06-10.17.44:867][559]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: B7A73B2DECA0F959442C812052A132E4EA2C2DE9), compiling. 
+[2022.03.06-10.17.45:139][583]LogEditorTransaction: Undo Break Pin Links
+[2022.03.06-10.17.45:161][583]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: ED134E5FD6463A0CDFBD68659E514A83DB3CED07), compiling. 
+[2022.03.06-10.17.45:510][618]LogEditorTransaction: Undo Create Pin Link
+[2022.03.06-10.17.45:532][618]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 9A8A28E1E714C8570601A7FC783977E199AF6A8E), compiling. 
+[2022.03.06-10.17.45:738][637]LogEditorTransaction: Undo Create Pin Link
+[2022.03.06-10.17.45:760][637]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 54B93487FA79C8128D89CF21A3C9CF5DC940BDFC), compiling. 
+[2022.03.06-10.17.46:086][670]LogEditorTransaction: Undo Create Pin Link
+[2022.03.06-10.17.46:116][670]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 45D7BC6D97859061455E755636098C97473F16C0), compiling. 
+[2022.03.06-10.17.46:301][687]LogEditorTransaction: Undo Move Node
+[2022.03.06-10.17.46:324][687]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 0D6C4325DD0D2B81B6CE4063BEAC805CD1E98DEF), compiling. 
+[2022.03.06-10.17.46:642][719]LogEditorTransaction: Undo Create Pin Link
+[2022.03.06-10.17.46:664][719]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 33A32D5682FBF769668EFD609B77DC35708E4F89), compiling. 
+[2022.03.06-10.17.46:997][752]LogEditorTransaction: Undo Move Node
+[2022.03.06-10.17.47:019][752]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 51E2939D468CC114973855ABE24BC7814756AEB2), compiling. 
+[2022.03.06-10.17.48:125][876]LogEditorTransaction: Undo Move Node
+[2022.03.06-10.17.48:148][876]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 95B4DE058DE10B22FF33F9BFE42B0FC9B8861685), compiling. 
+[2022.03.06-10.17.48:697][932]LogEditorTransaction: Undo Add Node
+[2022.03.06-10.17.48:719][932]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 34E233D4FE7F2C50393160496F4E09913FEC4544), compiling. 
+[2022.03.06-10.18.39:889][ 80]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.06-10.18.39:952][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.03.06-10.18.40:289][112]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.06-10.18.40:345][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.03.06-10.27.29:420][679]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.03.06-10.27.29:487][679]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test_Auto9571DBB2745B29034C07BE89AE4F8987A.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Lachlans_Work/Maps/Main_Level_Test_Auto9.umap'
+[2022.03.06-10.27.29:491][679]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lachlans_Work/Maps/Main_Level_Test' took 0.094
+[2022.03.06-10.27.29:491][679]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.094
+[2022.03.06-10.27.29:491][679]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force] ([4] browsable assets)...
+[2022.03.06-10.27.29:508][679]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force.Paper_Ball_Set_Force]
+[2022.03.06-10.27.29:516][679]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force.Paper_Ball_Set_Force]
+[2022.03.06-10.27.29:516][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force]
+[2022.03.06-10.27.29:576][679]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Paper_Ball_Set_Force_Auto9A580D44146F0A91CCF6CEF92793BA2EC.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force_Auto9.uasset'
+[2022.03.06-10.27.29:577][679]LogFileHelpers: Auto-saving content packages took 0.087
+[2022.03.06-10.27.52:303][275]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-10.27.52:303][275]LogShaderCompilers: Display: Total job queries 4684, among them cache hits 3954 (84.42%)
+[2022.03.06-10.27.52:303][275]LogShaderCompilers: Display: Tracking 509 distinct input hashes that result in 218 distinct outputs (42.83%)
+[2022.03.06-10.27.52:303][275]LogShaderCompilers: Display: RAM used: 1.12 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.14%
+[2022.03.06-10.27.52:303][275]LogShaderCompilers: Display: ================================================
+[2022.03.06-10.27.52:310][276]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-10.27.52:310][276]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-10.28.00:426][351]LogSlate: Window 'Message' being destroyed
+[2022.03.06-10.28.00:431][351]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Michaels_Work/Materials/M_Bin_Glow.M_Bin_Glow
+(Selecting 'No' will cause all changes to be lost!)
+[2022.03.06-10.28.01:609][487]LogMaterialEditor: Applying material M_Bin_Glow
+[2022.03.06-10.28.01:947][487]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: D66146541E48B251D962E5EF42C7DFEE240D0C2B), compiling. 
+[2022.03.06-10.28.01:974][487]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: B857602D46CEFF1D0E68DD97181E32EC00001296), compiling. 
+[2022.03.06-10.28.01:998][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.03.06-10.28.02:126][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.03.06-10.28.02:139][487]MaterialEditorStats: Base pass shader without light map: 28 instructions
+[2022.03.06-10.28.02:139][487]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.03.06-10.28.02:139][487]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-10.28.02:139][487]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-10.28.03:336][626]LogMaterialEditor: Saving and Compiling material M_Bin_Glow
+[2022.03.06-10.28.03:366][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Michaels_Work/Materials/M_Bin_Glow" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/M_Bin_Glow.uasset" SILENT=true
+[2022.03.06-10.28.03:377][626]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/M_Bin_Glow23C359C84F31EA05503ADE8A4D1422F8.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/M_Bin_Glow.uasset'
+[2022.03.06-10.28.03:391][626]AssetCheck: New page: Asset Save: M_Bin_Glow
+[2022.03.06-10.28.03:391][626]LogContentValidation: Display: Validating Material /Game/Michaels_Work/Materials/M_Bin_Glow.M_Bin_Glow
+[2022.03.06-10.28.08:044][146]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-10.28.08:044][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-10.28.17:297][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.03.06-10.28.18:408][680]LogSlate: Window 'Save Content' being destroyed
+[2022.03.06-10.28.18:452][680]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/M_Bin_Glow_InstF22437BF4D2DD07B459F1E91C948E97E.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/M_Bin_Glow_Inst.uasset'
+[2022.03.06-10.28.18:476][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.03.06-10.28.18:547][680]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test8674022043728EB2C6F6C79ABDBEF6F5.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Lachlans_Work/Maps/Main_Level_Test.umap'
+[2022.03.06-10.28.18:559][680]LogFileHelpers: Saving map 'Main_Level_Test' took 0.105
+[2022.03.06-10.28.18:560][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Michael_Test_Level" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Maps/Michael_Test_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.06-10.28.18:583][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.03.06-10.28.18:602][680]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Michael_Test_LevelA22D975A4CB808B0CA81A285A7F290B3.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Maps/Michael_Test_Level.umap'
+[2022.03.06-10.28.18:605][680]LogFileHelpers: Saving map 'Michael_Test_Level' took 0.045
+[2022.03.06-10.28.18:643][680]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Paper_Ball_Set_ForceA735A83246CF2894B204E9981B23089D.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Paper_Ball_Set_Force.uasset'
+[2022.03.06-10.28.18:671][680]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.06-10.28.18:671][680]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force.Paper_Ball_Set_Force
+[2022.03.06-10.28.18:671][680]LogContentValidation: Display: Validating World /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test
+[2022.03.06-10.28.18:671][680]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Michaels_Work/Materials/M_Bin_Glow_Inst.M_Bin_Glow_Inst
+[2022.03.06-10.28.18:671][680]LogContentValidation: Display: Validating World /Game/Maps/Michael_Test_Level.Michael_Test_Level
