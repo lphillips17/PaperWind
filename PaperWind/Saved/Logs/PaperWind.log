@@ -3283,3 +3283,687 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.06-07.44.18:627][744]LogContentValidation: Display: Validating World /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test
 [2022.03.06-07.44.18:627][744]LogContentValidation: Display: Validating World /Game/Maps/Michael_Test_Level.Michael_Test_Level
 [2022.03.06-07.44.18:627][744]LogContentValidation: Display: Validating Material /Game/Michaels_Work/Materials/M_Bin_Glow.M_Bin_Glow
+[2022.03.06-07.49.32:899][398]LogActorFactory: Actor Factory created Cone
+[2022.03.06-07.49.34:376][533]LogActorFactory: Actor Factory created Cone
+[2022.03.06-07.49.41:258][338]LogActorFactory: Actor Factory created Cylinder
+[2022.03.06-07.49.42:255][437]LogActorFactory: Actor Factory created Cylinder
+[2022.03.06-07.49.44:972][754]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test:PersistentLevel.Cylinder_5.StaticMeshComponent0)
+[2022.03.06-07.49.45:081][767]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test:PersistentLevel.Cylinder_5.StaticMeshComponent0)
+[2022.03.06-07.49.57:534][162]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test:PersistentLevel.Cylinder_5.StaticMeshComponent0)
+[2022.03.06-07.49.58:064][225]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test:PersistentLevel.Cylinder_5.StaticMeshComponent0)
+[2022.03.06-07.50.22:840][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2022.03.06-07.50.24:938][236]Cmd: DELETE
+[2022.03.06-07.50.24:938][236]Cmd: ACTOR DELETE
+[2022.03.06-07.50.24:942][236]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.06-07.50.24:943][236]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.06-07.50.24:963][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.03.06-07.50.24:965][236]LogEditorActor: Deleted 2 Actors (0.026 secs)
+[2022.03.06-07.51.18:292][844]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: F63242D4B45FC376541895DD451D585C5C15C18C), compiling. 
+[2022.03.06-07.51.18:299][844]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.51.18:299][844]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.51.18:347][846]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-07.51.18:347][846]LogShaderCompilers: Display: Total job queries 4184, among them cache hits 3548 (84.80%)
+[2022.03.06-07.51.18:347][846]LogShaderCompilers: Display: Tracking 415 distinct input hashes that result in 196 distinct outputs (47.23%)
+[2022.03.06-07.51.18:347][846]LogShaderCompilers: Display: RAM used: 1.08 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.13%
+[2022.03.06-07.51.18:347][846]LogShaderCompilers: Display: ================================================
+[2022.03.06-07.51.18:353][847]MaterialEditorStats: Base pass shader: 99 instructions
+[2022.03.06-07.51.18:353][847]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 120 instructions
+[2022.03.06-07.51.18:353][847]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.03.06-07.51.18:353][847]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-07.51.18:353][847]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.51.20:084][ 45]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: FE9975F76C673E1C9BCC4187876408FFD398AC7D), compiling. 
+[2022.03.06-07.51.20:091][ 45]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.51.20:091][ 45]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.51.20:131][ 48]MaterialEditorStats: Base pass shader: 99 instructions
+[2022.03.06-07.51.20:131][ 48]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 120 instructions
+[2022.03.06-07.51.20:131][ 48]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.03.06-07.51.20:131][ 48]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-07.51.20:131][ 48]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.51.20:850][120]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: E6DA826C463A56BA01FD5721350037D711177099), compiling. 
+[2022.03.06-07.51.20:857][120]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 252CE5D4578A0E5F7D4BC293FD5CA4EF727A683D), compiling. 
+[2022.03.06-07.51.20:860][120]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 1B18B654BB2461D73E7988A69DA63103C8C29E28), compiling. 
+[2022.03.06-07.51.20:867][120]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.51.20:867][120]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.51.20:898][122]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.06-07.51.20:898][122]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-07.51.20:898][122]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-07.51.21:445][179]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.51.21:445][179]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.51.37:845][121]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: C67C625AFF8718ABF0996386B6CDD84309208BAF), compiling. 
+[2022.03.06-07.51.37:851][121]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.51.37:851][121]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.51.37:879][123]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.51.37:879][123]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.51.42:527][615]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: B64A28E80BAB23541CD459950B0B8158EE3DA8C9), compiling. 
+[2022.03.06-07.51.42:534][615]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.51.42:534][615]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.51.42:557][617]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.51.42:557][617]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.51.54:817][  9]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: D97C9F88AED25C0FD15D00E865DEC8D683FFF630), compiling. 
+[2022.03.06-07.51.54:819][  9]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: B972E93796F7C2A3C721C309B4F77F3C3C375A9D), compiling. 
+[2022.03.06-07.51.54:829][  9]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.51.54:829][  9]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.51.54:845][ 11]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.51.54:845][ 11]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.51.57:488][314]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 31DCADCA30FEB3E12464EB2019F3CA3DE0368E31), compiling. 
+[2022.03.06-07.51.57:492][314]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.51.57:492][314]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.51.57:517][316]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.51.57:517][316]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.51.59:126][496]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 3C4B9332ABDB732E4DB278F9578E71D040114529), compiling. 
+[2022.03.06-07.51.59:133][496]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.51.59:133][496]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.51.59:153][498]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.51.59:153][498]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.52.06:425][281]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 87CFD0D0208E7970FABCEB9F110C796DE8E4C7CF), compiling. 
+[2022.03.06-07.52.06:427][281]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: C3D001ED6A958B3F97ADC91AFEB4382606490888), compiling. 
+[2022.03.06-07.52.06:449][281]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.52.06:449][281]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.52.06:465][283]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.52.06:465][283]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.52.39:727][928]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 255A2EA9A4EC9D7D36D69C07599E46F9F34936A3), compiling. 
+[2022.03.06-07.52.39:729][928]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 3A6E67F01F35E99CF420B84CE319B00AB19B0F0C), compiling. 
+[2022.03.06-07.52.39:734][928]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.52.39:734][928]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.52.39:760][930]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.52.39:760][930]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.52.42:852][285]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 037A178A80FEE349F0AB496F2A67FBE7DBBFEC48), compiling. 
+[2022.03.06-07.52.42:868][285]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 5876893268D5AC4EF0D5883C01222C3A1AF48A39), compiling. 
+[2022.03.06-07.52.42:871][285]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.52.42:871][285]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.52.42:887][287]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.52.42:888][287]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.52.45:846][617]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 8666A060DF6C04572CAF93BC37141B3F64FF7A0A), compiling. 
+[2022.03.06-07.52.45:850][617]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.52.45:850][617]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.52.45:876][619]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.52.45:876][619]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.52.48:683][943]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 7E63CF66D2027BEDE5EE882216BD38AF0BD68684), compiling. 
+[2022.03.06-07.52.48:688][943]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.52.48:688][943]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.52.48:703][945]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.52.48:703][945]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.53.15:375][309]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 839501D17B1C6FA802A04C0222C9CAF73FE554A7), compiling. 
+[2022.03.06-07.53.15:377][309]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 025BEB265402447F6E197338A92C5BDA8BE9644B), compiling. 
+[2022.03.06-07.53.15:382][309]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.53.15:382][309]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.53.15:411][311]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.53.15:411][311]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.53.17:548][544]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 61759977130159DBB6FA17CB89F21A5C811AA2B2), compiling. 
+[2022.03.06-07.53.17:555][544]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.53.17:555][544]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.53.17:575][546]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.53.17:575][546]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.54.13:208][517]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 7241E69B5FC865AA26441F1D167E82B2A9041C44), compiling. 
+[2022.03.06-07.54.13:213][517]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.54.13:213][517]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.54.13:240][519]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.54.13:240][519]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.54.16:815][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.03.06-07.54.16:879][921]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test_Auto12CC8A51C4EAEA85AB60FE4B2C3740502.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Lachlans_Work/Maps/Main_Level_Test_Auto1.umap'
+[2022.03.06-07.54.16:882][921]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lachlans_Work/Maps/Main_Level_Test' took 0.088
+[2022.03.06-07.54.16:882][921]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.088
+[2022.03.06-07.54.17:424][976]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 377272569ACA0190894A9338905502496B5660C0), compiling. 
+[2022.03.06-07.54.17:431][976]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.54.17:431][976]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.54.17:448][978]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.54.17:448][978]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.54.21:473][392]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: BC522A0DE957262D6474593569BC490E69E6ECCF), compiling. 
+[2022.03.06-07.54.21:477][392]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.54.21:477][392]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.54.21:495][393]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-07.54.21:495][393]LogShaderCompilers: Display: Total job queries 4268, among them cache hits 3630 (85.05%)
+[2022.03.06-07.54.21:495][393]LogShaderCompilers: Display: Tracking 417 distinct input hashes that result in 198 distinct outputs (47.48%)
+[2022.03.06-07.54.21:495][393]LogShaderCompilers: Display: RAM used: 1.09 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.13%
+[2022.03.06-07.54.21:495][393]LogShaderCompilers: Display: ================================================
+[2022.03.06-07.54.21:503][394]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.54.21:503][394]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.54.22:767][540]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 28E918D3377D7E3B62266C518838286AE3869F5C), compiling. 
+[2022.03.06-07.54.22:770][540]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.54.22:770][540]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.54.22:797][542]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.54.22:797][542]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.54.23:797][655]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 2D38C3A45027B9D3191F0A350830B6A593593BC8), compiling. 
+[2022.03.06-07.54.23:800][655]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.54.23:800][655]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.54.23:830][657]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.54.23:830][657]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.54.26:741][957]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: A40BE22007D91B7CCA858FC55B296FDF797BBF78), compiling. 
+[2022.03.06-07.54.26:746][957]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.54.26:746][957]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.54.26:762][959]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.54.26:762][959]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.54.30:518][378]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 5AF6242FEA92BBB77CD98DD45F18FE6E79880DCB), compiling. 
+[2022.03.06-07.54.30:521][378]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 07BBF60FE8B80D0C381296702750B65F191237E9), compiling. 
+[2022.03.06-07.54.30:524][378]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.54.30:524][378]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.54.30:539][380]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.54.30:539][380]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.54.31:977][523]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 7F14935D95995067353E1FA61C517DDB91D4255C), compiling. 
+[2022.03.06-07.54.31:982][523]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.54.31:982][523]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.54.31:998][525]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.54.31:998][525]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.54.33:464][663]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 51BA43653169A2BD66F49C97DEC0D81C4724D514), compiling. 
+[2022.03.06-07.54.33:469][663]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.54.33:469][663]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.54.33:486][665]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.54.33:486][665]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.54.43:182][787]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 46368A3CB6C86FAEEDDD8F55D6A1278397CB2AD8), compiling. 
+[2022.03.06-07.54.43:185][787]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 03FBC373E40757E9F985A0EEAA87DA0EBDE7B0BD), compiling. 
+[2022.03.06-07.54.43:188][787]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.54.43:188][787]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.54.43:203][789]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.54.43:203][789]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.55.02:101][ 15]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 0D08574C593C2B15EC34FE2765B4FBA58B7F407C), compiling. 
+[2022.03.06-07.55.02:109][ 15]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.55.02:109][ 15]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.55.02:125][ 17]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.55.02:125][ 17]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.55.06:409][526]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 9E79CE232856CD90C859115ADB3338AA15DC8611), compiling. 
+[2022.03.06-07.55.06:411][526]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.55.06:411][526]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.55.06:449][528]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.55.06:449][528]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.55.08:735][802]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: AA91F0F32DA8D86024B0E532BC637059C20DF26A), compiling. 
+[2022.03.06-07.55.08:737][802]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.55.08:737][802]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.55.08:767][804]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.55.08:767][804]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.55.10:056][928]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: EBED22E39F9046E9706A1B3FD9AD57496C6E1A72), compiling. 
+[2022.03.06-07.55.10:061][928]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.55.10:061][928]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.55.10:078][930]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.55.10:078][930]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.55.11:426][ 64]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 94BFB3961D3C4EB70323D06C92F23DE58C54949C), compiling. 
+[2022.03.06-07.55.11:431][ 64]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.55.11:431][ 64]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.55.11:448][ 66]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.55.11:448][ 66]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.55.49:780][587]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 48B82AC0ABED1231C67B0DB614F21AE6474D6B88), compiling. 
+[2022.03.06-07.55.49:782][587]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: D6877B89CBD64C6B6071391CB180D33299E2896C), compiling. 
+[2022.03.06-07.55.49:787][587]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.55.49:787][587]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.55.49:820][589]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.55.49:820][589]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.55.54:369][ 91]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: FAF82DF0BC47CE16218897CBC13145E38E9E9CB5), compiling. 
+[2022.03.06-07.55.54:372][ 91]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.55.54:372][ 91]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.55.54:411][ 93]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.55.54:411][ 93]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.55.55:998][250]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: A75CD87D3C7B137720F25578A1BF8C2D85202ADC), compiling. 
+[2022.03.06-07.55.56:006][250]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.55.56:006][250]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.55.56:023][252]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.55.56:023][252]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.56.02:277][977]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 42937580AFC5EB7CBC2EB340F414863B024C77EB), compiling. 
+[2022.03.06-07.56.02:279][977]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 93678BA283D1F77E30EF6D2570CFC4F13E267CB8), compiling. 
+[2022.03.06-07.56.02:282][977]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.56.02:282][977]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.56.02:302][979]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.56.02:302][979]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.56.07:143][553]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 55B9617A14C407EC1013A554478673F9D9D60D57), compiling. 
+[2022.03.06-07.56.07:145][553]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 1A5C1DD56A52AE265FD9C2A8D643E4B7DA3F29A6), compiling. 
+[2022.03.06-07.56.07:148][553]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.56.07:149][553]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.56.07:165][555]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.56.07:165][555]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.56.49:987][510]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 2BA41E8C31A7096C3705B2F4A5A97622EA2BD6BC), compiling. 
+[2022.03.06-07.56.49:989][510]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: A42780352FB1C55F2B8B672893BF9DDC8B919D85), compiling. 
+[2022.03.06-07.56.49:994][510]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.56.49:994][510]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.56.50:029][512]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.56.50:029][512]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.56.59:760][665]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: AE133201B9DD67B6C83E40327C25AF343174D5CE), compiling. 
+[2022.03.06-07.56.59:765][665]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.56.59:765][665]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.56.59:782][667]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.56.59:782][667]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.57.04:966][281]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: B65C674000DD5430095D49BA233FFBABD0C5FB3E), compiling. 
+[2022.03.06-07.57.04:968][281]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: E0E5652C28A6100579122A436AFBC497B052C9DA), compiling. 
+[2022.03.06-07.57.04:974][281]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.57.04:974][281]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.57.05:006][283]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.57.05:006][283]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.57.12:032][115]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 134DE195D0D8CA89811ACFF24D5E8597EB80B71A), compiling. 
+[2022.03.06-07.57.12:034][115]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: C0F67E527F94634582B45D6ECDCDE8DE45A8E43C), compiling. 
+[2022.03.06-07.57.12:040][115]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.57.12:040][115]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.57.12:068][117]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.57.12:068][117]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.57.18:027][822]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 909F6174887DF97D9DE80D7D6E45B71139B65353), compiling. 
+[2022.03.06-07.57.18:029][822]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 11718440F7F850857EA61852C492CB5A69355F12), compiling. 
+[2022.03.06-07.57.18:035][822]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.57.18:035][822]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.57.18:066][824]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.57.18:066][824]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.57.20:803][149]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: B605A7811D26E53DAEAC6AB2EDCE2F1A857DC3A7), compiling. 
+[2022.03.06-07.57.20:806][149]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.57.20:806][149]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.57.20:845][151]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.57.20:845][151]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.57.30:127][246]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: A63D22BF78E21CDBD031DAECEB5A142D2721D35B), compiling. 
+[2022.03.06-07.57.30:135][246]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.57.30:135][246]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.57.30:146][247]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-07.57.30:147][247]LogShaderCompilers: Display: Total job queries 4364, among them cache hits 3726 (85.38%)
+[2022.03.06-07.57.30:147][247]LogShaderCompilers: Display: Tracking 417 distinct input hashes that result in 198 distinct outputs (47.48%)
+[2022.03.06-07.57.30:147][247]LogShaderCompilers: Display: RAM used: 1.09 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.13%
+[2022.03.06-07.57.30:147][247]LogShaderCompilers: Display: ================================================
+[2022.03.06-07.57.30:157][248]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.57.30:157][248]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.57.42:459][687]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 7B96AE4EF37ECB5A36D13DBBA36110A96601DE91), compiling. 
+[2022.03.06-07.57.42:462][687]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: ABE7D8598E538F8865F367F25AB031B5BB057C5C), compiling. 
+[2022.03.06-07.57.42:465][687]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.57.42:465][687]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.57.42:486][689]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.57.42:486][689]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.57.50:663][643]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 36CECB6D36CA1674C128236CFE243FA0E6C93C98), compiling. 
+[2022.03.06-07.57.50:665][643]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 11567655613B26774943294ECC8A5E45561312AC), compiling. 
+[2022.03.06-07.57.50:671][643]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.57.50:671][643]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.57.50:706][645]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.57.50:706][645]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.57.53:495][974]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: A66BFB2B7C17B8A278A989F0924F3165DA3D22BE), compiling. 
+[2022.03.06-07.57.53:499][974]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.57.53:499][974]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.57.53:517][976]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.57.53:517][976]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.58.05:454][351]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 8545D074ACCEC1D4B0C7740625607A5DCD5C3E0D), compiling. 
+[2022.03.06-07.58.05:456][351]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 5E735C9844FF76751E5E679AC6D80CF4A5DCEF62), compiling. 
+[2022.03.06-07.58.05:461][351]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.58.05:461][351]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.58.05:499][353]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.58.05:499][353]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.58.10:011][881]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 45998E6A80470455C858C6E110DB4D710D3CD682), compiling. 
+[2022.03.06-07.58.10:014][881]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.58.10:014][881]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.58.10:048][883]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.58.10:048][883]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.58.13:477][287]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: D2E213B30007D27950CBECF60410E4C8397366F1), compiling. 
+[2022.03.06-07.58.13:482][287]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.58.13:482][287]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.58.13:501][289]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.58.13:501][289]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.58.15:233][490]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 7B9A0E2CE6002B0F3104FA79AC36EA4CF7442176), compiling. 
+[2022.03.06-07.58.15:238][490]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.58.15:238][490]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.58.15:257][492]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-07.58.15:257][492]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.58.28:962][ 98]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 3AAA0146B91E6B77955534226CFE90C330D74BB8), compiling. 
+[2022.03.06-07.58.28:965][ 98]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.58.28:972][ 99]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.06-07.58.28:980][100]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-07.58.28:980][100]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-07.58.35:844][874]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 54F484D1560E2117D033679CB054D768D98566D6), compiling. 
+[2022.03.06-07.58.35:846][874]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 3ABD471D892DB96BFF00E35F5B9E94710E4F80DC), compiling. 
+[2022.03.06-07.58.46:166][ 88]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 00D71135DA357026D6204D7A568CEA10EAE31F1F), compiling. 
+[2022.03.06-07.58.53:355][938]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 5C9E1E25401497B79B13D4F3BCEBDE00C9CD35C3), compiling. 
+[2022.03.06-07.58.56:245][261]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: D3A4AC9AD7AAE1A52EF42596AF76BDDF0327DA63), compiling. 
+[2022.03.06-07.58.56:248][261]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 543572D81716AE71AE8692AA9BF7228AB664C867), compiling. 
+[2022.03.06-07.58.59:537][647]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 687D3C12010F1FB6672C23313BF406D9BDEB95EF), compiling. 
+[2022.03.06-07.58.59:539][647]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_3 in PCD3D_SM5, Default, SM5 (DDC key hash: FA45AB819E78C0AE9F564EDC5E1127EE5CAF05BF), compiling. 
+[2022.03.06-07.58.59:574][649]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.06-07.58.59:574][649]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-07.58.59:574][649]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-07.59.07:633][586]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 8DB8ECF912F8D0F0084312A71305E6901E1DB416), compiling. 
+[2022.03.06-07.59.07:634][586]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B4343AC45A4F5E358339E100004DC3CAD9371AB7), compiling. 
+[2022.03.06-07.59.07:636][586]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7CEEEE66434ACD5B5E297830318081B5A4D50ED6), compiling. 
+[2022.03.06-07.59.07:643][586]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 49074912C53773781F0469EB4ED2209ECBE819CB), compiling. 
+[2022.03.06-07.59.07:696][588]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.06-07.59.07:696][588]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-07.59.07:696][588]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-07.59.18:038][671]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: A098EB42CA3569F3422C16215FC8CBFBEC2164C7), compiling. 
+[2022.03.06-07.59.18:040][671]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C38524BF41C3572B287A5CB516A62850927A6CF4), compiling. 
+[2022.03.06-07.59.18:042][671]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionDepthFade_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A337D69FEEA0DFB38060DD7D53BA289B1A55CE00), compiling. 
+[2022.03.06-07.59.18:043][671]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_1 in PCD3D_SM5, Default, SM5 (DDC key hash: BB5D596EF9B694ABED109CEF00957980219CD422), compiling. 
+[2022.03.06-07.59.18:044][671]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5B17E1C6FF8D4737E1DA24F93BA3540122982192), compiling. 
+[2022.03.06-07.59.18:045][671]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 01F772AFB71844A023602F29308A996C4B086198), compiling. 
+[2022.03.06-07.59.18:046][671]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 540AD3BF49CDACD8294761E0AF21C6B0B9626655), compiling. 
+[2022.03.06-07.59.18:048][671]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionDepthFade_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9D82431D4202128730D90E111288D8C3D78EA9B8), compiling. 
+[2022.03.06-07.59.18:049][671]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_1 in PCD3D_SM5, Default, SM5 (DDC key hash: FB867FB6016E2BED7C8E06D18027CB7580824393), compiling. 
+[2022.03.06-07.59.18:050][671]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7276A5F74759190CE1BB30FDA017ADC8011035D7), compiling. 
+[2022.03.06-07.59.18:051][671]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2EC99A36B116A33B396656BE102309DBF9D39E82), compiling. 
+[2022.03.06-07.59.18:052][671]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 80D8CA5E6E31FFED6986907D6AC81A88A5950488), compiling. 
+[2022.03.06-07.59.18:053][671]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.06-07.59.25:124][486]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 3F7DF314639FC5C5CCDC27B66DEE69AE7CB072C4), compiling. 
+[2022.03.06-07.59.25:185][487]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8387378F6481A99EFF305F7239E211F1565316E6), compiling. 
+[2022.03.06-07.59.25:201][488]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.06-07.59.25:201][488]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2022.03.06-07.59.25:201][488]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-07.59.25:201][488]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2022.03.06-07.59.25:201][488]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-07.59.25:201][488]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-07.59.25:970][573]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.03.06-07.59.25:970][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-07.59.34:985][638]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: B551668A7B796597E80AC2E4BD5C295797C946E8), compiling. 
+[2022.03.06-07.59.36:751][843]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: DC6C0B315A09B44D6E19EE532B067687BD4AF046), compiling. 
+[2022.03.06-07.59.36:753][843]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8C1A122E278B2813A58B2F166C1DF1062B02032C), compiling. 
+[2022.03.06-07.59.40:139][235]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 4CE09823AD9FA2E2C7374F1C282890CBA92813BA), compiling. 
+[2022.03.06-07.59.40:297][235]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-07.59.40:297][235]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-07.59.40:306][236]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.06-07.59.40:306][236]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-07.59.40:306][236]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-07.59.54:863][868]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 062417407BFBFFE95E917687A6BFF7A83E22CD7A), compiling. 
+[2022.03.06-07.59.54:865][868]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 81EA4B856E4B44E78E52B949E770C3A9FA427FEC), compiling. 
+[2022.03.06-07.59.58:365][278]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionComponentMask_2 in PCD3D_SM5, Default, SM5 (DDC key hash: C0C2F87AB51327D3DB93C46E82928D2CDF97E035), compiling. 
+[2022.03.06-08.00.06:144][753]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: F07D926E3F96040440A5B9DE4EF737EF9B2D66FE), compiling. 
+[2022.03.06-08.00.06:144][753]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Bin_Glow (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.06-08.00.06:144][753]LogMaterial: Display: 	Function Lerp_3Color: Cannot cast from float2 to float3.
+[2022.03.06-08.00.06:149][753]MaterialEditorStats: Error: [SM5] Function Lerp_3Color: Cannot cast from float2 to float3.
+[2022.03.06-08.00.14:340][723]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 4E03D510ADF8076360B11513963608E9696A5C9F), compiling. 
+[2022.03.06-08.00.14:343][723]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 97CD789933C5B32134EB3F08F45572A78AE7FB81), compiling. 
+[2022.03.06-08.00.14:346][723]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-08.00.14:346][723]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-08.00.22:847][728]LogMaterialEditor: Applying material M_Bin_Glow
+[2022.03.06-08.00.23:165][728]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: C96185FC8E8762FC05ECE8605A580F0C6483A508), compiling. 
+[2022.03.06-08.00.23:187][728]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 606E9628DA47F3E572961336FF0D5243CF2942A6), compiling. 
+[2022.03.06-08.00.23:215][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.03.06-08.00.24:751][728]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2022.03.06-08.00.24:751][728]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2022.03.06-08.00.24:751][728]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2022.03.06-08.00.24:751][728]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-08.00.24:751][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.03.06-08.00.24:769][728]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2022.03.06-08.00.24:769][728]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.03.06-08.00.24:769][728]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-08.00.24:769][728]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-08.00.43:814][672]Cmd: TRANSACTION UNDO
+[2022.03.06-08.00.43:814][672]LogEditorTransaction: Undo Edit B
+[2022.03.06-08.00.43:815][672]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 8776BB9456A9CD9D19F3B85A3C1C7AD60690E799), compiling. 
+[2022.03.06-08.00.43:815][672]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Bin_Glow (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.06-08.00.43:815][672]LogMaterial: Display: 	Function Lerp_3Color: Cannot cast from float2 to float3.
+[2022.03.06-08.00.43:822][672]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: BE52048FDC97C08A753A0E0972CEE53806B23FEC), compiling. 
+[2022.03.06-08.00.43:822][672]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Bin_Glow (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.06-08.00.43:822][672]LogMaterial: Display: 	Function Lerp_3Color: Cannot cast from float2 to float3.
+[2022.03.06-08.00.43:832][672]MaterialEditorStats: Error: [SM5] Function Lerp_3Color: Cannot cast from float2 to float3.
+[2022.03.06-08.00.48:829][197]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: B643AC054320C08231BA608F78FF1EC20829EFA4), compiling. 
+[2022.03.06-08.00.48:832][197]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 02DA1F96B2684CD0CF55AD4F089883CADF0544FB), compiling. 
+[2022.03.06-08.00.48:835][197]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-08.00.48:835][197]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-08.00.48:864][198]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-08.00.48:864][198]LogShaderCompilers: Display: Total job queries 4488, among them cache hits 3824 (85.20%)
+[2022.03.06-08.00.48:864][198]LogShaderCompilers: Display: Tracking 443 distinct input hashes that result in 205 distinct outputs (46.28%)
+[2022.03.06-08.00.48:864][198]LogShaderCompilers: Display: RAM used: 1.09 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.13%
+[2022.03.06-08.00.48:864][198]LogShaderCompilers: Display: ================================================
+[2022.03.06-08.04.24:297][ 98]LogContentBrowser: Deferred new asset file creation: M_Bin_Glow_Inst
+[2022.03.06-08.04.24:312][ 98]LogContentBrowser: Creating deferred item: M_Bin_Glow_Inst
+[2022.03.06-08.04.25:736][250]LogContentBrowser: Attempting asset rename: M_Bin_Glow_Inst -> M_Bin_Glow_Inst
+[2022.03.06-08.04.25:737][250]LogContentBrowser: End creating deferred item M_Bin_Glow_Inst
+[2022.03.06-08.04.33:948][456]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Michaels_Work/Materials/M_Bin_Glow_Inst.M_Bin_Glow_Inst
+[2022.03.06-08.05.39:862][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.03.06-08.05.39:924][165]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test_Auto214BFCDB34801F194B38CF99B2C94DD40.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Lachlans_Work/Maps/Main_Level_Test_Auto2.umap'
+[2022.03.06-08.05.39:927][165]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lachlans_Work/Maps/Main_Level_Test' took 0.091
+[2022.03.06-08.05.39:927][165]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.091
+[2022.03.06-08.05.39:928][165]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Michaels_Work/Materials/M_Bin_Glow] ([1] browsable assets)...
+[2022.03.06-08.05.39:938][165]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Michaels_Work/Materials/M_Bin_Glow.M_Bin_Glow]
+[2022.03.06-08.05.39:938][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Materials/M_Bin_Glow]
+[2022.03.06-08.05.39:949][165]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/M_Bin_Glow_Auto2CA13EAE742F21F37D7BDFB92598B23AB.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Materials/M_Bin_Glow_Auto2.uasset'
+[2022.03.06-08.05.39:950][165]LogFileHelpers: Auto-saving content packages took 0.022
+[2022.03.06-08.07.04:309][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.03.06-08.07.04:344][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.03.06-08.07.04:359][ 45]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-08.07.04:359][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-08.16.17:551][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.03.06-08.16.17:615][458]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test_Auto3C0A548674450E99E1EEBE488F1B22A11.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Lachlans_Work/Maps/Main_Level_Test_Auto3.umap'
+[2022.03.06-08.16.17:618][458]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lachlans_Work/Maps/Main_Level_Test' took 0.091
+[2022.03.06-08.16.17:618][458]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.091
+[2022.03.06-08.17.25:195][808]LogMaterialEditor: Applying material M_Bin_Glow
+[2022.03.06-08.17.25:509][808]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: AACC7701620CAD89A3CA6327EE6F5BEEB0292F23), compiling. 
+[2022.03.06-08.17.25:530][808]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 6439CDDD628E0A1D57A6DB2E2ED98FE06FFBE9B0), compiling. 
+[2022.03.06-08.17.25:558][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.03.06-08.17.25:664][808]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-08.17.25:664][808]LogShaderCompilers: Display: Total job queries 4504, among them cache hits 3840 (85.26%)
+[2022.03.06-08.17.25:664][808]LogShaderCompilers: Display: Tracking 443 distinct input hashes that result in 205 distinct outputs (46.28%)
+[2022.03.06-08.17.25:664][808]LogShaderCompilers: Display: RAM used: 1.09 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.13%
+[2022.03.06-08.17.25:664][808]LogShaderCompilers: Display: ================================================
+[2022.03.06-08.17.25:683][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.03.06-08.17.25:692][808]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2022.03.06-08.17.25:692][808]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.03.06-08.17.25:692][808]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-08.17.25:692][808]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-08.17.29:626][265]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-08.17.29:626][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-08.17.41:589][455]LogWindows: LaunchURL https://docs.unrealengine.com/4.27/en//Engine/Actors/DecalActor/index.html?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors
+[2022.03.06-08.18.55:106][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bin_02)
+[2022.03.06-08.20.04:372][315]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 543077C54E4D7B606D4C10C561ADFC172F32FC57), compiling. 
+[2022.03.06-08.20.04:376][315]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: FFE89D1FB1F26CF90DA6403958118100C5F44A3A), compiling. 
+[2022.03.06-08.20.04:379][315]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-08.20.04:379][315]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-08.21.05:019][254]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 1B91206A0A36B8FFC96FE266E4E1DF5B4C42B292), compiling. 
+[2022.03.06-08.21.05:027][254]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-08.21.05:027][254]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.21.05:034][255]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.06-08.21.05:043][256]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-08.21.05:043][256]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-08.21.05:717][327]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-08.21.05:717][327]LogShaderCompilers: Display: Total job queries 4512, among them cache hits 3846 (85.24%)
+[2022.03.06-08.21.05:717][327]LogShaderCompilers: Display: Tracking 445 distinct input hashes that result in 206 distinct outputs (46.29%)
+[2022.03.06-08.21.05:717][327]LogShaderCompilers: Display: RAM used: 1.10 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.13%
+[2022.03.06-08.21.05:717][327]LogShaderCompilers: Display: ================================================
+[2022.03.06-08.21.05:726][328]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-08.21.05:726][328]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.21.07:958][581]LogMaterialEditor: Applying material M_Bin_Glow
+[2022.03.06-08.21.08:267][581]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: F5E60A4DCFF77E1500E5A14BE1947BC0C5937762), compiling. 
+[2022.03.06-08.21.08:287][581]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 4C0F822DA66CEA392B1F8DD06FDB6AEBECF1BD43), compiling. 
+[2022.03.06-08.21.08:319][581]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2022.03.06-08.21.08:320][581]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2022.03.06-08.21.08:320][581]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2022.03.06-08.21.08:320][581]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-08.21.08:325][581]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.03.06-08.21.09:668][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.03.06-08.21.09:677][581]MaterialEditorStats: Base pass shader without light map: 28 instructions
+[2022.03.06-08.21.09:677][581]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.03.06-08.21.09:677][581]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-08.21.09:677][581]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.21.24:754][313]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume2)
+[2022.03.06-08.21.31:829][ 56]Cmd: DELETE
+[2022.03.06-08.21.31:830][ 56]Cmd: ACTOR DELETE
+[2022.03.06-08.21.31:833][ 56]LogEditorActor: Deleted Actor: PostProcessVolume
+[2022.03.06-08.21.31:848][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.03.06-08.21.31:854][ 56]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2022.03.06-08.21.58:082][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bin_02)
+[2022.03.06-08.22.19:218][506]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 9397CC704C9DF84EBDB7AE2338F0822EA3F172B5), compiling. 
+[2022.03.06-08.22.19:272][506]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-08.22.19:272][506]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.22.19:297][507]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BB712E69271A60ED7556CB273C209A8F8ABC10CC), compiling. 
+[2022.03.06-08.22.19:302][507]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-08.22.19:303][507]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.22.19:313][508]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.06-08.22.19:313][508]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2022.03.06-08.22.19:323][509]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-08.22.19:323][509]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2022.03.06-08.22.19:323][509]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-08.22.19:323][509]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-08.22.20:044][594]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.03.06-08.22.20:044][594]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-08.22.21:907][814]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: EFA6FE61223D6BAE510E29A234C88E2482C19B13), compiling. 
+[2022.03.06-08.22.21:910][814]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-08.22.21:910][814]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.22.21:953][816]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-08.22.21:953][816]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.22.37:130][615]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 562CBB94BD7D98D59216281ABC5C987C1A9C62FC), compiling. 
+[2022.03.06-08.22.37:134][615]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-08.22.37:134][615]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.03.06-08.22.37:165][616]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.06-08.22.37:165][616]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-08.22.37:165][616]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-08.22.37:423][646]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-08.22.37:423][646]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.03.06-08.22.40:399][992]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 43F6FE2F0B7D7081BB85FFF2D960A60E2409B999), compiling. 
+[2022.03.06-08.22.40:405][992]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-08.22.40:405][992]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.22.40:422][994]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-08.22.40:422][994]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.22.42:644][255]LogMaterialEditor: Applying material M_Bin_Glow
+[2022.03.06-08.22.42:954][255]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: E58188FF671C635FD13B21B6C6A80838CAC996F8), compiling. 
+[2022.03.06-08.22.42:978][255]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: C6FEC0D9845913E67CA09562E6AE0FC04BAE79E2), compiling. 
+[2022.03.06-08.22.43:000][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.03.06-08.22.43:131][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.03.06-08.22.43:142][255]MaterialEditorStats: Base pass shader without light map: 28 instructions
+[2022.03.06-08.22.43:142][255]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.03.06-08.22.43:142][255]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-08.22.43:142][255]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.23.59:219][202]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 875607242E9E92BA35C17E2DBDAD5A5DA410E4FB), compiling. 
+[2022.03.06-08.23.59:225][202]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-08.23.59:225][202]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.23.59:260][204]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-08.23.59:260][204]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.24.02:441][583]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: DA909E632D594C39DB91347A099B6A17D95EBA4F), compiling. 
+[2022.03.06-08.24.02:444][583]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-08.24.02:444][583]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.24.02:487][585]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-08.24.02:487][585]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.24.47:101][145]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: FF6977915DE82F069D6934E864E32144E8B5C768), compiling. 
+[2022.03.06-08.24.47:104][145]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 05A466ED0FF13C8B478180F0FF9D9248E7D32B29), compiling. 
+[2022.03.06-08.24.47:107][145]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-08.24.47:107][145]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.24.47:122][146]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-08.24.47:122][146]LogShaderCompilers: Display: Total job queries 4576, among them cache hits 3890 (85.01%)
+[2022.03.06-08.24.47:122][146]LogShaderCompilers: Display: Tracking 465 distinct input hashes that result in 211 distinct outputs (45.38%)
+[2022.03.06-08.24.47:122][146]LogShaderCompilers: Display: RAM used: 1.10 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.13%
+[2022.03.06-08.24.47:122][146]LogShaderCompilers: Display: ================================================
+[2022.03.06-08.24.47:130][147]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-08.24.47:130][147]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.24.49:522][425]LogMaterialEditor: Applying material M_Bin_Glow
+[2022.03.06-08.24.49:826][425]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 353A48BE41644963A1E7FE298F3EA963C7D1C34E), compiling. 
+[2022.03.06-08.24.49:850][425]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 622D1FE893FD56C37F9C4494C54A7B536C61A400), compiling. 
+[2022.03.06-08.24.49:870][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.03.06-08.24.49:999][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.03.06-08.24.50:012][425]MaterialEditorStats: Base pass shader without light map: 28 instructions
+[2022.03.06-08.24.50:012][425]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.03.06-08.24.50:012][425]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-08.24.50:012][425]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.27.01:806][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.03.06-08.27.01:877][519]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test_Auto45D05FDE0498326B751C41D9D99959601.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Lachlans_Work/Maps/Main_Level_Test_Auto4.umap'
+[2022.03.06-08.27.01:881][519]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lachlans_Work/Maps/Main_Level_Test' took 0.092
+[2022.03.06-08.27.01:881][519]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.092
+[2022.03.06-08.27.01:882][519]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Michaels_Work/Materials/M_Bin_Glow] ([1] browsable assets)...
+[2022.03.06-08.27.01:892][519]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Michaels_Work/Materials/M_Bin_Glow.M_Bin_Glow]
+[2022.03.06-08.27.01:892][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Materials/M_Bin_Glow]
+[2022.03.06-08.27.01:902][519]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/M_Bin_Glow_Auto4C4953DB04FD40A026C7B3383C7DF1A86.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Materials/M_Bin_Glow_Auto4.uasset'
+[2022.03.06-08.27.01:903][519]LogFileHelpers: Auto-saving content packages took 0.023
+[2022.03.06-08.27.31:558][912]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 109A1A7B0D4E1AD5647741B634205AE36FD084A6), compiling. 
+[2022.03.06-08.27.31:934][912]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-08.27.31:934][912]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.27.31:959][913]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 761A9F37504BE93501867DC6809E189E8EFB6568), compiling. 
+[2022.03.06-08.27.31:975][914]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.06-08.27.31:975][914]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2022.03.06-08.27.31:975][914]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-08.27.31:975][914]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2022.03.06-08.27.31:975][914]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-08.27.31:975][914]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-08.27.31:995][916]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-08.27.31:995][916]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.27.32:684][996]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.03.06-08.27.32:684][996]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-08.27.35:937][384]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 5C87D54709725D8432267C456A2E71EFD6E269DA), compiling. 
+[2022.03.06-08.27.35:940][384]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-08.27.35:940][384]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.27.35:982][386]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-08.27.35:982][386]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.28.09:583][368]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: F717B69D8F1BC1AF9063B8728442AFE70D06B4B6), compiling. 
+[2022.03.06-08.28.10:434][368]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-08.28.10:434][368]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.28.10:459][369]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C336D1C298B63D1F2C36CE094320A32A21B13769), compiling. 
+[2022.03.06-08.28.10:475][370]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.06-08.28.10:475][370]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2022.03.06-08.28.10:476][370]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-08.28.10:476][370]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2022.03.06-08.28.10:476][370]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-08.28.10:476][370]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-08.28.10:490][371]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-08.28.10:490][371]LogShaderCompilers: Display: Total job queries 4616, among them cache hits 3918 (84.88%)
+[2022.03.06-08.28.10:490][371]LogShaderCompilers: Display: Tracking 471 distinct input hashes that result in 213 distinct outputs (45.22%)
+[2022.03.06-08.28.10:490][371]LogShaderCompilers: Display: RAM used: 1.11 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.14%
+[2022.03.06-08.28.10:490][371]LogShaderCompilers: Display: ================================================
+[2022.03.06-08.28.10:499][372]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-08.28.10:499][372]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.28.11:197][452]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.03.06-08.28.11:197][452]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-08.28.13:531][730]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 9231FEA7F8846592C72F1CF26BC67C345F902C62), compiling. 
+[2022.03.06-08.28.13:534][730]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-08.28.13:534][730]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.28.13:580][732]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-08.28.13:580][732]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.33.15:673][612]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 7DCFF37149716FF1E22D7AE2427F89BEBBEE0817), compiling. 
+[2022.03.06-08.33.15:945][612]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-08.33.15:945][612]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.33.15:960][614]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.06-08.33.15:961][614]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-08.33.15:961][614]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-08.33.16:461][671]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-08.33.16:461][671]LogShaderCompilers: Display: Total job queries 4624, among them cache hits 3924 (84.86%)
+[2022.03.06-08.33.16:461][671]LogShaderCompilers: Display: Tracking 479 distinct input hashes that result in 216 distinct outputs (45.09%)
+[2022.03.06-08.33.16:461][671]LogShaderCompilers: Display: RAM used: 1.11 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.14%
+[2022.03.06-08.33.16:461][671]LogShaderCompilers: Display: ================================================
+[2022.03.06-08.33.16:471][672]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-08.33.16:471][672]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.33.17:655][807]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: D3AF3E0E65557CD1CD1962085B7FDB23BBB4A7FB), compiling. 
+[2022.03.06-08.33.17:659][807]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-08.33.17:659][807]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.33.17:666][808]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.06-08.33.17:675][809]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-08.33.17:675][809]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-08.33.17:974][844]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-08.33.17:974][844]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.33.19:714][ 47]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: A90E371113328A168C87DD2E8FD9EAC354625A7E), compiling. 
+[2022.03.06-08.33.19:723][ 47]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-08.33.19:723][ 47]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.33.19:742][ 49]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-08.33.19:742][ 49]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.33.22:204][332]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: E6928D5DABFFB1A370B807E69A92C56A778C9A00), compiling. 
+[2022.03.06-08.33.22:211][332]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-08.33.22:212][332]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.33.22:223][333]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.06-08.33.22:223][333]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-08.33.22:223][333]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-08.33.22:520][367]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-08.33.22:520][367]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.33.24:380][581]LogMaterialEditor: Applying material M_Bin_Glow
+[2022.03.06-08.33.24:688][581]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: B2E53BA50AE28BF4042AC35B9397B64E6DE6D266), compiling. 
+[2022.03.06-08.33.24:707][581]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: A90DCD77805B535EDEE66234430A93B924D87910), compiling. 
+[2022.03.06-08.33.24:730][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.03.06-08.33.25:060][581]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2022.03.06-08.33.25:060][581]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-08.33.25:060][581]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2022.03.06-08.33.25:060][581]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-08.33.25:060][581]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-08.33.25:060][581]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2022.03.06-08.33.25:060][581]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-08.33.25:060][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.03.06-08.33.25:884][671]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.03.06-08.33.25:884][671]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-08.33.27:614][737]MaterialEditorStats: Base pass shader without light map: 28 instructions
+[2022.03.06-08.33.27:614][737]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.03.06-08.33.27:614][737]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-08.33.27:614][737]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.33.58:507][155]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: C08F65EE936A793D30F33A9A8EC5E45421BA66C7), compiling. 
+[2022.03.06-08.33.58:510][155]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 8050162E32FD60FCC183385084543DAF1ACB9F80), compiling. 
+[2022.03.06-08.33.58:514][155]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-08.33.58:514][155]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.33.58:520][156]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.06-08.33.58:529][157]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-08.33.58:529][157]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-08.33.58:954][207]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-08.33.58:954][207]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.34.04:292][841]LogMaterialEditor: Applying material M_Bin_Glow
+[2022.03.06-08.34.04:594][841]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: FD1159539425FD81461058DEA85425F745B6076C), compiling. 
+[2022.03.06-08.34.04:615][841]LogMaterial: Display: Missing cached shadermap for M_Bin_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 0ED015E4E1831B6CD3F0E3A628324B5F21A9FAC9), compiling. 
+[2022.03.06-08.34.04:635][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.03.06-08.34.05:969][841]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2022.03.06-08.34.05:969][841]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2022.03.06-08.34.05:969][841]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2022.03.06-08.34.05:969][841]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-08.34.05:969][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.03.06-08.34.05:983][841]MaterialEditorStats: Base pass shader without light map: 28 instructions
+[2022.03.06-08.34.05:983][841]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.03.06-08.34.05:983][841]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-08.34.05:983][841]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.06-08.34.25:125][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.03.06-08.34.25:191][ 38]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test54E8D4574564F5FF5C584FAA9F0C36F5.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Lachlans_Work/Maps/Main_Level_Test.umap'
+[2022.03.06-08.34.25:283][ 38]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test_BuiltDataD39C69A341EFF2EC20E2199EB144F763.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Lachlans_Work/Maps/Main_Level_Test_BuiltData.uasset'
+[2022.03.06-08.34.25:299][ 38]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.06-08.34.25:299][ 38]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Lachlans_Work/Maps/Main_Level_Test_BuiltData.Main_Level_Test_BuiltData
+[2022.03.06-08.34.25:299][ 38]LogContentValidation: Display: Validating World /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test
