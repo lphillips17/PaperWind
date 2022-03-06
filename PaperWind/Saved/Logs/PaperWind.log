@@ -3273,3 +3273,489 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.06-05.14.36:476][997]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Completion_point_BP.Completion_point_BP
 [2022.03.06-05.14.36:476][997]LogContentValidation: Display: Validating World /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test
 [2022.03.06-05.14.36:476][997]LogContentValidation: Display: Validating StaticMesh /Game/Michaels_Work/Meshes/Bin_Mesh.Bin_Mesh
+[2022.03.06-05.15.02:718][883]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.06-05.15.02:765][883]LogFMOD: Default sample rate = 48000
+[2022.03.06-05.15.02:765][883]LogFMOD: System sample rate = 48000
+[2022.03.06-05.15.02:765][883]LogFMOD: Matching system sample rate 48000
+[2022.03.06-05.15.02:783][883]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.06-05.15.02:828][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.06-05.15.02:828][883]PIE: New page: PIE session: Main_Level_Test (7 Mar 2022, 3:15:02 am)
+[2022.03.06-05.15.02:828][883]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-05.15.02:840][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011642s)
+[2022.03.06-05.15.02:840][883]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.06-05.15.02:841][883]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2022.03.06-05.15.02:841][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.012747s)
+[2022.03.06-05.15.02:867][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.03.06-05.15.02:870][883]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.03.06-05.15.02:870][883]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.06-05.15.02:870][883]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.06-05.15.02:870][883]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.06-05.15.02:870][883]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.06-05.15.02:870][883]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.06-05.15.02:870][883]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.06-05.15.02:870][883]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.06-05.15.02:870][883]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.06-05.15.02:871][883]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.06-05.15.02:871][883]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.06-05.15.02:871][883]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.06-05.15.02:871][883]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.06-05.15.02:878][883]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.06-05.15.02:878][883]LogAudioMixer: Display: 1: FrontRight
+[2022.03.06-05.15.02:890][883]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.06-05.15.02:890][883]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.06-05.15.02:890][883]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.06-05.15.02:890][883]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.06-05.15.02:890][883]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.06-05.15.02:890][883]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.06-05.15.02:890][883]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.06-05.15.02:891][883]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.06-05.15.02:891][883]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.06-05.15.02:891][883]LogInit: FAudioDevice initialized.
+[2022.03.06-05.15.02:891][883]LogAudio: Display: Audio Device (ID: 22) registered with world 'Main_Level_Test'.
+[2022.03.06-05.15.02:900][883]LogLoad: Game class is 'Main_GM_C'
+[2022.03.06-05.15.02:905][883]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.06-16.15.02
+[2022.03.06-05.15.02:905][883]LogWorld: Bringing up level for play took: 0.004109
+[2022.03.06-05.15.02:905][883]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.03.06-05.15.02:908][883]PIE: Server logged in
+[2022.03.06-05.15.02:909][883]PIE: Play in editor total start time 0.186 seconds.
+[2022.03.06-05.15.11:380][891]LogNet: Browse: /Game/Lachlans_Work/Maps/Main_Level_Test
+[2022.03.06-05.15.11:380][891]LogLoad: LoadMap: /Game/Lachlans_Work/Maps/Main_Level_Test
+[2022.03.06-05.15.11:380][891]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-05.15.11:381][891]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-05.15.11:381][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-05.15.11:431][891]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.06-05.15.11:434][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.03.06-05.15.11:435][891]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-05.15.11:445][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009256s)
+[2022.03.06-05.15.11:445][891]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.06-05.15.11:446][891]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2022.03.06-05.15.11:446][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.010240s)
+[2022.03.06-05.15.11:446][891]LogAudio: Display: Audio Device (ID: 22) registered with world 'Main_Level_Test'.
+[2022.03.06-05.15.11:446][891]LogLoad: Game class is 'Main_GM_C'
+[2022.03.06-05.15.11:449][891]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.06-16.15.11
+[2022.03.06-05.15.11:449][891]LogWorld: Bringing up level for play took: 0.002354
+[2022.03.06-05.15.11:449][891]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.06-05.15.11:450][891]LogLoad: Took 0.069717 seconds to LoadMap(/Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test)
+[2022.03.06-05.15.12:713][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-05.15.12:713][ 23]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-05.15.12:713][ 23]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-05.15.12:714][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-05.15.12:721][ 23]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.06-05.15.12:733][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-05.15.12:756][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-05.15.12:757][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-05.15.12:758][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-05.15.12:763][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.03.06-05.15.12:788][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.03.06-05.27.19:367][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.03.06-05.32.03:729][ 29]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.03.06-05.32.03:740][ 29]LogContentBrowser: Creating deferred item: NewFolder
+[2022.03.06-05.32.06:750][350]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2022.03.06-05.32.06:751][350]LogContentBrowser: End creating deferred item NewFolder
+[2022.03.06-05.32.16:740][352]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.03.06-05.32.16:751][352]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.03.06-05.32.20:812][787]LogContentBrowser: Attempting asset rename: NewMaterial -> Wind
+[2022.03.06-05.32.20:813][787]LogContentBrowser: End creating deferred item NewMaterial
+[2022.03.06-05.32.32:418][555]LogContentBrowser: Attempting asset rename: Wind -> M_Wind
+[2022.03.06-05.32.32:952][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Michaels_Work/Materials/M_Wind" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/M_Wind.uasset" SILENT=true
+[2022.03.06-05.32.32:957][555]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/M_WindDFC1E3A0413E6A1C15E304A9E0157692.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/M_Wind.uasset'
+[2022.03.06-05.32.33:150][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.03.06-05.32.33:186][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.03.06-05.32.33:210][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.03.06-05.32.33:244][555]AssetCheck: New page: Asset Save: M_Wind
+[2022.03.06-05.32.33:244][555]LogContentValidation: Display: Validating Material /Game/Michaels_Work/Materials/M_Wind.M_Wind
+[2022.03.06-05.32.34:435][649]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Michaels_Work/Materials/M_Wind.M_Wind
+[2022.03.06-05.32.34:503][649]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: 0CAEF948540FD6F5AA297B5C4598B28AFC74DE38), compiling. 
+[2022.03.06-05.32.34:625][649]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.03.06-05.32.34:804][649]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2022.03.06-05.32.34:804][649]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2022.03.06-05.32.34:804][649]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-05.32.35:047][649]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: D052F3ECF2272510C5B50DFCDB555C60D61288D9), compiling. 
+[2022.03.06-05.32.35:051][649]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: F2779749FAFDEE7E3F89CD3506FEDFBFFAAFFBE6), compiling. 
+[2022.03.06-05.32.35:151][649]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-05.32.37:172][766]LogSlate: Window 'M_Wind' being destroyed
+[2022.03.06-05.32.38:444][908]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-05.32.38:444][908]LogShaderCompilers: Display: Total job queries 20, among them cache hits 0 (0.00%)
+[2022.03.06-05.32.38:444][908]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2022.03.06-05.32.38:444][908]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.03.06-05.32.38:444][908]LogShaderCompilers: Display: ================================================
+[2022.03.06-05.32.38:448][909]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-05.32.38:899][963]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.03.06-05.32.38:900][963]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.03.06-05.32.38:900][963]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.06-05.32.38:900][963]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-05.32.42:653][392]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: 69EF23C8200BAF281995C95903C23A2137B5B263), compiling. 
+[2022.03.06-05.32.42:684][392]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-05.32.42:703][394]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-05.32.42:717][395]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.03.06-05.32.42:717][395]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.03.06-05.32.42:717][395]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.06-05.32.42:717][395]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-05.32.43:646][500]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: CB9EAB012C22B96C778609B960A40F61272AB7DD), compiling. 
+[2022.03.06-05.32.43:648][500]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: B1D71FDF073E093812DE13350B559535DF70CD57), compiling. 
+[2022.03.06-05.32.43:651][500]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: 09774266528E502840AEA643CE8C58CB882F09C0), compiling. 
+[2022.03.06-05.32.43:656][500]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-05.32.43:692][502]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.03.06-05.32.43:698][503]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-05.32.43:698][503]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2022.03.06-05.32.43:698][503]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-05.32.43:698][503]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-05.32.44:288][565]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: 9D0BF4F426EC9F98BA0E7181E28991E68E0063A0), compiling. 
+[2022.03.06-05.32.44:317][566]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Normal' priority
+[2022.03.06-05.32.44:699][605]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2022.03.06-05.32.44:699][605]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-05.32.44:710][606]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-05.32.46:818][848]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2022.03.06-05.32.46:818][848]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-05.32.48:218][959]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-05.32.48:219][959]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-05.32.48:751][  0]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-05.32.48:898][ 14]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: 2ADDC541F9BFBF9C8498C813938697AB7E60EE35), compiling. 
+[2022.03.06-05.32.48:919][ 14]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-05.32.48:959][ 17]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-05.32.49:188][ 39]MaterialEditorStats: Base pass shader: 73 instructions
+[2022.03.06-05.32.49:188][ 39]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 94 instructions
+[2022.03.06-05.32.49:188][ 39]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.03.06-05.32.49:188][ 39]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-05.32.51:130][272]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: 82191D77305B5A5348336BFC7778D72A95EA1886), compiling. 
+[2022.03.06-05.32.51:137][272]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: 55CFF792A4112C5BBB05D0231CF8BB6CE5F87429), compiling. 
+[2022.03.06-05.32.51:139][272]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: 2D43A820B623ED2840883D33143AB65E8803EC9E), compiling. 
+[2022.03.06-05.32.51:144][272]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-05.32.51:165][273]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2022.03.06-05.32.51:165][273]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-05.32.51:165][273]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2022.03.06-05.32.51:165][273]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-05.32.51:165][273]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-05.32.52:022][374]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.03.06-05.32.52:022][374]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-05.32.52:034][375]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-05.32.52:312][398]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.03.06-05.32.52:312][398]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-05.32.53:751][454]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2022.03.06-05.32.53:751][454]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.03.06-05.32.53:751][454]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-05.33.11:008][197]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: F4F99AADF337B9ED8D1ACFDB0F7C1CE3170C3039), compiling. 
+[2022.03.06-05.33.11:013][197]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-05.33.11:387][199]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2022.03.06-05.33.11:388][199]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.03.06-05.33.11:388][199]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-05.33.20:466][ 83]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: DA9E532A497C119FD680273400C286B9FBD07297), compiling. 
+[2022.03.06-05.33.20:469][ 83]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-05.33.20:477][ 85]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2022.03.06-05.33.20:486][ 86]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-05.33.20:486][ 86]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2022.03.06-05.33.20:486][ 86]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-05.33.20:486][ 86]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-05.33.21:486][197]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.03.06-05.33.21:486][197]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-05.33.21:497][198]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-05.33.21:785][233]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.03.06-05.33.21:785][233]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-05.33.22:416][292]MaterialEditorStats: Base pass shader without light map: 49 instructions
+[2022.03.06-05.33.22:416][292]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.03.06-05.33.22:416][292]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-05.33.33:478][601]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: 8DCF2E31BFBF25FB19E288C2C40189E8F3B1FA96), compiling. 
+[2022.03.06-05.33.34:152][601]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-05.33.34:181][602]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 14561D16C8605679127298F3110993C6E69A905A), compiling. 
+[2022.03.06-05.33.34:208][603]MaterialEditorStats: Base pass shader without light map: 49 instructions
+[2022.03.06-05.33.34:208][603]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.03.06-05.33.34:208][603]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-05.33.34:209][603]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.06-05.33.34:213][604]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-05.33.34:213][604]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-05.33.34:238][604]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2022.03.06-05.33.34:238][604]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2022.03.06-05.33.34:238][604]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-05.33.34:857][675]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.03.06-05.33.34:857][675]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-05.33.41:660][439]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: 112F6F09B462D787CC596DB41BAA86146D622402), compiling. 
+[2022.03.06-05.33.41:662][439]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-05.33.41:688][441]MaterialEditorStats: Base pass shader without light map: 49 instructions
+[2022.03.06-05.33.41:688][441]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.03.06-05.33.41:688][441]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-05.33.44:511][758]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: 93E2052B6F4816A7C6305810D0C1FC55CA1480B0), compiling. 
+[2022.03.06-05.33.44:516][758]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-05.33.44:538][761]MaterialEditorStats: Base pass shader without light map: 49 instructions
+[2022.03.06-05.33.44:538][761]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.03.06-05.33.44:538][761]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-05.33.45:601][865]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: DABBAB6E4AFF2E5D495BB5BDBBC9EEDB6F67CB1F), compiling. 
+[2022.03.06-05.33.45:605][865]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-05.33.45:627][868]MaterialEditorStats: Base pass shader without light map: 49 instructions
+[2022.03.06-05.33.45:627][868]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.03.06-05.33.45:627][868]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-05.33.47:763][106]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: 9E069C493C53529A9DDC646FF1F38538F410AB10), compiling. 
+[2022.03.06-05.33.47:767][106]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-05.33.47:767][106]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-05.33.47:776][108]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2022.03.06-05.33.47:778][108]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-05.33.47:778][108]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2022.03.06-05.33.47:778][108]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-05.33.47:778][108]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-05.33.48:642][196]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.03.06-05.33.48:642][196]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-05.33.48:653][198]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-05.33.48:654][198]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-05.33.48:910][228]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.03.06-05.33.48:910][228]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-05.33.49:540][298]MaterialEditorStats: Base pass shader without light map: 66 instructions
+[2022.03.06-05.33.49:541][298]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.03.06-05.33.49:541][298]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-05.33.49:541][298]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-05.33.54:877][936]LogMaterialEditor: Applying material M_Wind
+[2022.03.06-05.33.55:282][936]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: AC9C507C532C479FBBFB9236BBB1D151EA0B00D1), compiling. 
+[2022.03.06-05.33.55:307][936]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: 2B762BBD1FFA27AF8456B5A8EE16D51EF379C24F), compiling. 
+[2022.03.06-05.33.55:339][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.03.06-05.33.55:374][936]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.03.06-05.33.56:642][936]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.03.06-05.33.56:642][936]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-05.33.56:642][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.03.06-05.33.56:673][936]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-05.33.56:673][936]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-05.33.56:681][938]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Normal' priority
+[2022.03.06-05.33.56:691][938]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-05.33.56:691][938]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-05.33.56:696][939]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-05.33.56:696][939]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-05.33.56:957][969]MaterialEditorStats: Base pass shader without light map: 66 instructions
+[2022.03.06-05.33.56:957][969]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.03.06-05.33.56:957][969]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-05.33.56:957][969]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-05.33.57:755][ 64]LogMaterialEditor: Saving and Compiling material M_Wind
+[2022.03.06-05.33.57:777][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Michaels_Work/Materials/M_Wind" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/M_Wind.uasset" SILENT=true
+[2022.03.06-05.33.57:783][ 64]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/M_Wind329AE86046F58230062333A1A3502773.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/M_Wind.uasset'
+[2022.03.06-05.33.57:801][ 64]AssetCheck: New page: Asset Save: M_Wind
+[2022.03.06-05.33.57:801][ 64]LogContentValidation: Display: Validating Material /Game/Michaels_Work/Materials/M_Wind.M_Wind
+[2022.03.06-05.34.02:931][521]LogContentBrowser: Deferred new asset file creation: NewParticleSystem
+[2022.03.06-05.34.02:942][521]LogContentBrowser: Creating deferred item: NewParticleSystem
+[2022.03.06-05.34.08:225][967]LogContentBrowser: Attempting asset rename: NewParticleSystem -> P_Wind
+[2022.03.06-05.34.08:226][967]LogContentBrowser: End creating deferred item NewParticleSystem
+[2022.03.06-05.34.09:493][ 68]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Michaels_Work/Materials/P_Wind.P_Wind
+[2022.03.06-05.34.09:570][ 68]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Cascade' in 0.0009 seconds. Added 2 classes and 2 folders.
+[2022.03.06-05.39.35:145][619]LogMaterial: Display: Material /Game/Michaels_Work/Materials/M_Wind.M_Wind needed to have new flag set bUsedWithBeamTrails !
+[2022.03.06-05.39.35:164][619]LogMaterial: Display: Material /Engine/Transient.M_Wind needed to have new flag set bUsedWithBeamTrails !
+[2022.03.06-05.39.35:165][619]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: 4C73ADFFC18187D139BEF27DB581C6206245EF74), compiling. 
+[2022.03.06-05.39.35:173][619]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: BBED309EE000D87FEB7BBD8AC206BBF3B381BAC0), compiling. 
+[2022.03.06-05.39.35:187][619]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.06-05.39.35:187][619]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-05.39.35:187][619]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-05.39.35:198][619]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2022.03.06-05.39.35:198][619]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2022.03.06-05.39.35:198][619]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Low' priority
+[2022.03.06-05.39.35:198][619]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-05.39.35:198][619]LogShaderCompilers: Display: Total job queries 246, among them cache hits 130 (52.85%)
+[2022.03.06-05.39.35:198][619]LogShaderCompilers: Display: Tracking 69 distinct input hashes that result in 39 distinct outputs (56.52%)
+[2022.03.06-05.39.35:198][619]LogShaderCompilers: Display: RAM used: 0.18 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.03.06-05.39.35:198][619]LogShaderCompilers: Display: ================================================
+[2022.03.06-05.39.35:206][620]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-05.39.35:206][620]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-05.39.37:017][660]MaterialEditorStats: Base pass shader without light map: 66 instructions
+[2022.03.06-05.39.37:017][660]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.03.06-05.39.37:017][660]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-05.39.37:017][660]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-05.39.40:985][822]LogSlate: Window 'P_Wind' being destroyed
+[2022.03.06-05.41.02:784][933]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2022.03.06-05.41.02:786][933]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lachlans_Work/Maps/Main_Level_Test' took 0.123
+[2022.03.06-05.41.02:786][933]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Michaels_Work/Materials/M_Wind] ([1] browsable assets)...
+[2022.03.06-05.41.02:786][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Materials/M_Wind]
+[2022.03.06-05.41.02:789][933]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/M_Wind_Auto2F9939E8946EE9186754B6EBD7A5364BA.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Materials/M_Wind_Auto2.uasset'
+[2022.03.06-05.41.02:790][933]LogFileHelpers: Auto-saving content packages took 0.004
+[2022.03.06-05.45.07:611][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Michaels_Work/Materials/P_Wind" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/P_Wind.uasset" SILENT=true
+[2022.03.06-05.45.07:628][529]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/P_Wind6CDC7D114D4DAC0CFDBB55AB7C72798D.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/P_Wind.uasset'
+[2022.03.06-05.45.07:642][529]AssetCheck: New page: Asset Save: P_Wind
+[2022.03.06-05.45.07:642][529]LogContentValidation: Display: Validating ParticleSystem /Game/Michaels_Work/Materials/P_Wind.P_Wind
+[2022.03.06-05.51.03:161][349]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.03.06-05.51.03:235][349]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test_Auto3742C744548E96D8ECE7CE69F9BDE7D61.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Lachlans_Work/Maps/Main_Level_Test_Auto3.umap'
+[2022.03.06-05.51.03:237][349]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lachlans_Work/Maps/Main_Level_Test' took 0.160
+[2022.03.06-05.51.03:237][349]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.160
+[2022.03.06-05.51.03:238][349]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Michaels_Work/Materials/P_Wind] ([1] browsable assets)...
+[2022.03.06-05.51.03:240][349]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Michaels_Work/Materials/P_Wind.P_Wind]
+[2022.03.06-05.51.03:240][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Materials/P_Wind]
+[2022.03.06-05.51.03:249][349]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/P_Wind_Auto3C52D6B8E4230796A2C1F9C8A2278D63B.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Materials/P_Wind_Auto3.uasset'
+[2022.03.06-05.51.03:250][349]LogFileHelpers: Auto-saving content packages took 0.013
+[2022.03.06-05.56.07:578][194]LogEditorViewport: Clicking on Actor (LMB): Floor_is_lava_BP_C (Floor_is_lava_BP)
+[2022.03.06-05.56.11:426][613]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_C (Blower_Fan4)
+[2022.03.06-05.56.17:193][248]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Wind)
+[2022.03.06-05.57.10:302][698]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Wind2)
+[2022.03.06-05.58.38:125][315]Cmd: DELETE
+[2022.03.06-05.58.38:125][315]Cmd: ACTOR DELETE
+[2022.03.06-05.58.38:129][315]LogEditorActor: Deleted Actor: Emitter
+[2022.03.06-05.58.38:160][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.03.06-05.58.38:171][315]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2022.03.06-05.58.45:782][168]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_C (Blower_Fan4)
+[2022.03.06-05.58.55:280][130]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Lachlans_Work/Blueprints/Blower_Fan_Michael_edit.Blower_Fan_Michael_edit
+[2022.03.06-05.59.40:315][198]BlueprintLog: New page: Compile Blower_Fan_Michael_edit
+[2022.03.06-05.59.40:375][198]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.03.06-05.59.56:096][967]LogEditorViewport: Clicking on Actor (LMB): Floor_is_lava_BP_C (Floor_is_lava_BP)
+[2022.03.06-06.00.12:228][677]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Wind)
+[2022.03.06-06.00.13:669][815]Cmd: DELETE
+[2022.03.06-06.00.13:669][815]Cmd: ACTOR DELETE
+[2022.03.06-06.00.13:674][815]LogEditorActor: Deleted Actor: Emitter
+[2022.03.06-06.00.13:706][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.03.06-06.00.13:708][815]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.03.06-06.00.16:787][150]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_Michael_edit_C (Blower_Fan_Michael_edit)
+[2022.03.06-06.01.42:662][432]BlueprintLog: New page: Compile Blower_Fan_Michael_edit
+[2022.03.06-06.01.42:759][432]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.03.06-06.02.34:482][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fan_01)
+[2022.03.06-06.02.35:503][ 36]Cmd: DELETE
+[2022.03.06-06.02.35:503][ 36]Cmd: ACTOR DELETE
+[2022.03.06-06.02.35:507][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.06-06.02.35:537][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.03.06-06.02.35:540][ 36]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.03.06-06.02.49:296][587]BlueprintLog: New page: Compile Blower_Fan_Michael_edit
+[2022.03.06-06.02.49:350][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.03.06-06.02.58:903][690]Cmd: TRANSACTION UNDO
+[2022.03.06-06.02.58:903][690]LogEditorTransaction: Undo Remove Components
+[2022.03.06-06.02.58:914][690]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: D585F650DC0B212B32DBCF57BD9CB4715E4EC617), compiling. 
+[2022.03.06-06.02.58:933][690]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-06.02.58:933][690]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.02.58:977][692]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-06.02.58:977][692]LogShaderCompilers: Display: Total job queries 255, among them cache hits 139 (54.51%)
+[2022.03.06-06.02.58:977][692]LogShaderCompilers: Display: Tracking 81 distinct input hashes that result in 47 distinct outputs (58.02%)
+[2022.03.06-06.02.58:977][692]LogShaderCompilers: Display: RAM used: 0.22 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2022.03.06-06.02.58:977][692]LogShaderCompilers: Display: ================================================
+[2022.03.06-06.02.58:987][693]MaterialEditorStats: Base pass shader without light map: 66 instructions
+[2022.03.06-06.02.58:987][693]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.03.06-06.02.58:987][693]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-06.02.58:987][693]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.02.59:608][735]Cmd: TRANSACTION UNDO
+[2022.03.06-06.02.59:608][735]LogEditorTransaction: Undo Remove Components
+[2022.03.06-06.02.59:614][735]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: 87E777BEE78D241B6949F388798389555CA6268D), compiling. 
+[2022.03.06-06.02.59:618][735]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-06.02.59:618][735]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.02.59:645][738]MaterialEditorStats: Base pass shader without light map: 66 instructions
+[2022.03.06-06.02.59:645][738]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.03.06-06.02.59:645][738]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-06.02.59:645][738]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.03.14:076][399]BlueprintLog: New page: Compile Blower_Fan_Michael_edit
+[2022.03.06-06.03.14:132][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.03.06-06.03.14:626][445]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Blower_Fan_Michael_edit449C3A3F4EEA03D6E3DEC9926894902A.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Lachlans_Work/Blueprints/Blower_Fan_Michael_edit.uasset'
+[2022.03.06-06.03.14:642][445]AssetCheck: New page: Asset Save: Blower_Fan_Michael_edit
+[2022.03.06-06.03.14:642][445]LogContentValidation: Display: Validating Blueprint /Game/Lachlans_Work/Blueprints/Blower_Fan_Michael_edit.Blower_Fan_Michael_edit
+[2022.03.06-06.03.42:214][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Michaels_Work/Materials/P_Wind" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/P_Wind.uasset" SILENT=true
+[2022.03.06-06.03.42:222][685]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/P_WindB16EB47A41A4C907E0398FA9CEBDB4A0.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/P_Wind.uasset'
+[2022.03.06-06.03.42:234][685]AssetCheck: New page: Asset Save: P_Wind
+[2022.03.06-06.03.42:234][685]LogContentValidation: Display: Validating ParticleSystem /Game/Michaels_Work/Materials/P_Wind.P_Wind
+[2022.03.06-06.03.43:185][791]LogCascade: Quitting Cascade. FXSystem=0x0000025D2B8382B0
+[2022.03.06-06.03.43:190][791]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-06.03.43:190][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-06.03.51:060][717]BlueprintLog: New page: Compile Blower_Fan_Michael_edit
+[2022.03.06-06.03.51:119][717]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.03.06-06.04.07:327][605]BlueprintLog: New page: Compile Blower_Fan_Michael_edit
+[2022.03.06-06.04.07:381][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.03.06-06.04.29:611][196]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_C (Blower_Fan2)
+[2022.03.06-06.04.33:062][532]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_C (Blower_Fan4)
+[2022.03.06-06.04.36:252][855]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_Michael_edit_C (Blower_Fan_Michael_edit)
+[2022.03.06-06.04.40:348][279]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_C (Blower_Fan4)
+[2022.03.06-06.04.45:006][789]Cmd: DELETE
+[2022.03.06-06.04.45:006][789]Cmd: ACTOR DELETE
+[2022.03.06-06.04.45:011][789]LogEditorActor: Deleted Actor: Blower_Fan_C
+[2022.03.06-06.04.45:040][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.03.06-06.04.45:043][789]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2022.03.06-06.04.46:003][904]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_Michael_edit_C (Blower_Fan_Michael_edit)
+[2022.03.06-06.04.53:833][816]LogEditorViewport: Clicking on Actor (LMB): Floor_is_lava_BP_C (Floor_is_lava_BP)
+[2022.03.06-06.04.56:148][ 71]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_Michael_edit_C (Blower_Fan_Michael_edit)
+[2022.03.06-06.04.57:908][259]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_C (Blower_Fan2)
+[2022.03.06-06.04.59:249][401]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_Michael_edit_C (Blower_Fan_Michael_edit)
+[2022.03.06-06.05.02:137][694]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_C (Blower_Fan2)
+[2022.03.06-06.05.03:914][904]Cmd: DELETE
+[2022.03.06-06.05.03:914][904]Cmd: ACTOR DELETE
+[2022.03.06-06.05.03:918][904]LogEditorActor: Deleted Actor: Blower_Fan_C
+[2022.03.06-06.05.03:945][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.03.06-06.05.03:948][904]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.03.06-06.05.04:511][971]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_Michael_edit_C (Blower_Fan_Michael_edit)
+[2022.03.06-06.05.09:566][537]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_Michael_edit_C (Blower_Fan_Michael_edit)
+[2022.03.06-06.05.15:742][191]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_Michael_edit_C (Blower_Fan_Michael_edit2)
+[2022.03.06-06.07.04:346][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.03.06-06.07.04:406][ 55]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test_Auto42B56A0CE463C5E7C20108AB83E45D8E2.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Lachlans_Work/Maps/Main_Level_Test_Auto4.umap'
+[2022.03.06-06.07.04:408][ 55]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lachlans_Work/Maps/Main_Level_Test' took 0.093
+[2022.03.06-06.07.04:408][ 55]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.093
+[2022.03.06-06.07.04:408][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Lachlans_Work/Blueprints/Blower_Fan_Michael_edit] ([4] browsable assets)...
+[2022.03.06-06.07.04:408][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lachlans_Work/Blueprints/Blower_Fan_Michael_edit]
+[2022.03.06-06.07.04:439][ 55]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Blower_Fan_Michael_edit_Auto49678C0B9419A81C2B08BB490DFA89FE2.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Lachlans_Work/Blueprints/Blower_Fan_Michael_edit_Auto4.uasset'
+[2022.03.06-06.07.04:440][ 55]LogFileHelpers: Auto-saving content packages took 0.032
+[2022.03.06-06.07.52:628][286]LogSlate: Window 'Message' being destroyed
+[2022.03.06-06.07.52:635][286]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Michaels_Work/Materials/M_Wind.M_Wind
+(Selecting 'No' will cause all changes to be lost!)
+[2022.03.06-06.07.52:954][286]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: FDA442E766AA7241C16C1F902F4C7D1E849A3B36), compiling. 
+[2022.03.06-06.07.52:975][286]LogMaterial: Display: Missing cached shadermap for M_Wind in PCD3D_SM5, Default, SM5 (DDC key hash: 12B3E9D19556077746445DAECE6017C0889F65F4), compiling. 
+[2022.03.06-06.07.53:008][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.03.06-06.07.53:118][286]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-06.07.53:118][286]LogShaderCompilers: Display: Total job queries 275, among them cache hits 159 (57.82%)
+[2022.03.06-06.07.53:118][286]LogShaderCompilers: Display: Tracking 81 distinct input hashes that result in 47 distinct outputs (58.02%)
+[2022.03.06-06.07.53:118][286]LogShaderCompilers: Display: RAM used: 0.22 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2022.03.06-06.07.53:118][286]LogShaderCompilers: Display: ================================================
+[2022.03.06-06.07.53:144][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.03.06-06.07.53:209][286]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-06.07.53:209][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-06.08.20:808][308]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.03.06-06.08.20:821][308]LogContentBrowser: Creating deferred item: NewFolder
+[2022.03.06-06.08.23:350][603]LogContentBrowser: Attempting asset rename: NewFolder -> Emitters
+[2022.03.06-06.08.23:416][603]LogContentBrowser: End creating deferred item NewFolder
+[2022.03.06-06.08.26:712][907]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/P_WindF950B83C4DD8DAE3593AF39998A778FD.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/Emitters/P_Wind.uasset'
+[2022.03.06-06.08.27:137][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.03.06-06.08.27:175][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.03.06-06.08.27:201][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.03.06-06.08.27:243][907]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Blower_Fan_Michael_edit627DCDDD4727B73AE9DE07BB597A1927.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Lachlans_Work/Blueprints/Blower_Fan_Michael_edit.uasset'
+[2022.03.06-06.08.27:321][907]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.06-06.08.27:321][907]LogContentValidation: Display: Validating Blueprint /Game/Lachlans_Work/Blueprints/Blower_Fan_Michael_edit.Blower_Fan_Michael_edit
+[2022.03.06-06.08.27:321][907]LogContentValidation: Display: Validating ParticleSystem /Game/Michaels_Work/Materials/Emitters/P_Wind.P_Wind
+[2022.03.06-06.08.33:122][480]LogContentBrowser: Deferred new asset file creation: NewParticleSystem
+[2022.03.06-06.08.33:134][480]LogContentBrowser: Creating deferred item: NewParticleSystem
+[2022.03.06-06.08.42:507][584]LogContentBrowser: Attempting asset rename: NewParticleSystem -> P_Wind_Left
+[2022.03.06-06.08.42:508][584]LogContentBrowser: End creating deferred item NewParticleSystem
+[2022.03.06-06.08.44:327][782]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Michaels_Work/Materials/Emitters/P_Wind_Left.P_Wind_Left
+[2022.03.06-06.08.49:324][354]LogCascade: Quitting Cascade. FXSystem=0x0000025D00081210
+[2022.03.06-06.08.49:327][354]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-06.08.49:327][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-06.08.52:011][653]BlueprintLog: New page: Compile Blower_Fan_Michael_edit
+[2022.03.06-06.08.52:072][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.03.06-06.08.57:433][253]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.03.06-06.08.58:529][253]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.06-06.08.58:601][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.03.06-06.09.00:539][431]LogContentBrowser: Deferred new asset file creation: P_Wind1
+[2022.03.06-06.09.00:553][431]LogContentBrowser: Creating deferred item: P_Wind1
+[2022.03.06-06.09.04:788][931]LogContentBrowser: Attempting asset rename: P_Wind1 -> P_Wind_Left
+[2022.03.06-06.09.04:790][931]LogContentBrowser: End creating deferred item P_Wind1
+[2022.03.06-06.09.06:316][105]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Michaels_Work/Materials/Emitters/P_Wind_Left.P_Wind_Left
+[2022.03.06-06.09.45:999][799]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/P_Wind_Left09CA324B46FDC02A82C4AF90C68B27CE.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/Emitters/P_Wind_Left.uasset'
+[2022.03.06-06.09.46:011][799]AssetCheck: New page: Asset Save: P_Wind_Left
+[2022.03.06-06.09.46:011][799]LogContentValidation: Display: Validating ParticleSystem /Game/Michaels_Work/Materials/Emitters/P_Wind_Left.P_Wind_Left
+[2022.03.06-06.10.01:843][617]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_Michael_edit_C (Blower_Fan_Michael_edit)
+[2022.03.06-06.10.03:865][847]Cmd: DELETE
+[2022.03.06-06.10.03:865][847]Cmd: ACTOR DELETE
+[2022.03.06-06.10.03:869][847]LogEditorActor: Deleted Actor: Blower_Fan_Michael_edit_C
+[2022.03.06-06.10.03:898][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.03.06-06.10.03:902][847]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.03.06-06.10.04:946][970]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_Michael_edit_C (Blower_Fan_Michael_edit2)
+[2022.03.06-06.10.05:089][984]Cmd: DELETE
+[2022.03.06-06.10.05:089][984]Cmd: ACTOR DELETE
+[2022.03.06-06.10.05:092][984]LogEditorActor: Deleted Actor: Blower_Fan_Michael_edit_C
+[2022.03.06-06.10.05:120][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.03.06-06.10.05:121][984]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2022.03.06-06.10.08:120][326]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_C (Blower_Fan3)
+[2022.03.06-06.10.55:039][422]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_C (Blower_Fan4)
+[2022.03.06-06.11.10:334][  0]LogContentBrowser: Attempting asset rename: P_Wind -> P_Wind_Right
+[2022.03.06-06.11.10:379][  0]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/P_Wind_RightF25C5DAD4C58E110280FEDAC587A66EB.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/Emitters/P_Wind_Right.uasset'
+[2022.03.06-06.11.10:560][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.03.06-06.11.10:595][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.03.06-06.11.10:621][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.03.06-06.11.10:669][  0]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Blower_Fan_Michael_editD8D00F884AFEA495E2C2DCA3262EF6A6.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Lachlans_Work/Blueprints/Blower_Fan_Michael_edit.uasset'
+[2022.03.06-06.11.10:708][  0]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.06-06.11.10:708][  0]LogContentValidation: Display: Validating Blueprint /Game/Lachlans_Work/Blueprints/Blower_Fan_Michael_edit.Blower_Fan_Michael_edit
+[2022.03.06-06.11.10:708][  0]LogContentValidation: Display: Validating ParticleSystem /Game/Michaels_Work/Materials/Emitters/P_Wind_Right.P_Wind_Right
+[2022.03.06-06.11.45:127][602]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Wind_Right)
+[2022.03.06-06.11.49:893][970]LogEditorViewport: Clicking on Actor (LMB): Floor_is_lava_BP_C (Floor_is_lava_BP)
+[2022.03.06-06.11.51:082][ 91]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Wind_Left)
+[2022.03.06-06.11.55:481][435]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Wind_Left2)
+[2022.03.06-06.12.02:017][984]LogEditorViewport: Clicking on Actor (LMB): Floor_is_lava_BP_C (Floor_is_lava_BP)
+[2022.03.06-06.12.05:143][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.03.06-06.12.06:302][301]LogSlate: Window 'Save Content' being destroyed
+[2022.03.06-06.12.06:341][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Michaels_Work/Materials/M_Wind" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/M_Wind.uasset" SILENT=true
+[2022.03.06-06.12.06:346][301]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/M_WindFB59AFC5483348A4817C47AAC5690211.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/M_Wind.uasset'
+[2022.03.06-06.12.06:373][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.03.06-06.12.06:432][301]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_TestD107C2044B8502189235D590CD8B333C.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Lachlans_Work/Maps/Main_Level_Test.umap'
+[2022.03.06-06.12.06:439][301]LogFileHelpers: Saving map 'Main_Level_Test' took 0.092
+[2022.03.06-06.12.06:457][301]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.06-06.12.06:457][301]LogContentValidation: Display: Validating World /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test
+[2022.03.06-06.12.06:457][301]LogContentValidation: Display: Validating Material /Game/Michaels_Work/Materials/M_Wind.M_Wind
