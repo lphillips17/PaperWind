@@ -3875,3 +3875,99 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.06-00.15.16:053][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
 [2022.03.06-00.15.16:075][226]LogPlayLevel: Display: Destroying online subsystem :Context_46
 [2022.03.06-00.15.36:344][553]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.03.06-00.16.51:764][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.03.06-00.16.51:807][345]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test_Auto3CE38117A4E231289D27BE7B8617FD4D8.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Lachlans_Work/Maps/Main_Level_Test_Auto3.umap'
+[2022.03.06-00.16.51:810][345]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lachlans_Work/Maps/Main_Level_Test' took 0.064
+[2022.03.06-00.16.51:811][345]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2022.03.06-00.17.56:908][551]LogHttp: Warning: 0000025594304800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F0AAD7D-46F9-1118-8CB5-14A62AED59EE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e053ae4848a54b2a5e2be89da400173e%7C7eb7e3faf26a4149abee85d63ccc126f%7C0a2d0ee1-2d17-4a44-8c89-bacb540d44ac&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.03.06-00.17.56:927][551]LogHttp: Warning: 0000025594304800: request failed, libcurl error: 0 (No error)
+[2022.03.06-00.17.56:927][551]LogHttp: Warning: 0000025594304800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x25532acfeb0 [can pipeline])
+[2022.03.06-00.17.56:927][551]LogHttp: Warning: 0000025594304800: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.03.06-00.17.56:927][551]LogHttp: Warning: 0000025594304800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.86.17.177) port 443 (#0))
+[2022.03.06-00.17.56:927][551]LogHttp: Warning: 0000025594304800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.03.06-00.17.56:927][551]LogHttp: Warning: 0000025594304800: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.03.06-00.17.56:927][551]LogHttp: Warning: 0000025594304800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.03.06-00.17.56:927][551]LogHttp: Warning: 0000025594304800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.03.06-00.17.56:927][551]LogHttp: Warning: 0000025594304800: libcurl info message cache 7 (Closing connection 0)
+[2022.03.06-00.17.56:927][551]LogHttp: Warning: 0000025594304800: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.03.06-00.17.56:934][552]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F0AAD7D-46F9-1118-8CB5-14A62AED59EE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e053ae4848a54b2a5e2be89da400173e%7C7eb7e3faf26a4149abee85d63ccc126f%7C0a2d0ee1-2d17-4a44-8c89-bacb540d44ac&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.03.06-00.17.59:588][828]LogSlate: Window 'Select Path' being destroyed
+[2022.03.06-00.18.00:755][828]LogStaticMesh: Building static mesh Roof...
+[2022.03.06-00.18.00:766][828]LogStaticMesh: Built static mesh [0.01s] /Game/Michaels_Work/Meshes/Roof.Roof
+[2022.03.06-00.18.00:780][828]LogActorFactory: Actor Factory created Roof
+[2022.03.06-00.18.00:806][828]LogEditor: Error: Actor 'Brush /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test:PersistentLevel.BoxBrush' is marked pending kill and cannot be converted
+[2022.03.06-00.18.00:806][828]EditorErrors: New page: Actor Reattachment
+[2022.03.06-00.18.00:823][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.03.06-00.18.14:355][258]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.06-00.18.14:412][258]LogFMOD: Default sample rate = 48000
+[2022.03.06-00.18.14:412][258]LogFMOD: System sample rate = 48000
+[2022.03.06-00.18.14:412][258]LogFMOD: Matching system sample rate 48000
+[2022.03.06-00.18.14:431][258]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.06-00.18.14:476][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.06-00.18.14:476][258]PIE: New page: PIE session: Main_Level_Test (6 Mar 2022, 10:18:14 pm)
+[2022.03.06-00.18.14:476][258]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-00.18.14:483][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006745s)
+[2022.03.06-00.18.14:483][258]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.06-00.18.14:484][258]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2022.03.06-00.18.14:484][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.007793s)
+[2022.03.06-00.18.14:501][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.03.06-00.18.14:503][258]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2022.03.06-00.18.14:503][258]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.06-00.18.14:503][258]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.06-00.18.14:503][258]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.06-00.18.14:503][258]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.06-00.18.14:503][258]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.06-00.18.14:503][258]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.06-00.18.14:503][258]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.06-00.18.14:503][258]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.06-00.18.14:503][258]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.06-00.18.14:504][258]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.06-00.18.14:504][258]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.06-00.18.14:504][258]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.06-00.18.14:510][258]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.06-00.18.14:510][258]LogAudioMixer: Display: 1: FrontRight
+[2022.03.06-00.18.14:522][258]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.06-00.18.14:522][258]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.06-00.18.14:522][258]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.06-00.18.14:522][258]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.06-00.18.14:523][258]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.06-00.18.14:523][258]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.06-00.18.14:523][258]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.06-00.18.14:524][258]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.06-00.18.14:524][258]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.06-00.18.14:524][258]LogInit: FAudioDevice initialized.
+[2022.03.06-00.18.14:524][258]LogAudio: Display: Audio Device (ID: 39) registered with world 'Main_Level_Test'.
+[2022.03.06-00.18.14:534][258]LogLoad: Game class is 'Main_GM_C'
+[2022.03.06-00.18.14:538][258]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.06-11.18.14
+[2022.03.06-00.18.14:538][258]LogWorld: Bringing up level for play took: 0.003098
+[2022.03.06-00.18.14:538][258]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2022.03.06-00.18.14:540][258]PIE: Server logged in
+[2022.03.06-00.18.14:541][258]PIE: Play in editor total start time 0.18 seconds.
+[2022.03.06-00.18.19:639][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-00.18.19:639][847]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-00.18.19:640][847]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-00.18.19:640][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-00.18.19:652][847]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.06-00.18.19:667][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-00.18.19:683][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-00.18.19:683][847]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-00.18.19:684][847]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-00.18.19:689][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.03.06-00.18.19:725][848]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2022.03.06-00.18.26:764][535]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Michaels_Work/Meshes/Roof.Roof
+[2022.03.06-00.18.28:148][535]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.03.06-00.18.28:372][535]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.03.06-00.18.30:987][679]LogRenderer: Reallocating scene render targets to support 1912x1280 Format 10 NumSamples 1 (Frame:147).
+[2022.03.06-00.18.30:995][679]LogSlate: Window 'Roof' being destroyed
+[2022.03.06-00.18.40:760][713]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-00.18.40:760][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-00.18.45:473][995]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.03.06-00.18.46:530][995]LogSlate: Window 'Save Content' being destroyed
+[2022.03.06-00.18.46:606][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.03.06-00.18.46:643][995]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test614D802449DCA3A8BB9F2C9ACC312D3B.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Lachlans_Work/Maps/Main_Level_Test.umap'
+[2022.03.06-00.18.46:659][995]LogFileHelpers: Saving map 'Main_Level_Test' took 0.086
+[2022.03.06-00.18.46:669][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Michaels_Work/Meshes/Roof" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Meshes/Roof.uasset" SILENT=true
+[2022.03.06-00.18.46:822][995]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Roof4ACA3A8D48A60DBA2E06BCBE12F59EB8.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Meshes/Roof.uasset'
+[2022.03.06-00.18.46:839][995]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.06-00.18.46:839][995]LogContentValidation: Display: Validating World /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test
+[2022.03.06-00.18.46:839][995]LogContentValidation: Display: Validating StaticMesh /Game/Michaels_Work/Meshes/Roof.Roof
