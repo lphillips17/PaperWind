@@ -6861,3 +6861,1202 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.06-01.08.50:446][474]LogContentValidation: Display: Validating World /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test
 [2022.03.06-01.08.50:446][474]LogContentValidation: Display: Validating Blueprint /Game/Lachlans_Work/Blueprints/Blower_Fan_Michael_edit.Blower_Fan_Michael_edit
 [2022.03.06-01.08.50:446][474]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Lachlans_Work/Maps/Main_Level_Test_BuiltData.Main_Level_Test_BuiltData
+[2022.03.06-01.09.18:169][168]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.06-01.09.18:222][168]LogFMOD: Default sample rate = 48000
+[2022.03.06-01.09.18:223][168]LogFMOD: System sample rate = 48000
+[2022.03.06-01.09.18:223][168]LogFMOD: Matching system sample rate 48000
+[2022.03.06-01.09.18:242][168]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.06-01.09.18:285][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.06-01.09.18:285][168]PIE: New page: PIE session: Main_Level_Test (6 Mar 2022, 11:09:18 pm)
+[2022.03.06-01.09.18:285][168]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-01.09.18:292][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007189s)
+[2022.03.06-01.09.18:293][168]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.06-01.09.18:293][168]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2022.03.06-01.09.18:293][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.008243s)
+[2022.03.06-01.09.18:325][168]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.03.06-01.09.18:328][168]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2022.03.06-01.09.18:328][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.06-01.09.18:328][168]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.06-01.09.18:328][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.06-01.09.18:328][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.06-01.09.18:328][168]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.06-01.09.18:328][168]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.06-01.09.18:328][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.06-01.09.18:328][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.06-01.09.18:328][168]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.06-01.09.18:328][168]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.06-01.09.18:328][168]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.06-01.09.18:328][168]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.06-01.09.18:335][168]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.06-01.09.18:335][168]LogAudioMixer: Display: 1: FrontRight
+[2022.03.06-01.09.18:347][168]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.06-01.09.18:347][168]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.06-01.09.18:347][168]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.06-01.09.18:347][168]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.06-01.09.18:347][168]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.06-01.09.18:347][168]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.06-01.09.18:347][168]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.06-01.09.18:348][168]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.06-01.09.18:348][168]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.06-01.09.18:348][168]LogInit: FAudioDevice initialized.
+[2022.03.06-01.09.18:348][168]LogAudio: Display: Audio Device (ID: 82) registered with world 'Main_Level_Test'.
+[2022.03.06-01.09.18:355][168]LogLoad: Game class is 'Main_GM_C'
+[2022.03.06-01.09.18:359][168]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.06-12.09.18
+[2022.03.06-01.09.18:359][168]LogWorld: Bringing up level for play took: 0.003550
+[2022.03.06-01.09.18:359][168]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2022.03.06-01.09.18:361][168]PIE: Server logged in
+[2022.03.06-01.09.18:362][168]PIE: Play in editor total start time 0.186 seconds.
+[2022.03.06-01.09.22:099][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-01.09.22:099][589]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-01.09.22:100][589]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-01.09.22:100][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-01.09.22:110][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.06-01.09.22:124][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-01.09.22:152][589]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.06-01.09.22:152][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-01.09.22:153][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-01.09.22:156][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-01.09.22:160][589]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.03.06-01.09.22:196][590]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2022.03.06-01.09.42:358][965]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight3)
+[2022.03.06-01.09.44:029][154]Cmd: DELETE
+[2022.03.06-01.09.44:029][154]Cmd: ACTOR DELETE
+[2022.03.06-01.09.44:032][154]LogEditorActor: Deleted Actor: RectLight
+[2022.03.06-01.09.44:064][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.03.06-01.09.44:067][154]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.03.06-01.09.45:062][271]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight2)
+[2022.03.06-01.09.45:431][311]Cmd: DELETE
+[2022.03.06-01.09.45:431][311]Cmd: ACTOR DELETE
+[2022.03.06-01.09.45:434][311]LogEditorActor: Deleted Actor: RectLight
+[2022.03.06-01.09.45:462][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.06-01.09.45:463][311]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.03.06-01.09.46:126][389]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight)
+[2022.03.06-01.09.46:413][420]Cmd: DELETE
+[2022.03.06-01.09.46:413][420]Cmd: ACTOR DELETE
+[2022.03.06-01.09.46:416][420]LogEditorActor: Deleted Actor: RectLight
+[2022.03.06-01.09.46:445][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.03.06-01.09.46:446][420]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.03.06-01.09.48:270][637]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight4)
+[2022.03.06-01.09.48:500][661]Cmd: DELETE
+[2022.03.06-01.09.48:500][661]Cmd: ACTOR DELETE
+[2022.03.06-01.09.48:503][661]LogEditorActor: Deleted Actor: RectLight
+[2022.03.06-01.09.48:532][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.06-01.09.48:533][661]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.03.06-01.09.49:314][753]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight5)
+[2022.03.06-01.09.49:561][779]Cmd: DELETE
+[2022.03.06-01.09.49:561][779]Cmd: ACTOR DELETE
+[2022.03.06-01.09.49:565][779]LogEditorActor: Deleted Actor: RectLight
+[2022.03.06-01.09.49:593][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.06-01.09.49:594][779]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.03.06-01.09.53:698][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_13)
+[2022.03.06-01.09.54:956][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_10)
+[2022.03.06-01.10.04:676][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_11)
+[2022.03.06-01.10.05:586][535]Cmd: DELETE
+[2022.03.06-01.10.05:586][535]Cmd: ACTOR DELETE
+[2022.03.06-01.10.05:590][535]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.06-01.10.05:619][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.03.06-01.10.05:622][535]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2022.03.06-01.10.06:818][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_12)
+[2022.03.06-01.10.22:321][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_12)
+[2022.03.06-01.10.26:996][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof2)
+[2022.03.06-01.10.29:701][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof2)
+[2022.03.06-01.11.15:749][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_13)
+[2022.03.06-01.11.16:275][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_12)
+[2022.03.06-01.11.17:607][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_14)
+[2022.03.06-01.11.18:293][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_31)
+[2022.03.06-01.11.18:984][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_29)
+[2022.03.06-01.11.19:756][526]Cmd: DELETE
+[2022.03.06-01.11.19:756][526]Cmd: ACTOR DELETE
+[2022.03.06-01.11.19:760][526]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.06-01.11.19:790][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.03.06-01.11.19:795][526]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.03.06-01.11.22:046][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_28)
+[2022.03.06-01.11.22:482][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_27)
+[2022.03.06-01.11.22:930][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_30)
+[2022.03.06-01.11.23:793][951]Cmd: DELETE
+[2022.03.06-01.11.23:793][951]Cmd: ACTOR DELETE
+[2022.03.06-01.11.23:797][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.06-01.11.23:826][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.03.06-01.11.23:828][951]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.03.06-01.11.25:000][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_14)
+[2022.03.06-01.11.25:892][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_11)
+[2022.03.06-01.11.33:655][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_27)
+[2022.03.06-01.11.38:344][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2022.03.06-01.11.55:728][503]LogEditorViewport: Clicking Background
+[2022.03.06-01.11.56:638][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof2)
+[2022.03.06-01.12.13:250][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof5)
+[2022.03.06-01.12.26:803][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof10)
+[2022.03.06-01.12.41:800][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof7)
+[2022.03.06-01.13.00:952][463]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2022.03.06-01.13.24:903][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof3)
+[2022.03.06-01.13.34:915][458]Cmd: DELETE
+[2022.03.06-01.13.34:915][458]Cmd: ACTOR DELETE
+[2022.03.06-01.13.34:918][458]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.06-01.13.34:950][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.03.06-01.13.34:955][458]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2022.03.06-01.13.46:440][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_01)
+[2022.03.06-01.13.48:732][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_4)
+[2022.03.06-01.13.49:946][222]Cmd: DELETE
+[2022.03.06-01.13.49:946][222]Cmd: ACTOR DELETE
+[2022.03.06-01.13.49:949][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.06-01.13.49:978][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.06-01.13.49:980][222]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2022.03.06-01.13.53:130][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_10)
+[2022.03.06-01.13.56:140][929]Cmd: TRANSACTION UNDO
+[2022.03.06-01.13.56:140][929]LogEditorTransaction: Undo Move Actors
+[2022.03.06-01.14.17:406][317]Cmd: TRANSACTION UNDO
+[2022.03.06-01.14.17:406][317]LogEditorTransaction: Undo Move Actors
+[2022.03.06-01.14.44:679][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_01)
+[2022.03.06-01.14.58:916][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_01)
+[2022.03.06-01.14.59:319][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_14)
+[2022.03.06-01.15.00:405][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_14)
+[2022.03.06-01.15.04:349][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_01)
+[2022.03.06-01.15.08:952][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Frame_04)
+[2022.03.06-01.15.26:873][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Flag_03)
+[2022.03.06-01.15.33:845][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_01)
+[2022.03.06-01.15.34:605][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_2)
+[2022.03.06-01.15.35:074][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_3)
+[2022.03.06-01.15.37:502][ 13]Cmd: DELETE
+[2022.03.06-01.15.37:502][ 13]Cmd: ACTOR DELETE
+[2022.03.06-01.15.37:505][ 13]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.06-01.15.37:535][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.03.06-01.15.37:539][ 13]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.03.06-01.15.38:675][149]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_14)
+[2022.03.06-01.15.42:651][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_15)
+[2022.03.06-01.15.43:107][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_2)
+[2022.03.06-01.15.44:656][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_5)
+[2022.03.06-01.15.45:372][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_24)
+[2022.03.06-01.15.46:303][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_6)
+[2022.03.06-01.15.47:495][120]Cmd: DELETE
+[2022.03.06-01.15.47:496][120]Cmd: ACTOR DELETE
+[2022.03.06-01.15.47:499][120]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.06-01.15.47:529][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.03.06-01.15.47:532][120]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2022.03.06-01.15.48:791][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_22)
+[2022.03.06-01.15.49:055][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_23)
+[2022.03.06-01.15.49:497][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_25)
+[2022.03.06-01.15.50:466][455]Cmd: DELETE
+[2022.03.06-01.15.50:466][455]Cmd: ACTOR DELETE
+[2022.03.06-01.15.50:469][455]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.06-01.15.50:497][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.06-01.15.50:499][455]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.03.06-01.15.52:370][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_5)
+[2022.03.06-01.15.53:557][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_15)
+[2022.03.06-01.16.04:048][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_23)
+[2022.03.06-01.16.09:466][556]LogEditorViewport: Clicking on Actor (LMB): Floor_is_lava_BP_C (Floor_is_lava_BP)
+[2022.03.06-01.16.10:167][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair_01)
+[2022.03.06-01.16.30:772][992]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2022.03.06-01.17.02:392][455]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.06-01.17.26:314][ 41]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.06-01.18.15:691][472]MapCheck: New page: Map Check
+[2022.03.06-01.18.15:708][472]LightingResults: New page: Lighting Build - 6 Mar 2022, 11:18:15 pm
+[2022.03.06-01.18.15:728][472]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.03.06-01.18.15:730][472]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.03.06-01.18.15:730][472]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.03.06-01.18.15:731][472]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.03.06-01.18.15:731][472]LogSwarmInterface: [TryOpenConnection] Local Process ID is 27104
+[2022.03.06-01.18.20:351][472]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.03.06-01.18.20:352][472]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.03.06-01.18.20:352][472]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.03.06-01.18.20:352][472]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.03.06-01.18.20:352][472]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.03.06-01.18.20:352][472]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.03.06-01.18.20:446][472]LogEditorBuildUtils: Build time 0:04
+[2022.03.06-01.18.20:453][472]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-01.18.20:453][472]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2022.03.06-01.18.20:453][472]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 8 distinct outputs (50.00%)
+[2022.03.06-01.18.20:453][472]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.03.06-01.18.20:454][472]LogShaderCompilers: Display: ================================================
+[2022.03.06-01.18.20:508][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.03.06-01.18.26:690][994]Job is a success!
+[2022.03.06-01.18.26:992][995]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.020s
+[2022.03.06-01.18.26:992][995]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.03.06-01.18.26:993][995]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.5Mb due to 0.010000 MinBrickError)
+[2022.03.06-01.18.26:993][995]LogVolumetricLightmapImport:      Bricks at depth
+[2022.03.06-01.18.26:993][995]LogVolumetricLightmapImport:          0: 4.8% covering 100.0% of volume
+[2022.03.06-01.18.26:993][995]LogVolumetricLightmapImport:          1: 42.9% covering 14.1% of volume
+[2022.03.06-01.18.26:993][995]LogVolumetricLightmapImport:          2: 52.4% covering 0.3% of volume
+[2022.03.06-01.18.26:993][995]LogVolumetricLightmapImport:      Bricks in each level
+[2022.03.06-01.18.26:993][995]LogVolumetricLightmapImport:          Main_Level_Test 			 21 bricks 	 100.0% (Persistent Level)
+[2022.03.06-01.18.27:236][995]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 1024X512)
+[2022.03.06-01.18.27:236][995]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.03.06-01.18.27:236][995]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-01.18.27:236][995]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-01.18.27:236][995]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.03.06-01.18.27:236][995]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.06-01.18.27:276][995]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X128)
+[2022.03.06-01.18.27:276][995]LogStaticLightingSystem: Main_Level_Test_BuiltData storing lightmap data for 138 meshes in 2 LightmapResourceClusters (69.0 Meshes per cluster).
+[2022.03.06-01.18.27:307][995]Lightmass on DESKTOP-8NR2FO5: 6.13 sec total, 202 ms importing, 43 ms setup, 448 ms photons, 5.36 sec processing, 0 ms extra exporting [138/138 mappings]. Threads: 26.8 sec total, 15.1 sec processing.
+[2022.03.06-01.18.27:310][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.03.06-01.18.27:352][995]LogStaticLightingSystem: Illumination: 11.5 sec (207 ms encoding lightmaps, 19 ms encoding shadowmaps)
+[2022.03.06-01.18.27:352][995]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.03.06-01.18.27:352][995]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 1 textures
+[2022.03.06-01.18.28:364][995]DumpUnbuiltLightIteractions
+[2022.03.06-01.18.28:364][995]Lights with unbuilt interactions: 0
+[2022.03.06-01.18.28:364][995]
+[2022.03.06-01.18.28:364][995]Primitives with unbuilt interactions: 0
+[2022.03.06-01.18.28:433][996]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.03.06-01.18.28:433][996]MapCheck: New page: Main_Level_Test - 6 Mar 2022, 11:18:28 pm
+[2022.03.06-01.18.28:434][996]MapCheck: Warning: Floor_is_lava_BP_3 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.06-01.18.28:434][996]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.18ms to complete.
+[2022.03.06-01.18.55:311][ 99]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2022.03.06-01.19.44:532][389]MapCheck: New page: Map Check
+[2022.03.06-01.19.44:546][389]LightingResults: New page: Lighting Build - 6 Mar 2022, 11:19:44 pm
+[2022.03.06-01.19.44:555][389]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.03.06-01.19.44:558][389]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.03.06-01.19.44:558][389]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.03.06-01.19.44:559][389]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.03.06-01.19.44:559][389]LogSwarmInterface: [TryOpenConnection] Local Process ID is 27104
+[2022.03.06-01.19.49:122][389]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.03.06-01.19.49:122][389]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.03.06-01.19.49:122][389]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.03.06-01.19.49:122][389]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.03.06-01.19.49:122][389]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.03.06-01.19.49:122][389]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.03.06-01.19.49:206][389]LogEditorBuildUtils: Build time 0:04
+[2022.03.06-01.19.49:259][390]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.03.06-01.19.55:507][896]Job is a success!
+[2022.03.06-01.19.55:925][897]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.026s
+[2022.03.06-01.19.55:925][897]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.03.06-01.19.55:925][897]LogVolumetricLightmapImport:      BrickData (all levels) 0.5Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2022.03.06-01.19.55:925][897]LogVolumetricLightmapImport:      Bricks at depth
+[2022.03.06-01.19.55:925][897]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2022.03.06-01.19.55:925][897]LogVolumetricLightmapImport:          1: 9.2% covering 14.1% of volume
+[2022.03.06-01.19.55:925][897]LogVolumetricLightmapImport:          2: 89.8% covering 2.1% of volume
+[2022.03.06-01.19.55:925][897]LogVolumetricLightmapImport:      Bricks in each level
+[2022.03.06-01.19.55:925][897]LogVolumetricLightmapImport:          Main_Level_Test 			 98 bricks 	 100.0% (Persistent Level)
+[2022.03.06-01.19.56:180][897]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2022.03.06-01.19.56:180][897]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.03.06-01.19.56:180][897]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-01.19.56:180][897]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-01.19.56:180][897]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.03.06-01.19.56:181][897]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.06-01.19.56:226][897]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X128)
+[2022.03.06-01.19.56:226][897]LogStaticLightingSystem: Main_Level_Test_BuiltData storing lightmap data for 138 meshes in 2 LightmapResourceClusters (69.0 Meshes per cluster).
+[2022.03.06-01.19.56:262][897]Lightmass on DESKTOP-8NR2FO5: 6.35 sec total, 187 ms importing, 19 ms setup, 452 ms photons, 5.63 sec processing, 0 ms extra exporting [138/138 mappings]. Threads: 28.1 sec total, 15.3 sec processing.
+[2022.03.06-01.19.56:265][897]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.03.06-01.19.56:303][897]LogStaticLightingSystem: Illumination: 11.6 sec (226 ms encoding lightmaps, 19 ms encoding shadowmaps)
+[2022.03.06-01.19.56:303][897]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.03.06-01.19.56:304][897]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 1 textures
+[2022.03.06-01.19.57:134][897]DumpUnbuiltLightIteractions
+[2022.03.06-01.19.57:134][897]Lights with unbuilt interactions: 0
+[2022.03.06-01.19.57:134][897]
+[2022.03.06-01.19.57:134][897]Primitives with unbuilt interactions: 0
+[2022.03.06-01.19.57:195][898]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.03.06-01.19.57:195][898]MapCheck: New page: Main_Level_Test - 6 Mar 2022, 11:19:57 pm
+[2022.03.06-01.19.57:196][898]MapCheck: Warning: Floor_is_lava_BP_3 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.06-01.19.57:196][898]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.894ms to complete.
+[2022.03.06-01.20.42:859][894]Cmd: DELETE
+[2022.03.06-01.20.42:859][894]Cmd: ACTOR DELETE
+[2022.03.06-01.20.42:862][894]LogEditorActor: Deleted Actor: PointLight
+[2022.03.06-01.20.42:893][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.03.06-01.20.42:898][894]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.03.06-01.21.18:397][817]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.06-01.21.50:765][200]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.06-01.22.26:745][244]Cmd: TRANSACTION UNDO
+[2022.03.06-01.22.26:745][244]LogEditorTransaction: Undo Move Actors
+[2022.03.06-01.22.27:074][259]Cmd: TRANSACTION UNDO
+[2022.03.06-01.22.27:074][259]LogEditorTransaction: Undo Move Actors
+[2022.03.06-01.23.04:982][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_11)
+[2022.03.06-01.23.06:898][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_11)
+[2022.03.06-01.23.07:258][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_11)
+[2022.03.06-01.23.08:080][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_12)
+[2022.03.06-01.23.09:071][866]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight3)
+[2022.03.06-01.23.10:148][986]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight)
+[2022.03.06-01.23.11:860][184]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight3)
+[2022.03.06-01.23.14:924][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_12)
+[2022.03.06-01.23.15:655][616]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight3)
+[2022.03.06-01.23.36:427][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_floor_2)
+[2022.03.06-01.23.37:616][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_floor_4)
+[2022.03.06-01.23.38:127][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_kitchenBar_6)
+[2022.03.06-01.23.49:422][120]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight5)
+[2022.03.06-01.24.13:657][653]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight2)
+[2022.03.06-01.24.15:654][886]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight8)
+[2022.03.06-01.24.18:139][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_01)
+[2022.03.06-01.24.21:314][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_14)
+[2022.03.06-01.24.30:004][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_17)
+[2022.03.06-01.24.32:867][642]Cmd: DELETE
+[2022.03.06-01.24.32:867][642]Cmd: ACTOR DELETE
+[2022.03.06-01.24.32:871][642]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.06-01.24.32:905][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.03.06-01.24.32:910][642]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2022.03.06-01.24.37:914][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof5)
+[2022.03.06-01.25.15:684][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof7)
+[2022.03.06-01.25.38:129][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof11)
+[2022.03.06-01.26.17:934][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof14)
+[2022.03.06-01.26.35:791][321]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight6)
+[2022.03.06-01.26.45:727][225]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_17)
+[2022.03.06-01.27.07:951][142]Cmd: MODE GRID=0
+[2022.03.06-01.27.13:334][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_18)
+[2022.03.06-01.27.15:331][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_18)
+[2022.03.06-01.27.34:958][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_18)
+[2022.03.06-01.27.36:786][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_18)
+[2022.03.06-01.27.41:765][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_18)
+[2022.03.06-01.27.46:437][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_18)
+[2022.03.06-01.27.49:549][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_18)
+[2022.03.06-01.28.01:136][ 68]Cmd: TRANSACTION UNDO
+[2022.03.06-01.28.01:136][ 68]LogEditorTransaction: Undo Move Actors
+[2022.03.06-01.28.02:495][180]Cmd: MODE GRID=1
+[2022.03.06-01.28.06:243][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_18)
+[2022.03.06-01.28.06:625][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_18)
+[2022.03.06-01.28.09:205][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_13)
+[2022.03.06-01.28.14:873][320]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight5)
+[2022.03.06-01.28.32:871][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_7)
+[2022.03.06-01.28.36:086][324]Cmd: DELETE
+[2022.03.06-01.28.36:086][324]Cmd: ACTOR DELETE
+[2022.03.06-01.28.36:091][324]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.06-01.28.36:124][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.03.06-01.28.36:129][324]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.03.06-01.28.37:509][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_10)
+[2022.03.06-01.28.45:073][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_8)
+[2022.03.06-01.28.48:198][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_19)
+[2022.03.06-01.28.59:834][826]LogEditorViewport: Clicking on Actor (LMB): Floor_is_lava_BP_C (Floor_is_lava_BP)
+[2022.03.06-01.29.05:269][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_19)
+[2022.03.06-01.29.08:504][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof4)
+[2022.03.06-01.29.09:471][837]Cmd: DELETE
+[2022.03.06-01.29.09:472][837]Cmd: ACTOR DELETE
+[2022.03.06-01.29.09:476][837]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.06-01.29.09:507][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.03.06-01.29.09:511][837]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.03.06-01.29.17:274][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof7)
+[2022.03.06-01.29.44:574][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof5)
+[2022.03.06-01.29.58:341][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof12)
+[2022.03.06-01.30.02:045][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof18)
+[2022.03.06-01.30.44:606][326]LogEditorViewport: Clicking Background
+[2022.03.06-01.30.51:808][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof20)
+[2022.03.06-01.31.13:494][147]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight7)
+[2022.03.06-01.31.31:561][815]LogEditorViewport: Clicking Background
+[2022.03.06-01.31.42:569][804]MapCheck: New page: Map Check
+[2022.03.06-01.31.42:586][804]LightingResults: New page: Lighting Build - 6 Mar 2022, 11:31:42 pm
+[2022.03.06-01.31.42:595][804]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.03.06-01.31.42:598][804]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.03.06-01.31.42:598][804]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.03.06-01.31.42:599][804]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.03.06-01.31.42:599][804]LogSwarmInterface: [TryOpenConnection] Local Process ID is 27104
+[2022.03.06-01.31.47:147][804]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.03.06-01.31.47:148][804]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.03.06-01.31.47:148][804]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.03.06-01.31.47:148][804]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.03.06-01.31.47:148][804]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.03.06-01.31.47:148][804]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.03.06-01.31.47:240][804]LogEditorBuildUtils: Build time 0:04
+[2022.03.06-01.31.47:247][804]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-01.31.47:248][804]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2022.03.06-01.31.47:248][804]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 8 distinct outputs (50.00%)
+[2022.03.06-01.31.47:248][804]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.03.06-01.31.47:248][804]LogShaderCompilers: Display: ================================================
+[2022.03.06-01.31.47:293][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.03.06-01.31.55:025][391]Job is a success!
+[2022.03.06-01.31.55:174][393]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.020s
+[2022.03.06-01.31.55:174][393]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.03.06-01.31.55:174][393]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2022.03.06-01.31.55:174][393]LogVolumetricLightmapImport:      Bricks at depth
+[2022.03.06-01.31.55:174][393]LogVolumetricLightmapImport:          0: 3.4% covering 100.0% of volume
+[2022.03.06-01.31.55:174][393]LogVolumetricLightmapImport:          1: 31.0% covering 14.1% of volume
+[2022.03.06-01.31.55:174][393]LogVolumetricLightmapImport:          2: 65.5% covering 0.5% of volume
+[2022.03.06-01.31.55:174][393]LogVolumetricLightmapImport:      Bricks in each level
+[2022.03.06-01.31.55:174][393]LogVolumetricLightmapImport:          Main_Level_Test 			 29 bricks 	 100.0% (Persistent Level)
+[2022.03.06-01.31.55:241][393]LightingResults: Warning: RectLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.03.06-01.31.55:241][393]LightingResults: Warning: RectLight8 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.03.06-01.31.55:241][393]LightingResults: Warning: RectLight2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.03.06-01.31.55:241][393]LightingResults: Warning: RectLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.03.06-01.31.55:241][393]LightingResults: Warning: RectLight5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.03.06-01.31.55:241][393]LightingResults: Warning: RectLight10 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.03.06-01.31.55:450][393]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 1024X512)
+[2022.03.06-01.31.55:450][393]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.03.06-01.31.55:450][393]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-01.31.55:450][393]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-01.31.55:451][393]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.03.06-01.31.55:451][393]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.06-01.31.55:588][393]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X512)
+[2022.03.06-01.31.55:588][393]Lightmass on DESKTOP-8NR2FO5: 7.62 sec total, 188 ms importing, 65 ms setup, 492 ms photons, 6.81 sec processing, 0 ms extra exporting [150/150 mappings]. Threads: 34.0 sec total, 20.3 sec processing.
+[2022.03.06-01.31.55:621][393]LogStaticLightingSystem: Main_Level_Test_BuiltData storing lightmap data for 150 meshes in 2 LightmapResourceClusters (75.0 Meshes per cluster).
+[2022.03.06-01.31.55:661][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.03.06-01.31.55:695][393]LogStaticLightingSystem: Illumination: 13.0 sec (228 ms encoding lightmaps, 81 ms encoding shadowmaps)
+[2022.03.06-01.31.55:695][393]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.03.06-01.31.55:695][393]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2022.03.06-01.31.56:157][393]DumpUnbuiltLightIteractions
+[2022.03.06-01.31.56:157][393]Lights with unbuilt interactions: 0
+[2022.03.06-01.31.56:157][393]
+[2022.03.06-01.31.56:157][393]Primitives with unbuilt interactions: 0
+[2022.03.06-01.31.56:243][394]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.03.06-01.31.56:243][394]MapCheck: New page: Main_Level_Test - 6 Mar 2022, 11:31:56 pm
+[2022.03.06-01.31.56:244][394]MapCheck: Warning: Floor_is_lava_BP_3 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.06-01.31.56:244][394]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.958ms to complete.
+[2022.03.06-01.32.05:558][399]LogSlate: Window 'Message Log' being destroyed
+[2022.03.06-01.32.05:564][399]LogSlate: Window 'Message Log' being destroyed
+[2022.03.06-01.32.18:299][907]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight7)
+[2022.03.06-01.32.23:265][493]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight8)
+[2022.03.06-01.32.29:194][130]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight6)
+[2022.03.06-01.32.36:804][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_17)
+[2022.03.06-01.32.37:282][974]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight5)
+[2022.03.06-01.33.19:159][630]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight3)
+[2022.03.06-01.33.22:834][ 11]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight4)
+[2022.03.06-01.33.26:592][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.03.06-01.33.26:664][419]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test_Auto671DD302C4C7B0CC1780F85A87A52063C.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Lachlans_Work/Maps/Main_Level_Test_Auto6.umap'
+[2022.03.06-01.33.26:667][419]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lachlans_Work/Maps/Main_Level_Test' took 0.105
+[2022.03.06-01.33.26:667][419]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.105
+[2022.03.06-01.33.43:090][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_18)
+[2022.03.06-01.33.44:878][312]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight9)
+[2022.03.06-01.33.54:482][375]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight4)
+[2022.03.06-01.34.05:005][527]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight5)
+[2022.03.06-01.34.06:676][673]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight5)
+[2022.03.06-01.34.43:960][728]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight3)
+[2022.03.06-01.34.58:633][296]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight6)
+[2022.03.06-01.35.03:833][791]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight7)
+[2022.03.06-01.35.07:869][190]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight)
+[2022.03.06-01.35.24:667][941]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight7)
+[2022.03.06-01.35.29:647][451]Cmd: TRANSACTION UNDO
+[2022.03.06-01.35.29:647][451]LogEditorTransaction: Undo Edit Attenuation Radius
+[2022.03.06-01.35.31:895][625]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight)
+[2022.03.06-01.35.37:131][178]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight2)
+[2022.03.06-01.35.41:882][708]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight)
+[2022.03.06-01.35.53:608][991]Cmd: DELETE
+[2022.03.06-01.35.53:608][991]Cmd: ACTOR DELETE
+[2022.03.06-01.35.53:612][991]LogEditorActor: Deleted Actor: RectLight
+[2022.03.06-01.35.53:643][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.03.06-01.35.53:649][991]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2022.03.06-01.35.54:921][142]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight2)
+[2022.03.06-01.36.02:495][966]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight3)
+[2022.03.06-01.36.27:656][791]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight11)
+[2022.03.06-01.36.32:403][279]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight2)
+[2022.03.06-01.36.39:353][979]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight3)
+[2022.03.06-01.36.45:874][677]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight8)
+[2022.03.06-01.36.54:917][679]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight7)
+[2022.03.06-01.37.01:573][378]MapCheck: New page: Map Check
+[2022.03.06-01.37.01:591][378]LightingResults: New page: Lighting Build - 6 Mar 2022, 11:37:01 pm
+[2022.03.06-01.37.01:600][378]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.03.06-01.37.01:602][378]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.03.06-01.37.01:603][378]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.03.06-01.37.01:603][378]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.03.06-01.37.01:604][378]LogSwarmInterface: [TryOpenConnection] Local Process ID is 27104
+[2022.03.06-01.37.06:159][378]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.03.06-01.37.06:159][378]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.03.06-01.37.06:159][378]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.03.06-01.37.06:159][378]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.03.06-01.37.06:159][378]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.03.06-01.37.06:159][378]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.03.06-01.37.06:259][378]LogEditorBuildUtils: Build time 0:04
+[2022.03.06-01.37.06:267][378]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-01.37.06:267][378]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2022.03.06-01.37.06:267][378]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 8 distinct outputs (50.00%)
+[2022.03.06-01.37.06:267][378]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.03.06-01.37.06:267][378]LogShaderCompilers: Display: ================================================
+[2022.03.06-01.37.06:323][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.03.06-01.37.14:251][ 49]Job is a success!
+[2022.03.06-01.37.14:395][ 50]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.019s
+[2022.03.06-01.37.14:395][ 50]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.03.06-01.37.14:395][ 50]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2022.03.06-01.37.14:395][ 50]LogVolumetricLightmapImport:      Bricks at depth
+[2022.03.06-01.37.14:395][ 50]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2022.03.06-01.37.14:395][ 50]LogVolumetricLightmapImport:          1: 20.9% covering 14.1% of volume
+[2022.03.06-01.37.14:395][ 50]LogVolumetricLightmapImport:          2: 76.7% covering 0.8% of volume
+[2022.03.06-01.37.14:395][ 50]LogVolumetricLightmapImport:      Bricks in each level
+[2022.03.06-01.37.14:395][ 50]LogVolumetricLightmapImport:          Main_Level_Test 			 43 bricks 	 100.0% (Persistent Level)
+[2022.03.06-01.37.14:456][ 50]LightingResults: Warning: RectLight11 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.03.06-01.37.14:671][ 50]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2022.03.06-01.37.14:671][ 50]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.03.06-01.37.14:671][ 50]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-01.37.14:671][ 50]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-01.37.14:671][ 50]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.03.06-01.37.14:671][ 50]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.06-01.37.14:791][ 50]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X512)
+[2022.03.06-01.37.14:791][ 50]Lightmass on DESKTOP-8NR2FO5: 7.79 sec total, 196 ms importing, 27 ms setup, 497 ms photons, 7.02 sec processing, 0 ms extra exporting [150/150 mappings]. Threads: 35.1 sec total, 21.4 sec processing.
+[2022.03.06-01.37.14:806][ 50]LogStaticLightingSystem: Main_Level_Test_BuiltData storing lightmap data for 150 meshes in 2 LightmapResourceClusters (75.0 Meshes per cluster).
+[2022.03.06-01.37.14:847][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.03.06-01.37.14:876][ 50]LogStaticLightingSystem: Illumination: 13.2 sec (235 ms encoding lightmaps, 84 ms encoding shadowmaps)
+[2022.03.06-01.37.14:876][ 50]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.03.06-01.37.14:876][ 50]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2022.03.06-01.37.15:171][ 50]DumpUnbuiltLightIteractions
+[2022.03.06-01.37.15:171][ 50]Lights with unbuilt interactions: 0
+[2022.03.06-01.37.15:171][ 50]
+[2022.03.06-01.37.15:171][ 50]Primitives with unbuilt interactions: 0
+[2022.03.06-01.37.15:237][ 51]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.03.06-01.37.15:237][ 51]MapCheck: New page: Main_Level_Test - 6 Mar 2022, 11:37:15 pm
+[2022.03.06-01.37.15:239][ 51]MapCheck: Warning: Floor_is_lava_BP_3 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.06-01.37.15:239][ 51]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.411ms to complete.
+[2022.03.06-01.37.17:037][195]LogSlate: Window 'Message Log' being destroyed
+[2022.03.06-01.37.17:052][195]LogSlate: Window 'Message Log' being destroyed
+[2022.03.06-01.37.39:507][760]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight11)
+[2022.03.06-01.37.47:008][563]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight2)
+[2022.03.06-01.37.49:446][845]Cmd: DELETE
+[2022.03.06-01.37.49:446][845]Cmd: ACTOR DELETE
+[2022.03.06-01.37.49:450][845]LogEditorActor: Deleted Actor: RectLight
+[2022.03.06-01.37.49:479][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.03.06-01.37.49:483][845]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.03.06-01.37.50:098][918]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight3)
+[2022.03.06-01.37.50:403][951]Cmd: DELETE
+[2022.03.06-01.37.50:403][951]Cmd: ACTOR DELETE
+[2022.03.06-01.37.50:407][951]LogEditorActor: Deleted Actor: RectLight
+[2022.03.06-01.37.50:435][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.03.06-01.37.50:437][951]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.03.06-01.37.51:489][ 76]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight4)
+[2022.03.06-01.37.52:021][136]Cmd: DELETE
+[2022.03.06-01.37.52:021][136]Cmd: ACTOR DELETE
+[2022.03.06-01.37.52:025][136]LogEditorActor: Deleted Actor: RectLight
+[2022.03.06-01.37.52:054][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.03.06-01.37.52:055][136]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.03.06-01.37.53:141][265]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight11)
+[2022.03.06-01.39.05:364][289]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight6)
+[2022.03.06-01.39.06:580][431]Cmd: DELETE
+[2022.03.06-01.39.06:580][431]Cmd: ACTOR DELETE
+[2022.03.06-01.39.06:585][431]LogEditorActor: Deleted Actor: RectLight
+[2022.03.06-01.39.06:616][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.03.06-01.39.06:620][431]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2022.03.06-01.39.07:351][517]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight5)
+[2022.03.06-01.39.07:720][557]Cmd: DELETE
+[2022.03.06-01.39.07:721][557]Cmd: ACTOR DELETE
+[2022.03.06-01.39.07:725][557]LogEditorActor: Deleted Actor: RectLight
+[2022.03.06-01.39.07:753][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.03.06-01.39.07:755][557]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.03.06-01.39.09:255][735]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight7)
+[2022.03.06-01.39.09:467][757]Cmd: DELETE
+[2022.03.06-01.39.09:467][757]Cmd: ACTOR DELETE
+[2022.03.06-01.39.09:470][757]LogEditorActor: Deleted Actor: RectLight
+[2022.03.06-01.39.09:499][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.06-01.39.09:500][757]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.03.06-01.39.10:704][900]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight8)
+[2022.03.06-01.39.11:000][932]Cmd: DELETE
+[2022.03.06-01.39.11:000][932]Cmd: ACTOR DELETE
+[2022.03.06-01.39.11:004][932]LogEditorActor: Deleted Actor: RectLight
+[2022.03.06-01.39.11:032][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.03.06-01.39.11:034][932]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.03.06-01.39.13:238][195]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight11)
+[2022.03.06-01.39.35:149][612]MapCheck: New page: Map Check
+[2022.03.06-01.39.35:165][612]LightingResults: New page: Lighting Build - 6 Mar 2022, 11:39:35 pm
+[2022.03.06-01.39.35:175][612]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.03.06-01.39.35:178][612]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.03.06-01.39.35:178][612]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.03.06-01.39.35:179][612]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.03.06-01.39.35:179][612]LogSwarmInterface: [TryOpenConnection] Local Process ID is 27104
+[2022.03.06-01.39.39:735][612]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.03.06-01.39.39:735][612]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.03.06-01.39.39:735][612]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.03.06-01.39.39:735][612]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.03.06-01.39.39:735][612]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.03.06-01.39.39:735][612]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.03.06-01.39.39:833][612]LogEditorBuildUtils: Build time 0:04
+[2022.03.06-01.39.39:886][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.03.06-01.39.47:387][259]Job is a success!
+[2022.03.06-01.39.47:521][260]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.019s
+[2022.03.06-01.39.47:521][260]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.03.06-01.39.47:521][260]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2022.03.06-01.39.47:521][260]LogVolumetricLightmapImport:      Bricks at depth
+[2022.03.06-01.39.47:521][260]LogVolumetricLightmapImport:          0: 3.3% covering 100.0% of volume
+[2022.03.06-01.39.47:521][260]LogVolumetricLightmapImport:          1: 30.0% covering 14.1% of volume
+[2022.03.06-01.39.47:521][260]LogVolumetricLightmapImport:          2: 66.7% covering 0.5% of volume
+[2022.03.06-01.39.47:521][260]LogVolumetricLightmapImport:      Bricks in each level
+[2022.03.06-01.39.47:521][260]LogVolumetricLightmapImport:          Main_Level_Test 			 30 bricks 	 100.0% (Persistent Level)
+[2022.03.06-01.39.47:796][260]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 1024X512)
+[2022.03.06-01.39.47:796][260]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.03.06-01.39.47:796][260]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-01.39.47:796][260]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-01.39.47:796][260]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.03.06-01.39.47:796][260]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.06-01.39.47:901][260]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 1024X512)
+[2022.03.06-01.39.47:901][260]LogStaticLightingSystem: Main_Level_Test_BuiltData storing lightmap data for 150 meshes in 2 LightmapResourceClusters (75.0 Meshes per cluster).
+[2022.03.06-01.39.47:936][260]Lightmass on DESKTOP-8NR2FO5: 7.36 sec total, 193 ms importing, 59 ms setup, 515 ms photons, 6.54 sec processing, 0 ms extra exporting [150/150 mappings]. Threads: 32.7 sec total, 19.6 sec processing.
+[2022.03.06-01.39.47:939][260]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.03.06-01.39.47:975][260]LogStaticLightingSystem: Illumination: 12.7 sec (238 ms encoding lightmaps, 77 ms encoding shadowmaps)
+[2022.03.06-01.39.47:975][260]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.03.06-01.39.47:975][260]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2022.03.06-01.39.48:747][260]DumpUnbuiltLightIteractions
+[2022.03.06-01.39.48:747][260]Lights with unbuilt interactions: 0
+[2022.03.06-01.39.48:747][260]
+[2022.03.06-01.39.48:747][260]Primitives with unbuilt interactions: 0
+[2022.03.06-01.39.48:811][261]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.03.06-01.39.48:811][261]MapCheck: New page: Main_Level_Test - 6 Mar 2022, 11:39:48 pm
+[2022.03.06-01.39.48:812][261]MapCheck: Warning: Floor_is_lava_BP_3 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.06-01.39.48:812][261]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.119ms to complete.
+[2022.03.06-01.43.28:903][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.03.06-01.43.28:956][293]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test_Auto7EEDDBB55419A0BCAD520B9AB501E541D.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Lachlans_Work/Maps/Main_Level_Test_Auto7.umap'
+[2022.03.06-01.43.28:960][293]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lachlans_Work/Maps/Main_Level_Test' took 0.088
+[2022.03.06-01.43.28:960][293]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.088
+[2022.03.06-01.52.17:634][966]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight11)
+[2022.03.06-01.52.23:849][609]MapCheck: New page: Map Check
+[2022.03.06-01.52.23:859][609]LightingResults: New page: Lighting Build - 6 Mar 2022, 11:52:23 pm
+[2022.03.06-01.52.23:868][609]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.03.06-01.52.23:871][609]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.03.06-01.52.23:871][609]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.03.06-01.52.23:872][609]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.03.06-01.52.23:872][609]LogSwarmInterface: [TryOpenConnection] Local Process ID is 27104
+[2022.03.06-01.52.28:425][609]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.03.06-01.52.28:425][609]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.03.06-01.52.28:425][609]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.03.06-01.52.28:425][609]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.03.06-01.52.28:425][609]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.03.06-01.52.28:425][609]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.03.06-01.52.28:526][609]LogEditorBuildUtils: Build time 0:04
+[2022.03.06-01.52.28:534][609]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-01.52.28:534][609]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2022.03.06-01.52.28:534][609]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 8 distinct outputs (50.00%)
+[2022.03.06-01.52.28:534][609]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.03.06-01.52.28:534][609]LogShaderCompilers: Display: ================================================
+[2022.03.06-01.52.28:590][610]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.03.06-01.52.36:125][264]Job is a success!
+[2022.03.06-01.52.36:273][265]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.023s
+[2022.03.06-01.52.36:273][265]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.03.06-01.52.36:273][265]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2022.03.06-01.52.36:273][265]LogVolumetricLightmapImport:      Bricks at depth
+[2022.03.06-01.52.36:273][265]LogVolumetricLightmapImport:          0: 3.2% covering 100.0% of volume
+[2022.03.06-01.52.36:273][265]LogVolumetricLightmapImport:          1: 29.0% covering 14.1% of volume
+[2022.03.06-01.52.36:273][265]LogVolumetricLightmapImport:          2: 67.7% covering 0.5% of volume
+[2022.03.06-01.52.36:273][265]LogVolumetricLightmapImport:      Bricks in each level
+[2022.03.06-01.52.36:273][265]LogVolumetricLightmapImport:          Main_Level_Test 			 31 bricks 	 100.0% (Persistent Level)
+[2022.03.06-01.52.36:551][265]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2022.03.06-01.52.36:551][265]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.03.06-01.52.36:551][265]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-01.52.36:551][265]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-01.52.36:551][265]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.03.06-01.52.36:551][265]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.06-01.52.36:662][265]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X512)
+[2022.03.06-01.52.36:662][265]LogStaticLightingSystem: Main_Level_Test_BuiltData storing lightmap data for 150 meshes in 2 LightmapResourceClusters (75.0 Meshes per cluster).
+[2022.03.06-01.52.36:694][265]Lightmass on DESKTOP-8NR2FO5: 7.39 sec total, 200 ms importing, 21 ms setup, 584 ms photons, 6.53 sec processing, 0 ms extra exporting [150/150 mappings]. Threads: 32.6 sec total, 18.9 sec processing.
+[2022.03.06-01.52.36:697][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.03.06-01.52.36:731][265]LogStaticLightingSystem: Illumination: 12.8 sec (239 ms encoding lightmaps, 78 ms encoding shadowmaps)
+[2022.03.06-01.52.36:731][265]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.03.06-01.52.36:731][265]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2022.03.06-01.52.37:436][265]DumpUnbuiltLightIteractions
+[2022.03.06-01.52.37:436][265]Lights with unbuilt interactions: 0
+[2022.03.06-01.52.37:436][265]
+[2022.03.06-01.52.37:436][265]Primitives with unbuilt interactions: 0
+[2022.03.06-01.52.37:493][266]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.03.06-01.52.37:493][266]MapCheck: New page: Main_Level_Test - 6 Mar 2022, 11:52:37 pm
+[2022.03.06-01.52.37:494][266]MapCheck: Warning: Floor_is_lava_BP_3 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.06-01.52.37:494][266]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.134ms to complete.
+[2022.03.06-01.52.56:463][437]Cmd: DELETE
+[2022.03.06-01.52.56:463][437]Cmd: ACTOR DELETE
+[2022.03.06-01.52.56:467][437]LogEditorActor: Deleted Actor: RectLight
+[2022.03.06-01.52.56:496][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.06-01.52.56:500][437]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.03.06-01.52.57:200][519]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight12)
+[2022.03.06-01.52.57:832][587]Cmd: DELETE
+[2022.03.06-01.52.57:832][587]Cmd: ACTOR DELETE
+[2022.03.06-01.52.57:836][587]LogEditorActor: Deleted Actor: RectLight
+[2022.03.06-01.52.57:864][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.03.06-01.52.57:866][587]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.03.06-01.53.00:077][851]Cmd: TRANSACTION UNDO
+[2022.03.06-01.53.00:077][851]LogEditorTransaction: Undo Delete Actors
+[2022.03.06-01.53.00:687][879]Cmd: TRANSACTION UNDO
+[2022.03.06-01.53.00:687][879]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.06-01.53.01:285][946]Cmd: TRANSACTION UNDO
+[2022.03.06-01.53.01:285][946]LogEditorTransaction: Undo Delete Actors
+[2022.03.06-01.53.50:606][362]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight12)
+[2022.03.06-01.53.51:813][501]Cmd: DELETE
+[2022.03.06-01.53.51:813][501]Cmd: ACTOR DELETE
+[2022.03.06-01.53.51:818][501]LogEditorActor: Deleted Actor: RectLight
+[2022.03.06-01.53.51:848][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.03.06-01.53.51:852][501]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.03.06-01.53.53:655][715]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight11)
+[2022.03.06-01.53.53:840][733]Cmd: DELETE
+[2022.03.06-01.53.53:840][733]Cmd: ACTOR DELETE
+[2022.03.06-01.53.53:844][733]LogEditorActor: Deleted Actor: RectLight
+[2022.03.06-01.53.53:873][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.06-01.53.53:874][733]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.03.06-01.53.55:946][963]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2022.03.06-01.56.24:108][341]MapCheck: New page: Map Check
+[2022.03.06-01.56.24:135][341]LightingResults: New page: Lighting Build - 6 Mar 2022, 11:56:24 pm
+[2022.03.06-01.56.24:145][341]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.03.06-01.56.24:147][341]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.03.06-01.56.24:147][341]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.03.06-01.56.24:148][341]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.03.06-01.56.24:148][341]LogSwarmInterface: [TryOpenConnection] Local Process ID is 27104
+[2022.03.06-01.56.28:705][341]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.03.06-01.56.28:705][341]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.03.06-01.56.28:705][341]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.03.06-01.56.28:705][341]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.03.06-01.56.28:705][341]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.03.06-01.56.28:705][341]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.03.06-01.56.28:800][341]LogEditorBuildUtils: Build time 0:04
+[2022.03.06-01.56.28:807][341]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-01.56.28:807][341]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2022.03.06-01.56.28:807][341]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 8 distinct outputs (50.00%)
+[2022.03.06-01.56.28:807][341]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.03.06-01.56.28:807][341]LogShaderCompilers: Display: ================================================
+[2022.03.06-01.56.28:862][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.03.06-01.56.36:544][  1]Job is a success!
+[2022.03.06-01.56.36:676][  3]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.021s
+[2022.03.06-01.56.36:676][  3]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.03.06-01.56.36:676][  3]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2022.03.06-01.56.36:676][  3]LogVolumetricLightmapImport:      Bricks at depth
+[2022.03.06-01.56.36:676][  3]LogVolumetricLightmapImport:          0: 3.4% covering 100.0% of volume
+[2022.03.06-01.56.36:676][  3]LogVolumetricLightmapImport:          1: 31.0% covering 14.1% of volume
+[2022.03.06-01.56.36:676][  3]LogVolumetricLightmapImport:          2: 65.5% covering 0.5% of volume
+[2022.03.06-01.56.36:676][  3]LogVolumetricLightmapImport:      Bricks in each level
+[2022.03.06-01.56.36:676][  3]LogVolumetricLightmapImport:          Main_Level_Test 			 29 bricks 	 100.0% (Persistent Level)
+[2022.03.06-01.56.36:947][  3]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 1024X512)
+[2022.03.06-01.56.36:948][  3]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-01.56.36:948][  3]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.03.06-01.56.36:948][  3]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.03.06-01.56.36:948][  3]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-01.56.36:948][  3]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.06-01.56.37:003][  3]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 1024X256)
+[2022.03.06-01.56.37:004][  3]LogStaticLightingSystem: Main_Level_Test_BuiltData storing lightmap data for 150 meshes in 2 LightmapResourceClusters (75.0 Meshes per cluster).
+[2022.03.06-01.56.37:037][  3]Lightmass on DESKTOP-8NR2FO5: 7.18 sec total, 177 ms importing, 27 ms setup, 661 ms photons, 6.26 sec processing, 0 ms extra exporting [150/150 mappings]. Threads: 31.3 sec total, 17.9 sec processing.
+[2022.03.06-01.56.37:040][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.03.06-01.56.37:072][  3]LogStaticLightingSystem: Illumination: 12.8 sec (219 ms encoding lightmaps, 40 ms encoding shadowmaps)
+[2022.03.06-01.56.37:072][  3]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.03.06-01.56.37:072][  3]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2022.03.06-01.56.41:715][  3]DumpUnbuiltLightIteractions
+[2022.03.06-01.56.41:715][  3]Lights with unbuilt interactions: 0
+[2022.03.06-01.56.41:715][  3]
+[2022.03.06-01.56.41:715][  3]Primitives with unbuilt interactions: 0
+[2022.03.06-01.56.41:778][  4]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.03.06-01.56.41:779][  4]MapCheck: New page: Main_Level_Test - 6 Mar 2022, 11:56:41 pm
+[2022.03.06-01.56.41:779][  4]MapCheck: Warning: Floor_is_lava_BP_3 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.06-01.56.41:779][  4]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.978ms to complete.
+[2022.03.06-01.56.57:119][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.06-01.56.57:170][703]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test_Auto879C9881F45FFF6AB01A2D0A7F255788B.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Lachlans_Work/Maps/Main_Level_Test_Auto8.umap'
+[2022.03.06-01.56.57:173][703]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lachlans_Work/Maps/Main_Level_Test' took 0.082
+[2022.03.06-01.56.57:173][703]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.082
+[2022.03.06-01.57.00:245][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof)
+[2022.03.06-01.57.08:053][846]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2022.03.06-01.57.09:317][990]Cmd: DELETE
+[2022.03.06-01.57.09:317][990]Cmd: ACTOR DELETE
+[2022.03.06-01.57.09:321][990]LogEditorActor: Deleted Actor: SpotLight
+[2022.03.06-01.57.09:349][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.03.06-01.57.09:353][990]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2022.03.06-01.57.09:846][ 48]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2022.03.06-01.57.10:045][ 68]Cmd: DELETE
+[2022.03.06-01.57.10:045][ 68]Cmd: ACTOR DELETE
+[2022.03.06-01.57.10:049][ 68]LogEditorActor: Deleted Actor: SpotLight
+[2022.03.06-01.57.10:077][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.06-01.57.10:078][ 68]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.03.06-01.57.10:338][ 98]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2022.03.06-01.57.10:543][119]Cmd: DELETE
+[2022.03.06-01.57.10:543][119]Cmd: ACTOR DELETE
+[2022.03.06-01.57.10:547][119]LogEditorActor: Deleted Actor: SpotLight
+[2022.03.06-01.57.10:576][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.03.06-01.57.10:577][119]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.03.06-01.57.21:141][336]MapCheck: New page: Map Check
+[2022.03.06-01.57.21:167][336]LightingResults: New page: Lighting Build - 6 Mar 2022, 11:57:21 pm
+[2022.03.06-01.57.21:185][336]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.03.06-01.57.21:187][336]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.03.06-01.57.21:188][336]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.03.06-01.57.21:189][336]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.03.06-01.57.21:189][336]LogSwarmInterface: [TryOpenConnection] Local Process ID is 27104
+[2022.03.06-01.57.25:745][336]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.03.06-01.57.25:745][336]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.03.06-01.57.25:745][336]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.03.06-01.57.25:745][336]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.03.06-01.57.25:745][336]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.03.06-01.57.25:745][336]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.03.06-01.57.25:837][336]LogEditorBuildUtils: Build time 0:04
+[2022.03.06-01.57.25:895][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.03.06-01.57.31:616][758]Job is a success!
+[2022.03.06-01.57.31:758][760]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.020s
+[2022.03.06-01.57.31:758][760]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.03.06-01.57.31:758][760]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2022.03.06-01.57.31:758][760]LogVolumetricLightmapImport:      Bricks at depth
+[2022.03.06-01.57.31:758][760]LogVolumetricLightmapImport:          0: 3.0% covering 100.0% of volume
+[2022.03.06-01.57.31:758][760]LogVolumetricLightmapImport:          1: 27.3% covering 14.1% of volume
+[2022.03.06-01.57.31:758][760]LogVolumetricLightmapImport:          2: 69.7% covering 0.6% of volume
+[2022.03.06-01.57.31:758][760]LogVolumetricLightmapImport:      Bricks in each level
+[2022.03.06-01.57.31:758][760]LogVolumetricLightmapImport:          Main_Level_Test 			 33 bricks 	 100.0% (Persistent Level)
+[2022.03.06-01.57.32:016][760]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2022.03.06-01.57.32:016][760]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.03.06-01.57.32:016][760]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-01.57.32:016][760]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-01.57.32:016][760]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.03.06-01.57.32:016][760]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.06-01.57.32:078][760]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 1024X256)
+[2022.03.06-01.57.32:078][760]LogStaticLightingSystem: Main_Level_Test_BuiltData storing lightmap data for 150 meshes in 2 LightmapResourceClusters (75.0 Meshes per cluster).
+[2022.03.06-01.57.32:111][760]Lightmass on DESKTOP-8NR2FO5: 5.59 sec total, 165 ms importing, 18 ms setup, 521 ms photons, 4.83 sec processing, 0 ms extra exporting [150/150 mappings]. Threads: 24.1 sec total, 13.3 sec processing.
+[2022.03.06-01.57.32:114][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.03.06-01.57.32:161][760]LogStaticLightingSystem: Illumination: 10.9 sec (220 ms encoding lightmaps, 40 ms encoding shadowmaps)
+[2022.03.06-01.57.32:161][760]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.03.06-01.57.32:161][760]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2022.03.06-01.57.32:756][760]DumpUnbuiltLightIteractions
+[2022.03.06-01.57.32:756][760]Lights with unbuilt interactions: 0
+[2022.03.06-01.57.32:756][760]
+[2022.03.06-01.57.32:756][760]Primitives with unbuilt interactions: 0
+[2022.03.06-01.57.32:810][761]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.03.06-01.57.32:810][761]MapCheck: New page: Main_Level_Test - 6 Mar 2022, 11:57:32 pm
+[2022.03.06-01.57.32:811][761]MapCheck: Warning: Floor_is_lava_BP_3 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.06-01.57.32:811][761]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.926ms to complete.
+[2022.03.06-01.57.35:031][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof)
+[2022.03.06-01.57.40:875][568]MapCheck: New page: Map Check
+[2022.03.06-01.57.40:892][568]LightingResults: New page: Lighting Build - 6 Mar 2022, 11:57:40 pm
+[2022.03.06-01.57.40:903][568]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.03.06-01.57.40:906][568]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.03.06-01.57.40:906][568]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.03.06-01.57.40:906][568]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.03.06-01.57.40:906][568]LogSwarmInterface: [TryOpenConnection] Local Process ID is 27104
+[2022.03.06-01.57.45:471][568]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.03.06-01.57.45:471][568]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.03.06-01.57.45:471][568]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.03.06-01.57.45:471][568]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.03.06-01.57.45:471][568]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.03.06-01.57.45:471][568]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.03.06-01.57.45:561][568]LogEditorBuildUtils: Build time 0:04
+[2022.03.06-01.57.45:620][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.03.06-01.57.49:333][855]Cmd: TRANSACTION UNDO
+[2022.03.06-01.57.49:333][855]LogEditorTransaction: Undo Move Actors
+[2022.03.06-01.57.50:379][857]Cmd: TRANSACTION UNDO
+[2022.03.06-01.57.50:379][857]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.06-01.57.50:847][889]Job is a success!
+[2022.03.06-01.57.50:950][891]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.020s
+[2022.03.06-01.57.50:950][891]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.03.06-01.57.50:950][891]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2022.03.06-01.57.50:950][891]LogVolumetricLightmapImport:      Bricks at depth
+[2022.03.06-01.57.50:950][891]LogVolumetricLightmapImport:          0: 2.9% covering 100.0% of volume
+[2022.03.06-01.57.50:950][891]LogVolumetricLightmapImport:          1: 26.5% covering 14.1% of volume
+[2022.03.06-01.57.50:950][891]LogVolumetricLightmapImport:          2: 70.6% covering 0.6% of volume
+[2022.03.06-01.57.50:950][891]LogVolumetricLightmapImport:      Bricks in each level
+[2022.03.06-01.57.50:950][891]LogVolumetricLightmapImport:          Main_Level_Test 			 34 bricks 	 100.0% (Persistent Level)
+[2022.03.06-01.57.51:208][891]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 1024X512)
+[2022.03.06-01.57.51:208][891]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.03.06-01.57.51:208][891]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-01.57.51:208][891]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-01.57.51:208][891]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.03.06-01.57.51:208][891]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.06-01.57.51:268][891]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 1024X256)
+[2022.03.06-01.57.51:268][891]LogStaticLightingSystem: Main_Level_Test_BuiltData storing lightmap data for 150 meshes in 2 LightmapResourceClusters (75.0 Meshes per cluster).
+[2022.03.06-01.57.51:302][891]Lightmass on DESKTOP-8NR2FO5: 4.95 sec total, 194 ms importing, 46 ms setup, 577 ms photons, 4.08 sec processing, 0 ms extra exporting [150/150 mappings]. Threads: 20.4 sec total, 11.4 sec processing.
+[2022.03.06-01.57.51:305][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.03.06-01.57.51:372][891]LogStaticLightingSystem: Illumination: 10.3 sec (221 ms encoding lightmaps, 39 ms encoding shadowmaps)
+[2022.03.06-01.57.51:372][891]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.03.06-01.57.51:372][891]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2022.03.06-01.57.51:479][891]DumpUnbuiltLightIteractions
+[2022.03.06-01.57.51:479][891]Lights with unbuilt interactions: 0
+[2022.03.06-01.57.51:479][891]
+[2022.03.06-01.57.51:479][891]Primitives with unbuilt interactions: 0
+[2022.03.06-01.57.51:535][892]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.03.06-01.57.51:535][892]MapCheck: New page: Main_Level_Test - 6 Mar 2022, 11:57:51 pm
+[2022.03.06-01.57.51:536][892]MapCheck: Warning: Floor_is_lava_BP_3 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.06-01.57.51:536][892]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.055ms to complete.
+[2022.03.06-01.57.58:399][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof)
+[2022.03.06-01.57.59:012][714]Cmd: TRANSACTION UNDO
+[2022.03.06-01.57.59:012][714]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.06-01.58.01:872][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof)
+[2022.03.06-02.00.12:716][179]MapCheck: New page: Map Check
+[2022.03.06-02.00.12:727][179]LightingResults: New page: Lighting Build - 7 Mar 2022, 12:00:12 am
+[2022.03.06-02.00.12:738][179]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.03.06-02.00.12:740][179]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.03.06-02.00.12:740][179]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.03.06-02.00.12:741][179]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.03.06-02.00.12:741][179]LogSwarmInterface: [TryOpenConnection] Local Process ID is 27104
+[2022.03.06-02.00.17:301][179]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.03.06-02.00.17:302][179]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.03.06-02.00.17:302][179]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.03.06-02.00.17:302][179]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.03.06-02.00.17:302][179]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.03.06-02.00.17:302][179]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.03.06-02.00.17:394][179]LogEditorBuildUtils: Build time 0:04
+[2022.03.06-02.00.17:401][179]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-02.00.17:401][179]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2022.03.06-02.00.17:401][179]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 8 distinct outputs (50.00%)
+[2022.03.06-02.00.17:401][179]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.03.06-02.00.17:401][179]LogShaderCompilers: Display: ================================================
+[2022.03.06-02.00.17:451][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.03.06-02.00.26:784][975]Job is a success!
+[2022.03.06-02.00.27:089][976]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2022.03.06-02.00.27:089][976]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.03.06-02.00.27:089][976]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.5Mb due to 0.010000 MinBrickError)
+[2022.03.06-02.00.27:089][976]LogVolumetricLightmapImport:      Bricks at depth
+[2022.03.06-02.00.27:089][976]LogVolumetricLightmapImport:          0: 4.2% covering 100.0% of volume
+[2022.03.06-02.00.27:089][976]LogVolumetricLightmapImport:          1: 37.5% covering 14.1% of volume
+[2022.03.06-02.00.27:089][976]LogVolumetricLightmapImport:          2: 58.3% covering 0.3% of volume
+[2022.03.06-02.00.27:089][976]LogVolumetricLightmapImport:      Bricks in each level
+[2022.03.06-02.00.27:089][976]LogVolumetricLightmapImport:          Main_Level_Test 			 24 bricks 	 100.0% (Persistent Level)
+[2022.03.06-02.00.27:157][976]LightingResults: Warning: PointLight3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.03.06-02.00.27:157][976]LightingResults: Warning: RectLight10 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.03.06-02.00.27:157][976]LightingResults: Warning: RectLight9 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.03.06-02.00.27:372][976]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2022.03.06-02.00.27:372][976]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-02.00.27:372][976]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.03.06-02.00.27:372][976]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.03.06-02.00.27:372][976]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-02.00.27:372][976]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.06-02.00.27:442][976]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 1024X256)
+[2022.03.06-02.00.27:442][976]Lightmass on DESKTOP-8NR2FO5: 9.32 sec total, 193 ms importing, 48 ms setup, 1.12 sec photons, 7.91 sec processing, 0 ms extra exporting [150/150 mappings]. Threads: 39.5 sec total, 22.3 sec processing.
+[2022.03.06-02.00.27:461][976]LogStaticLightingSystem: Main_Level_Test_BuiltData storing lightmap data for 150 meshes in 2 LightmapResourceClusters (75.0 Meshes per cluster).
+[2022.03.06-02.00.27:501][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.03.06-02.00.27:539][976]LogStaticLightingSystem: Illumination: 14.7 sec (237 ms encoding lightmaps, 33 ms encoding shadowmaps)
+[2022.03.06-02.00.27:539][976]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.03.06-02.00.27:539][976]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2022.03.06-02.00.28:312][976]DumpUnbuiltLightIteractions
+[2022.03.06-02.00.28:312][976]Lights with unbuilt interactions: 0
+[2022.03.06-02.00.28:312][976]
+[2022.03.06-02.00.28:312][976]Primitives with unbuilt interactions: 0
+[2022.03.06-02.00.28:375][977]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.03.06-02.00.28:375][977]MapCheck: New page: Main_Level_Test - 7 Mar 2022, 12:00:28 am
+[2022.03.06-02.00.28:376][977]MapCheck: Warning: Floor_is_lava_BP_3 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.06-02.00.28:376][977]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.013ms to complete.
+[2022.03.06-02.00.34:240][567]LogSlate: Window 'Message Log' being destroyed
+[2022.03.06-02.00.34:249][567]LogSlate: Window 'Message Log' being destroyed
+[2022.03.06-02.00.45:482][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_18)
+[2022.03.06-02.00.47:152][992]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight9)
+[2022.03.06-02.00.48:907][196]Cmd: DELETE
+[2022.03.06-02.00.48:907][196]Cmd: ACTOR DELETE
+[2022.03.06-02.00.48:911][196]LogEditorActor: Deleted Actor: RectLight
+[2022.03.06-02.00.48:941][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.06-02.00.48:945][196]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.03.06-02.00.54:545][836]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight10)
+[2022.03.06-02.00.55:851][967]Cmd: DELETE
+[2022.03.06-02.00.55:851][967]Cmd: ACTOR DELETE
+[2022.03.06-02.00.55:855][967]LogEditorActor: Deleted Actor: RectLight
+[2022.03.06-02.00.55:884][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.06-02.00.55:886][967]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.03.06-02.01.08:297][418]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2022.03.06-02.01.11:735][814]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2022.03.06-02.01.13:639][ 33]Cmd: DELETE
+[2022.03.06-02.01.13:639][ 33]Cmd: ACTOR DELETE
+[2022.03.06-02.01.13:643][ 33]LogEditorActor: Deleted Actor: PointLight
+[2022.03.06-02.01.13:671][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.06-02.01.13:674][ 33]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2022.03.06-02.01.15:460][246]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2022.03.06-02.01.16:051][313]Cmd: DELETE
+[2022.03.06-02.01.16:051][313]Cmd: ACTOR DELETE
+[2022.03.06-02.01.16:054][313]LogEditorActor: Deleted Actor: PointLight
+[2022.03.06-02.01.16:082][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.06-02.01.16:083][313]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.03.06-02.01.17:184][444]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2022.03.06-02.01.19:575][723]Cmd: DELETE
+[2022.03.06-02.01.19:575][723]Cmd: ACTOR DELETE
+[2022.03.06-02.01.19:579][723]LogEditorActor: Deleted Actor: PointLight
+[2022.03.06-02.01.19:608][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.03.06-02.01.19:610][723]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2022.03.06-02.01.21:442][942]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2022.03.06-02.02.47:488][ 13]MapCheck: New page: Map Check
+[2022.03.06-02.02.47:507][ 13]LightingResults: New page: Lighting Build - 7 Mar 2022, 12:02:47 am
+[2022.03.06-02.02.47:521][ 13]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.03.06-02.02.47:524][ 13]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.03.06-02.02.47:524][ 13]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.03.06-02.02.47:524][ 13]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.03.06-02.02.47:525][ 13]LogSwarmInterface: [TryOpenConnection] Local Process ID is 27104
+[2022.03.06-02.02.52:076][ 13]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.03.06-02.02.52:076][ 13]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.03.06-02.02.52:076][ 13]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.03.06-02.02.52:076][ 13]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.03.06-02.02.52:076][ 13]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.03.06-02.02.52:076][ 13]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.03.06-02.02.52:165][ 13]LogEditorBuildUtils: Build time 0:04
+[2022.03.06-02.02.52:217][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.03.06-02.03.00:684][738]Job is a success!
+[2022.03.06-02.03.00:841][740]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.019s
+[2022.03.06-02.03.00:841][740]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.03.06-02.03.00:841][740]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2022.03.06-02.03.00:841][740]LogVolumetricLightmapImport:      Bricks at depth
+[2022.03.06-02.03.00:841][740]LogVolumetricLightmapImport:          0: 2.8% covering 100.0% of volume
+[2022.03.06-02.03.00:841][740]LogVolumetricLightmapImport:          1: 25.0% covering 14.1% of volume
+[2022.03.06-02.03.00:841][740]LogVolumetricLightmapImport:          2: 72.2% covering 0.6% of volume
+[2022.03.06-02.03.00:842][740]LogVolumetricLightmapImport:      Bricks in each level
+[2022.03.06-02.03.00:842][740]LogVolumetricLightmapImport:          Main_Level_Test 			 36 bricks 	 100.0% (Persistent Level)
+[2022.03.06-02.03.01:105][740]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 1024X512)
+[2022.03.06-02.03.01:105][740]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.03.06-02.03.01:105][740]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.03.06-02.03.01:105][740]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-02.03.01:105][740]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-02.03.01:105][740]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.06-02.03.01:146][740]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X128)
+[2022.03.06-02.03.01:147][740]LogStaticLightingSystem: Main_Level_Test_BuiltData storing lightmap data for 150 meshes in 2 LightmapResourceClusters (75.0 Meshes per cluster).
+[2022.03.06-02.03.01:178][740]Lightmass on DESKTOP-8NR2FO5: 8.27 sec total, 184 ms importing, 49 ms setup, 487 ms photons, 7.51 sec processing, 0 ms extra exporting [150/150 mappings]. Threads: 37.5 sec total, 22.6 sec processing.
+[2022.03.06-02.03.01:181][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.03.06-02.03.01:222][740]LogStaticLightingSystem: Illumination: 13.6 sec (224 ms encoding lightmaps, 19 ms encoding shadowmaps)
+[2022.03.06-02.03.01:222][740]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.03.06-02.03.01:222][740]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 1 textures
+[2022.03.06-02.03.02:085][740]DumpUnbuiltLightIteractions
+[2022.03.06-02.03.02:085][740]Lights with unbuilt interactions: 0
+[2022.03.06-02.03.02:085][740]
+[2022.03.06-02.03.02:085][740]Primitives with unbuilt interactions: 0
+[2022.03.06-02.03.02:149][741]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.03.06-02.03.02:149][741]MapCheck: New page: Main_Level_Test - 7 Mar 2022, 12:03:02 am
+[2022.03.06-02.03.02:150][741]MapCheck: Warning: Floor_is_lava_BP_3 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.06-02.03.02:150][741]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.066ms to complete.
+[2022.03.06-02.03.23:213][174]Cmd: DELETE
+[2022.03.06-02.03.23:213][174]Cmd: ACTOR DELETE
+[2022.03.06-02.03.23:217][174]LogEditorActor: Deleted Actor: PointLight
+[2022.03.06-02.03.23:245][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.03.06-02.03.23:249][174]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2022.03.06-02.05.00:052][666]MapCheck: New page: Map Check
+[2022.03.06-02.05.00:065][666]LightingResults: New page: Lighting Build - 7 Mar 2022, 12:05:00 am
+[2022.03.06-02.05.00:076][666]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.03.06-02.05.00:081][666]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.03.06-02.05.00:081][666]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.03.06-02.05.00:082][666]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.03.06-02.05.00:082][666]LogSwarmInterface: [TryOpenConnection] Local Process ID is 27104
+[2022.03.06-02.05.04:650][666]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.03.06-02.05.04:651][666]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.03.06-02.05.04:651][666]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.03.06-02.05.04:651][666]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.03.06-02.05.04:651][666]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.03.06-02.05.04:651][666]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.03.06-02.05.04:740][666]LogEditorBuildUtils: Build time 0:04
+[2022.03.06-02.05.04:748][666]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-02.05.04:748][666]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2022.03.06-02.05.04:748][666]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 8 distinct outputs (50.00%)
+[2022.03.06-02.05.04:748][666]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.03.06-02.05.04:748][666]LogShaderCompilers: Display: ================================================
+[2022.03.06-02.05.04:805][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.03.06-02.05.11:567][250]Job is a success!
+[2022.03.06-02.05.11:700][251]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.021s
+[2022.03.06-02.05.11:700][251]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.03.06-02.05.11:700][251]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2022.03.06-02.05.11:700][251]LogVolumetricLightmapImport:      Bricks at depth
+[2022.03.06-02.05.11:700][251]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2022.03.06-02.05.11:700][251]LogVolumetricLightmapImport:          1: 20.5% covering 14.1% of volume
+[2022.03.06-02.05.11:700][251]LogVolumetricLightmapImport:          2: 77.3% covering 0.8% of volume
+[2022.03.06-02.05.11:700][251]LogVolumetricLightmapImport:      Bricks in each level
+[2022.03.06-02.05.11:700][251]LogVolumetricLightmapImport:          Main_Level_Test 			 44 bricks 	 100.0% (Persistent Level)
+[2022.03.06-02.05.11:962][251]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2022.03.06-02.05.11:962][251]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.03.06-02.05.11:962][251]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-02.05.11:962][251]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-02.05.11:962][251]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.03.06-02.05.11:962][251]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.06-02.05.11:999][251]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X128)
+[2022.03.06-02.05.11:999][251]LogStaticLightingSystem: Main_Level_Test_BuiltData storing lightmap data for 150 meshes in 2 LightmapResourceClusters (75.0 Meshes per cluster).
+[2022.03.06-02.05.12:001][251]Lightmass on DESKTOP-8NR2FO5: 6.50 sec total, 193 ms importing, 20 ms setup, 498 ms photons, 5.74 sec processing, 0 ms extra exporting [150/150 mappings]. Threads: 28.7 sec total, 16.6 sec processing.
+[2022.03.06-02.05.12:049][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.03.06-02.05.12:086][251]LogStaticLightingSystem: Illumination: 11.9 sec (219 ms encoding lightmaps, 20 ms encoding shadowmaps)
+[2022.03.06-02.05.12:086][251]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.03.06-02.05.12:086][251]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 1 textures
+[2022.03.06-02.05.12:659][251]DumpUnbuiltLightIteractions
+[2022.03.06-02.05.12:659][251]Lights with unbuilt interactions: 0
+[2022.03.06-02.05.12:659][251]
+[2022.03.06-02.05.12:659][251]Primitives with unbuilt interactions: 0
+[2022.03.06-02.05.12:717][252]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.03.06-02.05.12:717][252]MapCheck: New page: Main_Level_Test - 7 Mar 2022, 12:05:12 am
+[2022.03.06-02.05.12:718][252]MapCheck: Warning: Floor_is_lava_BP_3 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.06-02.05.12:718][252]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.951ms to complete.
+[2022.03.06-02.05.16:103][552]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight2)
+[2022.03.06-02.05.32:579][337]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight3)
+[2022.03.06-02.05.33:719][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_17)
+[2022.03.06-02.05.34:786][586]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight3)
+[2022.03.06-02.06.55:233][717]LogEditorViewport: Clicking on Actor (LMB): Floor_is_lava_BP_C (Floor_is_lava_BP)
+[2022.03.06-02.07.00:984][340]MapCheck: New page: Map Check
+[2022.03.06-02.07.00:995][340]LightingResults: New page: Lighting Build - 7 Mar 2022, 12:07:00 am
+[2022.03.06-02.07.01:008][340]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.03.06-02.07.01:010][340]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.03.06-02.07.01:010][340]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.03.06-02.07.01:011][340]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.03.06-02.07.01:011][340]LogSwarmInterface: [TryOpenConnection] Local Process ID is 27104
+[2022.03.06-02.07.05:561][340]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.03.06-02.07.05:561][340]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.03.06-02.07.05:561][340]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.03.06-02.07.05:561][340]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.03.06-02.07.05:561][340]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.03.06-02.07.05:561][340]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.03.06-02.07.05:654][340]LogEditorBuildUtils: Build time 0:04
+[2022.03.06-02.07.05:727][341]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.03.06-02.07.12:323][911]Job is a success!
+[2022.03.06-02.07.12:448][912]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.021s
+[2022.03.06-02.07.12:448][912]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.03.06-02.07.12:448][912]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb (trimmed 0.3Mb due to 0.010000 MinBrickError)
+[2022.03.06-02.07.12:448][912]LogVolumetricLightmapImport:      Bricks at depth
+[2022.03.06-02.07.12:448][912]LogVolumetricLightmapImport:          0: 1.5% covering 100.0% of volume
+[2022.03.06-02.07.12:448][912]LogVolumetricLightmapImport:          1: 13.2% covering 14.1% of volume
+[2022.03.06-02.07.12:448][912]LogVolumetricLightmapImport:          2: 85.3% covering 1.4% of volume
+[2022.03.06-02.07.12:448][912]LogVolumetricLightmapImport:      Bricks in each level
+[2022.03.06-02.07.12:448][912]LogVolumetricLightmapImport:          Main_Level_Test 			 68 bricks 	 100.0% (Persistent Level)
+[2022.03.06-02.07.12:711][912]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 1024X512)
+[2022.03.06-02.07.12:711][912]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-02.07.12:711][912]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.03.06-02.07.12:711][912]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.06-02.07.12:711][912]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.03.06-02.07.12:711][912]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.06-02.07.12:747][912]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X128)
+[2022.03.06-02.07.12:748][912]LogStaticLightingSystem: Main_Level_Test_BuiltData storing lightmap data for 150 meshes in 2 LightmapResourceClusters (75.0 Meshes per cluster).
+[2022.03.06-02.07.12:750][912]Lightmass on DESKTOP-8NR2FO5: 6.32 sec total, 201 ms importing, 20 ms setup, 627 ms photons, 5.42 sec processing, 0 ms extra exporting [150/150 mappings]. Threads: 27.1 sec total, 15.5 sec processing.
+[2022.03.06-02.07.12:784][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.03.06-02.07.12:827][912]LogStaticLightingSystem: Illumination: 11.7 sec (212 ms encoding lightmaps, 20 ms encoding shadowmaps)
+[2022.03.06-02.07.12:827][912]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.03.06-02.07.12:827][912]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 1 textures
+[2022.03.06-02.07.13:575][912]DumpUnbuiltLightIteractions
+[2022.03.06-02.07.13:575][912]Lights with unbuilt interactions: 0
+[2022.03.06-02.07.13:575][912]
+[2022.03.06-02.07.13:575][912]Primitives with unbuilt interactions: 0
+[2022.03.06-02.07.13:627][913]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.03.06-02.07.13:627][913]MapCheck: New page: Main_Level_Test - 7 Mar 2022, 12:07:13 am
+[2022.03.06-02.07.13:628][913]MapCheck: Warning: Floor_is_lava_BP_3 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.03.06-02.07.13:628][913]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.885ms to complete.
+[2022.03.06-02.07.21:340][754]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.06-02.07.21:393][754]LogFMOD: Default sample rate = 48000
+[2022.03.06-02.07.21:393][754]LogFMOD: System sample rate = 48000
+[2022.03.06-02.07.21:393][754]LogFMOD: Matching system sample rate 48000
+[2022.03.06-02.07.21:417][754]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.06-02.07.21:455][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.06-02.07.21:455][754]PIE: New page: PIE session: Main_Level_Test (7 Mar 2022, 12:07:21 am)
+[2022.03.06-02.07.21:494][754]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-02.07.21:502][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009126s)
+[2022.03.06-02.07.21:503][754]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.06-02.07.21:504][754]LogPlayLevel: PIE: World Init took: (0.001512s)
+[2022.03.06-02.07.21:504][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.010948s)
+[2022.03.06-02.07.21:534][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.03.06-02.07.21:537][754]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2022.03.06-02.07.21:537][754]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.06-02.07.21:537][754]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.06-02.07.21:537][754]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.06-02.07.21:537][754]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.06-02.07.21:537][754]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.06-02.07.21:537][754]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.06-02.07.21:537][754]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.06-02.07.21:537][754]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.06-02.07.21:537][754]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.06-02.07.21:537][754]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.06-02.07.21:537][754]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.06-02.07.21:537][754]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.06-02.07.21:544][754]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.06-02.07.21:544][754]LogAudioMixer: Display: 1: FrontRight
+[2022.03.06-02.07.21:557][754]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.06-02.07.21:558][754]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.06-02.07.21:558][754]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.06-02.07.21:558][754]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.06-02.07.21:558][754]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.06-02.07.21:558][754]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.06-02.07.21:558][754]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.06-02.07.21:559][754]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.06-02.07.21:559][754]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.06-02.07.21:559][754]LogInit: FAudioDevice initialized.
+[2022.03.06-02.07.21:559][754]LogAudio: Display: Audio Device (ID: 83) registered with world 'Main_Level_Test'.
+[2022.03.06-02.07.21:571][754]LogLoad: Game class is 'Main_GM_C'
+[2022.03.06-02.07.21:577][754]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.06-13.07.21
+[2022.03.06-02.07.21:578][754]LogWorld: Bringing up level for play took: 0.005445
+[2022.03.06-02.07.21:578][754]LogOnline: OSS: Creating online subsystem instance for: :Context_94
+[2022.03.06-02.07.21:581][754]PIE: Server logged in
+[2022.03.06-02.07.21:582][754]PIE: Play in editor total start time 0.235 seconds.
+[2022.03.06-02.07.34:838][981]LogNet: Browse: /Game/Lachlans_Work/Maps/Main_Level_Test
+[2022.03.06-02.07.34:838][981]LogLoad: LoadMap: /Game/Lachlans_Work/Maps/Main_Level_Test
+[2022.03.06-02.07.34:838][981]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-02.07.34:839][981]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-02.07.34:839][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-02.07.34:900][981]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.06-02.07.34:905][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.03.06-02.07.34:908][981]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-02.07.34:915][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007856s)
+[2022.03.06-02.07.34:916][981]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.06-02.07.34:916][981]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2022.03.06-02.07.34:916][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.008833s)
+[2022.03.06-02.07.34:916][981]LogAudio: Display: Audio Device (ID: 83) registered with world 'Main_Level_Test'.
+[2022.03.06-02.07.34:916][981]LogLoad: Game class is 'Main_GM_C'
+[2022.03.06-02.07.34:919][981]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.06-13.07.34
+[2022.03.06-02.07.34:919][981]LogWorld: Bringing up level for play took: 0.001857
+[2022.03.06-02.07.34:920][981]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.06-02.07.34:921][981]LogLoad: Took 0.082982 seconds to LoadMap(/Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test)
+[2022.03.06-02.07.39:100][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-02.07.39:100][453]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-02.07.39:100][453]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-02.07.39:100][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-02.07.39:117][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.06-02.07.39:130][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-02.07.39:163][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-02.07.39:163][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-02.07.39:164][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-02.07.39:172][453]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.03.06-02.07.39:216][454]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2022.03.06-02.07.45:487][154]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight6)
+[2022.03.06-02.07.55:582][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_10)
+[2022.03.06-02.08.10:000][922]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight6)
+[2022.03.06-02.08.19:100][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_12)
+[2022.03.06-02.08.43:659][797]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2022.03.06-02.09.24:167][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof)
+[2022.03.06-02.09.28:472][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.03.06-02.09.29:765][797]LogSlate: Window 'Save Content' being destroyed
+[2022.03.06-02.09.29:836][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.03.06-02.09.29:899][797]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_TestB30A4548465DB307CA52EBA9D58628F9.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Lachlans_Work/Maps/Main_Level_Test.umap'
+[2022.03.06-02.09.29:910][797]LogFileHelpers: Saving map 'Main_Level_Test' took 0.103
+[2022.03.06-02.09.30:002][797]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test_BuiltData959D790F4715DF47C92D95AD048D46A0.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Lachlans_Work/Maps/Main_Level_Test_BuiltData.uasset'
+[2022.03.06-02.09.30:024][797]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.06-02.09.30:024][797]LogContentValidation: Display: Validating World /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test
+[2022.03.06-02.09.30:024][797]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Lachlans_Work/Maps/Main_Level_Test_BuiltData.Main_Level_Test_BuiltData
