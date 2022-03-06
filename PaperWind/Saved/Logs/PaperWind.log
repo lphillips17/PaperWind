@@ -1377,3 +1377,439 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.06-06.43.42:834][601]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/P_Confetti8B1263D045BA820D425C159EF5C136F5.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/Emitters/P_Confetti.uasset'
 [2022.03.06-06.43.42:851][601]AssetCheck: New page: Asset Save: P_Confetti
 [2022.03.06-06.43.42:851][601]LogContentValidation: Display: Validating ParticleSystem /Game/Michaels_Work/Materials/Emitters/P_Confetti.P_Confetti
+[2022.03.06-06.44.13:493][566]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C55A3AE15B80B95B3C0946523D504D08EF0BB795), compiling. 
+[2022.03.06-06.44.13:496][566]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-06.44.13:496][566]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.44.13:496][566]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.44.13:517][567]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-06.44.13:517][567]LogShaderCompilers: Display: Total job queries 2039, among them cache hits 1759 (86.27%)
+[2022.03.06-06.44.13:517][567]LogShaderCompilers: Display: Tracking 258 distinct input hashes that result in 137 distinct outputs (53.10%)
+[2022.03.06-06.44.13:517][567]LogShaderCompilers: Display: RAM used: 0.75 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.09%
+[2022.03.06-06.44.13:517][567]LogShaderCompilers: Display: ================================================
+[2022.03.06-06.44.13:524][568]MaterialEditorStats: Base pass shader without light map: 54 instructions
+[2022.03.06-06.44.13:524][568]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.03.06-06.44.13:524][568]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-06.44.13:524][568]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.44.13:524][568]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.44.18:791][ 94]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 92D1A347F41C1D03CB349F661CA57EBA922DDCF2), compiling. 
+[2022.03.06-06.44.18:793][ 94]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-06.44.18:793][ 94]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.44.18:793][ 94]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.44.18:833][ 96]MaterialEditorStats: Base pass shader without light map: 54 instructions
+[2022.03.06-06.44.18:833][ 96]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.03.06-06.44.18:833][ 96]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-06.44.18:833][ 96]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.44.18:833][ 96]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.44.33:821][340]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D79761689673236AF9ED735428278575D5E1E7BA), compiling. 
+[2022.03.06-06.44.33:824][340]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-06.44.33:824][340]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.44.33:824][340]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.44.33:974][342]MaterialEditorStats: Base pass shader without light map: 54 instructions
+[2022.03.06-06.44.33:974][342]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.03.06-06.44.33:974][342]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-06.44.33:974][342]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.44.33:974][342]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.44.37:542][670]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E73C24B68B2978F34585AED4069E9112071D0F1E), compiling. 
+[2022.03.06-06.44.37:548][670]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-06.44.37:548][670]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.44.37:548][670]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.44.37:591][673]MaterialEditorStats: Base pass shader without light map: 54 instructions
+[2022.03.06-06.44.37:591][673]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.03.06-06.44.37:591][673]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-06.44.37:591][673]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.44.37:591][673]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.44.40:692][981]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F7AB1A3140B928DB08A5DE9D3C46D60272DF254B), compiling. 
+[2022.03.06-06.44.40:697][981]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-06.44.40:697][981]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.44.40:697][981]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.44.40:724][984]MaterialEditorStats: Base pass shader without light map: 54 instructions
+[2022.03.06-06.44.40:724][984]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.03.06-06.44.40:724][984]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-06.44.40:724][984]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.44.40:724][984]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.44.46:442][337]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0C1DA577E86C1D78D1F08C9BD76028D9740DFC45), compiling. 
+[2022.03.06-06.44.46:446][337]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-06.44.46:446][337]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.44.46:446][337]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.44.46:457][339]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2022.03.06-06.44.46:461][339]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-06.44.46:461][339]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2022.03.06-06.44.46:461][339]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-06.44.46:461][339]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-06.44.47:453][442]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.03.06-06.44.47:453][442]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-06.44.47:456][442]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-06.44.47:456][442]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.44.47:456][442]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.44.47:751][477]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.03.06-06.44.47:751][477]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-06.44.48:345][524]MaterialEditorStats: Base pass shader without light map: 53 instructions
+[2022.03.06-06.44.48:345][524]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.03.06-06.44.48:345][524]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-06.44.48:345][524]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.44.48:345][524]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.44.48:427][534]LogMaterialEditor: Saving and Compiling material M_Confetti
+[2022.03.06-06.44.48:731][534]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CE56301E01F831E2770E3F9BB61510C9D619D0A1), compiling. 
+[2022.03.06-06.44.48:761][534]LogMaterial: Display: Missing cached shadermap for M_Confetti in PCD3D_SM5, Default, SM5 (DDC key hash: 5E5A1D038330E77A04769DAC46D50B1B14713696), compiling. 
+[2022.03.06-06.44.48:770][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.03.06-06.44.48:774][534]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.06-06.44.49:183][534]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-06.44.49:183][534]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-06.44.49:188][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.03.06-06.44.49:232][534]LogShaderCompilers: Display: Submitted 34 shader compile jobs with 'Normal' priority
+[2022.03.06-06.44.49:233][534]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-06.44.49:233][534]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2022.03.06-06.44.49:233][534]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-06.44.49:233][534]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-06.44.49:256][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Michaels_Work/Materials/M_Confetti" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/M_Confetti.uasset" SILENT=true
+[2022.03.06-06.44.49:263][534]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/M_ConfettiBC4DC2594A32C50B68F4CCB88F848F59.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/M_Confetti.uasset'
+[2022.03.06-06.44.49:275][534]AssetCheck: New page: Asset Save: M_Confetti
+[2022.03.06-06.44.49:275][534]LogContentValidation: Display: Validating Material /Game/Michaels_Work/Materials/M_Confetti.M_Confetti
+[2022.03.06-06.44.49:276][534]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-06.44.49:277][534]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.44.49:277][534]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.44.50:002][619]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2022.03.06-06.44.50:002][619]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-06.44.50:013][620]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-06.44.50:014][620]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.44.50:014][620]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.44.51:869][838]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2022.03.06-06.44.51:869][838]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-06.44.52:342][893]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2022.03.06-06.44.52:342][893]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-06.44.52:931][964]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-06.44.52:931][964]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-06.44.52:959][966]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-06.44.52:959][966]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.44.52:959][966]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.44.53:313][  8]MaterialEditorStats: Texture samplers: 6/16
+[2022.03.06-06.44.53:313][  8]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.44.53:313][  8]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.44.53:751][ 60]MaterialEditorStats: Base pass shader without light map: 53 instructions
+[2022.03.06-06.44.53:751][ 60]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.03.06-06.44.53:751][ 60]MaterialEditorStats: Texture samplers: 8/16
+[2022.03.06-06.44.53:751][ 60]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.44.53:751][ 60]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.45.27:928][ 31]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AE27645226FB2A76694DC07810D61F5387DF0C7E), compiling. 
+[2022.03.06-06.45.27:931][ 31]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-06.45.27:931][ 31]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.45.27:931][ 31]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.45.27:953][ 32]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2022.03.06-06.45.27:953][ 32]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-06.45.27:953][ 32]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2022.03.06-06.45.27:953][ 32]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-06.45.27:953][ 32]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-06.45.28:868][141]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.03.06-06.45.28:869][141]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-06.45.28:869][141]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F16837402FBD8DF6D5F0011FE4521905F1AEFD67), compiling. 
+[2022.03.06-06.45.28:887][142]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2022.03.06-06.45.28:898][143]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-06.45.28:898][143]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.45.28:898][143]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.45.29:151][173]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.03.06-06.45.29:151][173]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-06.45.29:764][239]MaterialEditorStats: Base pass shader without light map: 54 instructions
+[2022.03.06-06.45.29:764][239]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.03.06-06.45.29:764][239]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-06.45.29:764][239]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.45.29:764][239]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.45.30:594][337]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 32E241891B7CBFA08B62953F3E0E60CC6F68BCC9), compiling. 
+[2022.03.06-06.45.30:596][337]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-06.45.30:596][337]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.45.30:596][337]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.45.30:633][339]MaterialEditorStats: Base pass shader without light map: 54 instructions
+[2022.03.06-06.45.30:633][339]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.03.06-06.45.30:633][339]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-06.45.30:633][339]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.45.30:633][339]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.45.31:670][461]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2AE163B35E11592C44951863CB5C08B94ECF2782), compiling. 
+[2022.03.06-06.45.31:673][461]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-06.45.31:673][461]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.45.31:673][461]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.45.31:702][463]MaterialEditorStats: Base pass shader without light map: 54 instructions
+[2022.03.06-06.45.31:702][463]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.03.06-06.45.31:702][463]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-06.45.31:702][463]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.45.31:702][463]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.45.33:949][722]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 35B63033495C34CAE73F27B1A27FBA5D58B79C29), compiling. 
+[2022.03.06-06.45.33:951][722]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1F55A149B2ED86EAA574BFC98345E0981FF8C5AA), compiling. 
+[2022.03.06-06.45.34:867][796]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F71278DA5B2E47E87E38F9B20CE867C5C459BC13), compiling. 
+[2022.03.06-06.45.34:871][796]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.06-06.45.34:871][796]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.45.34:871][796]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.45.34:881][798]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2022.03.06-06.45.34:888][798]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-06.45.34:888][798]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2022.03.06-06.45.34:888][798]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-06.45.34:888][798]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-06.45.35:783][880]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.03.06-06.45.35:783][880]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-06.45.35:812][881]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-06.45.35:812][881]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.45.35:812][881]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.45.36:044][899]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.03.06-06.45.36:044][899]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-06.45.36:991][995]MaterialEditorStats: Base pass shader without light map: 54 instructions
+[2022.03.06-06.45.36:991][995]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.03.06-06.45.36:991][995]MaterialEditorStats: Texture samplers: 4/16
+[2022.03.06-06.45.36:991][995]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.45.36:991][995]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.45.37:138][ 12]LogMaterialEditor: Applying material M_Confetti
+[2022.03.06-06.45.37:444][ 12]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: ED7E923D00486EF887A5A3E1A69628AA204BCDBE), compiling. 
+[2022.03.06-06.45.37:469][ 12]LogMaterial: Display: Missing cached shadermap for M_Confetti in PCD3D_SM5, Default, SM5 (DDC key hash: B672EB1A18F0CBE009B86123C315C707C4805365), compiling. 
+[2022.03.06-06.45.37:477][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.03.06-06.45.37:482][ 12]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.06-06.45.37:889][ 12]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-06.45.37:889][ 12]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-06.45.37:895][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.03.06-06.45.37:907][ 12]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.06-06.45.37:907][ 12]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.45.37:907][ 12]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.45.37:931][ 14]LogShaderCompilers: Display: Submitted 34 shader compile jobs with 'Normal' priority
+[2022.03.06-06.45.37:941][ 14]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-06.45.37:941][ 14]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2022.03.06-06.45.37:941][ 14]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-06.45.37:941][ 14]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.06-06.45.38:727][105]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2022.03.06-06.45.38:727][105]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-06.45.38:738][106]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.06-06.45.38:738][106]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.45.38:738][106]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.45.38:975][133]LogMaterialEditor: Saving and Compiling material M_Confetti
+[2022.03.06-06.45.40:239][133]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2022.03.06-06.45.40:239][133]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-06.45.40:657][133]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2022.03.06-06.45.40:657][133]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-06.45.41:236][133]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.06-06.45.41:236][133]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.06-06.45.41:678][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Michaels_Work/Materials/M_Confetti" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/M_Confetti.uasset" SILENT=true
+[2022.03.06-06.45.41:683][133]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/M_Confetti323590C24FFDCA22BF26EDB6F87416C7.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/M_Confetti.uasset'
+[2022.03.06-06.45.41:700][133]AssetCheck: New page: Asset Save: M_Confetti
+[2022.03.06-06.45.41:700][133]LogContentValidation: Display: Validating Material /Game/Michaels_Work/Materials/M_Confetti.M_Confetti
+[2022.03.06-06.45.41:701][133]MaterialEditorStats: Base pass shader without light map: 54 instructions
+[2022.03.06-06.45.41:701][133]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.03.06-06.45.41:701][133]MaterialEditorStats: Texture samplers: 8/16
+[2022.03.06-06.45.41:701][133]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.06-06.45.41:701][133]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.06-06.45.53:541][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.03.06-06.45.54:476][111]LogSlate: Window 'Save Content' being destroyed
+[2022.03.06-06.45.54:507][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Michaels_Work/Materials/download" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/download.uasset" SILENT=true
+[2022.03.06-06.45.54:511][111]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/download05157BE548F9252716DCECAB9A0F39AE.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/download.uasset'
+[2022.03.06-06.45.54:517][111]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/M_BaseTexture26B7ED104D9EA501F654F8912435683B.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/AssetsvilleTown/Materials/MasterMaterials/M_BaseTexture.uasset'
+[2022.03.06-06.45.54:519][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AssetsvilleTown/Materials/MI_Tiles_08" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/AssetsvilleTown/Materials/MI_Tiles_08.uasset" SILENT=true
+[2022.03.06-06.45.54:522][111]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/MI_Tiles_088B4A817B49CC7064EE8BFB8EDDB0C02C.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/AssetsvilleTown/Materials/MI_Tiles_08.uasset'
+[2022.03.06-06.45.54:533][111]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.06-06.45.54:533][111]LogContentValidation: Display: Validating Texture2D /Game/Michaels_Work/Materials/download.download
+[2022.03.06-06.45.54:533][111]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/AssetsvilleTown/Materials/MI_Tiles_08.MI_Tiles_08
+[2022.03.06-06.45.54:533][111]LogContentValidation: Display: Validating Material /Game/AssetsvilleTown/Materials/MasterMaterials/M_BaseTexture.M_BaseTexture
+[2022.03.06-06.48.02:506][845]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/P_Confetti78DCE71B4AEFFE8DB8F648A29816F564.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/Emitters/P_Confetti.uasset'
+[2022.03.06-06.48.02:516][845]AssetCheck: New page: Asset Save: P_Confetti
+[2022.03.06-06.48.02:516][845]LogContentValidation: Display: Validating ParticleSystem /Game/Michaels_Work/Materials/Emitters/P_Confetti.P_Confetti
+[2022.03.06-06.48.03:102][910]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/P_Confetti3A183031406F66746C55E8B667FE6EDA.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/Emitters/P_Confetti.uasset'
+[2022.03.06-06.48.03:116][910]AssetCheck: New page: Asset Save: P_Confetti
+[2022.03.06-06.48.03:116][910]LogContentValidation: Display: Validating ParticleSystem /Game/Michaels_Work/Materials/Emitters/P_Confetti.P_Confetti
+[2022.03.06-06.48.06:908][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.03.06-06.48.52:704][976]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Confetti)
+[2022.03.06-06.48.55:298][278]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Confetti2)
+[2022.03.06-06.48.57:811][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_20)
+[2022.03.06-06.48.59:688][746]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Confetti2)
+[2022.03.06-06.49.01:611][947]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Confetti)
+[2022.03.06-06.49.05:044][308]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Confetti2)
+[2022.03.06-06.49.34:353][219]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Michaels_Work/Blueprints/Completion_point_BP.Completion_point_BP
+[2022.03.06-06.49.34:533][219]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.03.06-06.50.37:534][ 78]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Confetti)
+[2022.03.06-06.51.14:959][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.03.06-06.51.15:027][457]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test_Auto2129F7D744E5EA63593307F85517D6531.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Lachlans_Work/Maps/Main_Level_Test_Auto2.umap'
+[2022.03.06-06.51.15:031][457]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lachlans_Work/Maps/Main_Level_Test' took 0.094
+[2022.03.06-06.51.15:031][457]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.094
+[2022.03.06-06.51.15:031][457]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Michaels_Work/Blueprints/Completion_point_BP] ([2] browsable assets)...
+[2022.03.06-06.51.15:031][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Blueprints/Completion_point_BP]
+[2022.03.06-06.51.15:043][457]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Completion_point_BP_Auto24D264C7F42F588DCF8031BB2D5DD996F.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Blueprints/Completion_point_BP_Auto2.uasset'
+[2022.03.06-06.51.15:044][457]LogFileHelpers: Auto-saving content packages took 0.014
+[2022.03.06-06.53.53:209][655]LogSlate: Took 0.015039 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.03.06-06.55.33:556][438]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.06-06.55.33:598][438]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.06-06.55.33:610][438]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.06-06.55.37:096][822]LogContentBrowser: Attempting asset rename: NewBlueprint -> Confetti
+[2022.03.06-06.55.37:118][822]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.06-06.56.10:102][381]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Confetti)
+[2022.03.06-06.56.10:985][482]Cmd: DELETE
+[2022.03.06-06.56.10:985][482]Cmd: ACTOR DELETE
+[2022.03.06-06.56.10:989][482]LogEditorActor: Deleted Actor: Emitter
+[2022.03.06-06.56.11:010][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.03.06-06.56.11:011][482]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.03.06-06.56.11:657][558]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Confetti2)
+[2022.03.06-06.56.11:893][582]Cmd: DELETE
+[2022.03.06-06.56.11:893][582]Cmd: ACTOR DELETE
+[2022.03.06-06.56.11:897][582]LogEditorActor: Deleted Actor: Emitter
+[2022.03.06-06.56.11:913][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.03.06-06.56.11:914][582]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2022.03.06-06.56.31:799][821]BlueprintLog: New page: Compile Completion_point_BP
+[2022.03.06-06.56.31:833][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.03.06-06.57.43:580][254]BlueprintLog: New page: Compile Completion_point_BP
+[2022.03.06-06.57.43:612][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.03.06-06.57.55:883][539]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.06-06.57.55:936][539]LogFMOD: Default sample rate = 48000
+[2022.03.06-06.57.55:936][539]LogFMOD: System sample rate = 48000
+[2022.03.06-06.57.55:936][539]LogFMOD: Matching system sample rate 48000
+[2022.03.06-06.57.55:955][539]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.06-06.57.55:998][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.06-06.57.55:998][539]PIE: New page: PIE session: Main_Level_Test (7 Mar 2022, 4:57:55 am)
+[2022.03.06-06.57.55:999][539]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.06-06.57.56:000][539]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.06-06.57.56:000][539]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-06.57.56:011][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010163s)
+[2022.03.06-06.57.56:011][539]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.06-06.57.56:012][539]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2022.03.06-06.57.56:012][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.011271s)
+[2022.03.06-06.57.56:030][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.03.06-06.57.56:031][539]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.06-06.57.56:031][539]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.06-06.57.56:031][539]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.06-06.57.56:031][539]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.06-06.57.56:031][539]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.06-06.57.56:031][539]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.06-06.57.56:031][539]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.06-06.57.56:031][539]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.06-06.57.56:031][539]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.06-06.57.56:031][539]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.06-06.57.56:031][539]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.06-06.57.56:031][539]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.06-06.57.56:031][539]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.06-06.57.56:038][539]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.06-06.57.56:038][539]LogAudioMixer: Display: 1: FrontRight
+[2022.03.06-06.57.56:051][539]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.06-06.57.56:051][539]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.06-06.57.56:051][539]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.06-06.57.56:051][539]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.06-06.57.56:052][539]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.06-06.57.56:052][539]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.06-06.57.56:052][539]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.06-06.57.56:053][539]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.06-06.57.56:053][539]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.06-06.57.56:053][539]LogInit: FAudioDevice initialized.
+[2022.03.06-06.57.56:053][539]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main_Level_Test'.
+[2022.03.06-06.57.56:065][539]LogLoad: Game class is 'Main_GM_C'
+[2022.03.06-06.57.56:070][539]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.06-17.57.56
+[2022.03.06-06.57.56:070][539]LogWorld: Bringing up level for play took: 0.004277
+[2022.03.06-06.57.56:071][539]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.03.06-06.57.56:077][539]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.03.06-06.57.56:078][539]PIE: Server logged in
+[2022.03.06-06.57.56:079][539]PIE: Play in editor total start time 0.189 seconds.
+[2022.03.06-06.58.01:651][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-06.58.01:651][972]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-06.58.01:651][972]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-06.58.01:652][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-06.58.01:661][972]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.06-06.58.01:670][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-06.58.01:689][972]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.06-06.58.01:691][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-06.58.01:692][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-06.58.01:694][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-06.58.01:715][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.03.06-06.58.01:743][973]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.03.06-06.58.04:777][266]LogEditorViewport: Clicking on Actor (LMB): Paper_Ball_Set_Force_C (Paper_Ball_Set_Force)
+[2022.03.06-06.58.30:616][  3]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.06-06.58.30:665][  3]LogFMOD: Default sample rate = 48000
+[2022.03.06-06.58.30:665][  3]LogFMOD: System sample rate = 48000
+[2022.03.06-06.58.30:665][  3]LogFMOD: Matching system sample rate 48000
+[2022.03.06-06.58.30:683][  3]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.06-06.58.30:728][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.06-06.58.30:728][  3]PIE: New page: PIE session: Main_Level_Test (7 Mar 2022, 4:58:30 am)
+[2022.03.06-06.58.30:728][  3]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-06.58.30:741][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012642s)
+[2022.03.06-06.58.30:741][  3]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.06-06.58.30:742][  3]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2022.03.06-06.58.30:742][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.013833s)
+[2022.03.06-06.58.30:770][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.03.06-06.58.30:772][  3]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.06-06.58.30:772][  3]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.06-06.58.30:772][  3]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.06-06.58.30:772][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.06-06.58.30:772][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.06-06.58.30:772][  3]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.06-06.58.30:772][  3]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.06-06.58.30:772][  3]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.06-06.58.30:772][  3]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.06-06.58.30:773][  3]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.06-06.58.30:773][  3]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.06-06.58.30:773][  3]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.06-06.58.30:773][  3]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.06-06.58.30:780][  3]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.06-06.58.30:780][  3]LogAudioMixer: Display: 1: FrontRight
+[2022.03.06-06.58.30:792][  3]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.06-06.58.30:793][  3]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.06-06.58.30:793][  3]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.06-06.58.30:793][  3]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.06-06.58.30:793][  3]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.06-06.58.30:793][  3]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.06-06.58.30:793][  3]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.06-06.58.30:794][  3]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.06-06.58.30:794][  3]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.06-06.58.30:794][  3]LogInit: FAudioDevice initialized.
+[2022.03.06-06.58.30:794][  3]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main_Level_Test'.
+[2022.03.06-06.58.30:801][  3]LogLoad: Game class is 'Main_GM_C'
+[2022.03.06-06.58.30:805][  3]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.06-17.58.30
+[2022.03.06-06.58.30:806][  3]LogWorld: Bringing up level for play took: 0.004352
+[2022.03.06-06.58.30:806][  3]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.03.06-06.58.30:808][  3]PIE: Server logged in
+[2022.03.06-06.58.30:809][  3]PIE: Play in editor total start time 0.186 seconds.
+[2022.03.06-06.58.31:248][ 45]LogScript: Warning: Accessed None trying to read property Confetti
+	Completion_point_BP_C /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.Completion_point_BP2_2
+	Function /Game/Michaels_Work/Blueprints/Completion_point_BP.Completion_point_BP_C:ExecuteUbergraph_Completion_point_BP:0182
+[2022.03.06-06.58.31:248][ 45]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Confetti". Blueprint:  Completion_point_BP Function:  Execute Ubergraph Completion Point BP Graph:  EventGraph Node:  Spawn Emitter at Location
+[2022.03.06-06.58.35:231][522]LogNet: Browse: /Game/Lachlans_Work/Maps/Main_Level_Test
+[2022.03.06-06.58.35:231][522]LogLoad: LoadMap: /Game/Lachlans_Work/Maps/Main_Level_Test
+[2022.03.06-06.58.35:231][522]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-06.58.35:232][522]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-06.58.35:233][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-06.58.35:286][522]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.06-06.58.35:290][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.03.06-06.58.35:292][522]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-06.58.35:302][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009907s)
+[2022.03.06-06.58.35:302][522]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.06-06.58.35:302][522]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2022.03.06-06.58.35:302][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.010885s)
+[2022.03.06-06.58.35:302][522]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main_Level_Test'.
+[2022.03.06-06.58.35:303][522]LogLoad: Game class is 'Main_GM_C'
+[2022.03.06-06.58.35:305][522]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.06-17.58.35
+[2022.03.06-06.58.35:306][522]LogWorld: Bringing up level for play took: 0.002225
+[2022.03.06-06.58.35:307][522]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.06-06.58.35:307][522]LogLoad: Took 0.075707 seconds to LoadMap(/Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test)
+[2022.03.06-06.58.35:611][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-06.58.35:611][537]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.06-06.58.35:611][537]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-06.58.35:612][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-06.58.35:617][537]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.06-06.58.35:628][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-06.58.35:649][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-06.58.35:649][537]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-06.58.35:650][537]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-06.58.35:656][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.03.06-06.58.35:744][538]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.03.06-06.58.39:809][900]LogSlate: Window 'Message Log' being destroyed
+[2022.03.06-06.58.39:820][900]LogSlate: Window 'Message Log' being destroyed
+[2022.03.06-06.59.25:479][143]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-06.59.25:479][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-06.59.26:738][264]LogCascade: Quitting Cascade. FXSystem=0x000001BD9FCE6860
+[2022.03.06-06.59.26:747][264]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-06.59.26:747][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-07.00.37:973][168]LogEditorViewport: Clicking on Actor (LMB): Confetti_C (Confetti)
+[2022.03.06-07.00.38:968][274]Cmd: DELETE
+[2022.03.06-07.00.38:968][274]Cmd: ACTOR DELETE
+[2022.03.06-07.00.38:972][274]LogEditorActor: Deleted Actor: Confetti_C
+[2022.03.06-07.00.39:001][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.03.06-07.00.39:005][274]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2022.03.06-07.01.16:786][685]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Completion_point_BP9F6B0A654AE292FBCA80D2B253566674.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Completion_point_BP.uasset'
+[2022.03.06-07.01.16:821][685]AssetCheck: New page: Asset Save: Completion_point_BP
+[2022.03.06-07.01.16:821][685]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Completion_point_BP.Completion_point_BP
+[2022.03.06-07.01.18:119][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.03.06-07.01.19:115][813]LogSlate: Window 'Save Content' being destroyed
+[2022.03.06-07.01.19:138][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Michaels_Work/Blueprints/Confetti" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Confetti.uasset" SILENT=true
+[2022.03.06-07.01.19:161][813]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Confetti486DFF704098D0A17D52978BA0D2D44C.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Confetti.uasset'
+[2022.03.06-07.01.19:184][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.03.06-07.01.19:246][813]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test47FC8C5F4EE86E86B720CAAC4D763D3E.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Lachlans_Work/Maps/Main_Level_Test.umap'
+[2022.03.06-07.01.19:259][813]LogFileHelpers: Saving map 'Main_Level_Test' took 0.096
+[2022.03.06-07.01.19:281][813]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.06-07.01.19:281][813]LogContentValidation: Display: Validating World /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test
+[2022.03.06-07.01.19:281][813]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Confetti.Confetti
