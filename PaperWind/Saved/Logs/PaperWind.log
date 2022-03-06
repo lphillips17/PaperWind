@@ -5917,3 +5917,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.06-04.08.32:275][400]LogFileHelpers: Saving map 'Main_Level_Test' took 0.081
 [2022.03.06-04.08.32:305][400]AssetCheck: New page: Asset Save: Main_Level_Test
 [2022.03.06-04.08.32:305][400]LogContentValidation: Display: Validating World /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test
+[2022.03.06-04.09.56:437][394]LogStaticMesh: Building static mesh SM_Fan_01...
+[2022.03.06-04.09.56:708][394]LogStaticMesh: Built static mesh [0.27s] /Game/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Fan_01.SM_Fan_01
+[2022.03.06-04.09.56:897][394]LogActorFactory: Actor Factory created SM_Fan_01
+[2022.03.06-04.09.57:647][463]LogActorFactory: Actor Factory created SM_Fan_01
+[2022.03.06-04.10.24:193][324]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test:PersistentLevel.SM_Fan_01_3.StaticMeshComponent0)
+[2022.03.06-04.10.24:232][328]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test:PersistentLevel.SM_Fan_01_3.StaticMeshComponent0)
+[2022.03.06-04.10.24:504][353]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test:PersistentLevel.SM_Fan_01_3.StaticMeshComponent0)
+[2022.03.06-04.10.24:594][361]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test:PersistentLevel.SM_Fan_01_3.StaticMeshComponent0)
+[2022.03.06-04.10.26:177][523]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test:PersistentLevel.SM_Fan_01_3.StaticMeshComponent0)
+[2022.03.06-04.10.26:177][523]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test:PersistentLevel.SM_Fan_01_3.StaticMeshComponent0)
+[2022.03.06-04.10.26:663][576]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test:PersistentLevel.SM_Fan_01_3.StaticMeshComponent0)
+[2022.03.06-04.10.26:664][576]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test:PersistentLevel.SM_Fan_01_3.StaticMeshComponent0)
+[2022.03.06-04.12.46:969][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.03.06-04.12.48:067][ 66]LogSlate: Window 'Save Content' being destroyed
+[2022.03.06-04.12.48:112][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.03.06-04.12.48:164][ 66]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test35591828467D74B518B7A195CF98C922.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Lachlans_Work/Maps/Main_Level_Test.umap'
+[2022.03.06-04.12.48:175][ 66]LogFileHelpers: Saving map 'Main_Level_Test' took 0.081
+[2022.03.06-04.12.48:191][ 66]AssetCheck: New page: Asset Save: Main_Level_Test
+[2022.03.06-04.12.48:191][ 66]LogContentValidation: Display: Validating World /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test
