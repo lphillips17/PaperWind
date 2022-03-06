@@ -3973,3 +3973,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.06-06.16.49:887][110]LogFileHelpers: Saving map 'Main_Level_Test' took 0.099
 [2022.03.06-06.16.49:898][110]AssetCheck: New page: Asset Save: Main_Level_Test
 [2022.03.06-06.16.49:898][110]LogContentValidation: Display: Validating World /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test
+[2022.03.06-06.19.51:223][958]LogContentBrowser: Deferred new asset file creation: NewParticleSystem
+[2022.03.06-06.19.51:237][958]LogContentBrowser: Creating deferred item: NewParticleSystem
+[2022.03.06-06.20.00:536][829]LogContentBrowser: Attempting asset rename: NewParticleSystem -> Confetti
+[2022.03.06-06.20.00:537][829]LogContentBrowser: End creating deferred item NewParticleSystem
+[2022.03.06-06.20.14:033][943]LogContentBrowser: Attempting asset rename: Confetti -> P_Confetti
+[2022.03.06-06.20.14:081][943]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/P_Confetti0EDB1D7940FFF782FF7E9490B459D8DA.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Materials/Emitters/P_Confetti.uasset'
+[2022.03.06-06.20.14:266][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.03.06-06.20.14:306][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.03.06-06.20.14:333][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.03.06-06.20.14:367][943]AssetCheck: New page: Asset Save: P_Confetti
+[2022.03.06-06.20.14:367][943]LogContentValidation: Display: Validating ParticleSystem /Game/Michaels_Work/Materials/Emitters/P_Confetti.P_Confetti
+[2022.03.06-06.20.16:896][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.03.06-06.20.16:958][166]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test8ED77006473E658F9D5663B6B808EFC1.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Lachlans_Work/Maps/Main_Level_Test.umap'
+[2022.03.06-06.20.17:040][166]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test_BuiltDataBB424A19498CF21B91ED19AEB0A5F71F.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Lachlans_Work/Maps/Main_Level_Test_BuiltData.uasset'
+[2022.03.06-06.20.17:058][166]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.06-06.20.17:058][166]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Lachlans_Work/Maps/Main_Level_Test_BuiltData.Main_Level_Test_BuiltData
+[2022.03.06-06.20.17:058][166]LogContentValidation: Display: Validating World /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test
