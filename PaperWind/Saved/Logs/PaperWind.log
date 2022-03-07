@@ -3114,3 +3114,1093 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.07-08.09.43:999][416]LogSlate: Window 'Message Log' being destroyed
 [2022.03.07-08.13.05:063][156]BlueprintLog: New page: Compile Paper_Ball_Set_Force
 [2022.03.07-08.13.05:107][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.03.07-08.13.42:462][109]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.07-08.13.42:505][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.03.07-08.13.44:178][220]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.07-08.13.44:229][220]LogFMOD: Default sample rate = 48000
+[2022.03.07-08.13.44:229][220]LogFMOD: System sample rate = 48000
+[2022.03.07-08.13.44:229][220]LogFMOD: Matching system sample rate 48000
+[2022.03.07-08.13.44:247][220]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.07-08.13.44:292][220]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.07-08.13.44:292][220]PIE: New page: PIE session: Main_Level_Test (8 Mar 2022, 6:13:44 am)
+[2022.03.07-08.13.44:292][220]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.13.44:304][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011875s)
+[2022.03.07-08.13.44:305][220]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.07-08.13.44:305][220]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2022.03.07-08.13.44:305][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.013012s)
+[2022.03.07-08.13.44:323][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.03.07-08.13.44:323][220]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.03.07-08.13.44:323][220]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.07-08.13.44:323][220]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.07-08.13.44:323][220]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.07-08.13.44:323][220]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.07-08.13.44:323][220]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.07-08.13.44:323][220]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.07-08.13.44:323][220]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.07-08.13.44:323][220]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.07-08.13.44:324][220]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.07-08.13.44:324][220]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.07-08.13.44:324][220]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.07-08.13.44:324][220]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.07-08.13.44:331][220]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.07-08.13.44:331][220]LogAudioMixer: Display: 1: FrontRight
+[2022.03.07-08.13.44:343][220]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.07-08.13.44:343][220]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.07-08.13.44:343][220]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.07-08.13.44:343][220]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.07-08.13.44:343][220]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.07-08.13.44:343][220]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.07-08.13.44:343][220]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.07-08.13.44:344][220]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.07-08.13.44:344][220]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.07-08.13.44:344][220]LogInit: FAudioDevice initialized.
+[2022.03.07-08.13.44:344][220]LogAudio: Display: Audio Device (ID: 16) registered with world 'Main_Level_Test'.
+[2022.03.07-08.13.44:349][220]LogLoad: Game class is 'Main_GM_C'
+[2022.03.07-08.13.44:355][220]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.07-19.13.44
+[2022.03.07-08.13.44:356][220]LogWorld: Bringing up level for play took: 0.005912
+[2022.03.07-08.13.44:356][220]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.03.07-08.13.44:358][220]PIE: Server logged in
+[2022.03.07-08.13.44:359][220]PIE: Play in editor total start time 0.173 seconds.
+[2022.03.07-08.13.48:836][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.13.48:836][369]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.13.48:836][369]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.07-08.13.48:837][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.13.48:847][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.07-08.13.48:850][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.13.48:868][369]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.07-08.13.48:868][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.13.48:869][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.13.48:871][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.13.48:877][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.03.07-08.13.48:911][370]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.03.07-08.14.40:309][698]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.07-08.14.40:351][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.03.07-08.14.41:409][806]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Paper_Ball_Set_ForceF6F1B5EF41CC34F1C9EA02B10083F606.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/Paper_Ball_Set_Force.uasset'
+[2022.03.07-08.14.41:428][806]AssetCheck: New page: Asset Save: Paper_Ball_Set_Force
+[2022.03.07-08.14.41:428][806]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force.Paper_Ball_Set_Force
+[2022.03.07-08.14.42:421][908]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.07-08.14.42:469][908]LogFMOD: Default sample rate = 48000
+[2022.03.07-08.14.42:469][908]LogFMOD: System sample rate = 48000
+[2022.03.07-08.14.42:469][908]LogFMOD: Matching system sample rate 48000
+[2022.03.07-08.14.42:486][908]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.07-08.14.42:532][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.07-08.14.42:532][908]PIE: New page: PIE session: Main_Level_Test (8 Mar 2022, 6:14:42 am)
+[2022.03.07-08.14.42:532][908]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.14.42:543][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011612s)
+[2022.03.07-08.14.42:544][908]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.07-08.14.42:544][908]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2022.03.07-08.14.42:544][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.012617s)
+[2022.03.07-08.14.42:564][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.03.07-08.14.42:564][908]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.03.07-08.14.42:564][908]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.07-08.14.42:564][908]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.07-08.14.42:564][908]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.07-08.14.42:564][908]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.07-08.14.42:564][908]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.07-08.14.42:564][908]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.07-08.14.42:564][908]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.07-08.14.42:564][908]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.07-08.14.42:565][908]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.07-08.14.42:565][908]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.07-08.14.42:565][908]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.07-08.14.42:565][908]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.07-08.14.42:572][908]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.07-08.14.42:572][908]LogAudioMixer: Display: 1: FrontRight
+[2022.03.07-08.14.42:584][908]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.07-08.14.42:584][908]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.07-08.14.42:584][908]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.07-08.14.42:584][908]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.07-08.14.42:584][908]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.07-08.14.42:584][908]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.07-08.14.42:584][908]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.07-08.14.42:585][908]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.07-08.14.42:585][908]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.07-08.14.42:585][908]LogInit: FAudioDevice initialized.
+[2022.03.07-08.14.42:585][908]LogAudio: Display: Audio Device (ID: 17) registered with world 'Main_Level_Test'.
+[2022.03.07-08.14.42:591][908]LogLoad: Game class is 'Main_GM_C'
+[2022.03.07-08.14.42:597][908]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.07-19.14.42
+[2022.03.07-08.14.42:598][908]LogWorld: Bringing up level for play took: 0.005846
+[2022.03.07-08.14.42:598][908]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.03.07-08.14.42:600][908]PIE: Server logged in
+[2022.03.07-08.14.42:601][908]PIE: Play in editor total start time 0.174 seconds.
+[2022.03.07-08.14.42:602][908]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_0.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_0.
+[2022.03.07-08.14.42:648][909]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_1.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_1.
+[2022.03.07-08.14.42:659][910]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_2.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_2.
+[2022.03.07-08.14.42:696][911]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_3.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_3.
+[2022.03.07-08.14.42:710][912]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_4.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_4.
+[2022.03.07-08.14.42:723][913]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_5.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_5.
+[2022.03.07-08.14.42:751][914]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_6.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_6.
+[2022.03.07-08.14.42:765][915]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_7.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_7.
+[2022.03.07-08.14.42:779][916]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_8.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_8.
+[2022.03.07-08.14.42:795][917]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_9.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_9.
+[2022.03.07-08.14.42:819][918]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_10.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_10.
+[2022.03.07-08.14.42:833][919]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_11.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_11.
+[2022.03.07-08.14.42:845][920]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_12.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_12.
+[2022.03.07-08.14.42:861][921]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_13.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_13.
+[2022.03.07-08.14.42:874][922]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_14.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_14.
+[2022.03.07-08.14.42:888][923]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_15.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_15.
+[2022.03.07-08.14.42:905][924]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_16.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_16.
+[2022.03.07-08.14.42:935][925]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_17.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_17.
+[2022.03.07-08.14.42:952][926]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_18.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_18.
+[2022.03.07-08.14.42:967][927]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_19.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_19.
+[2022.03.07-08.14.42:984][928]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_20.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_20.
+[2022.03.07-08.14.42:999][929]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_21.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_21.
+[2022.03.07-08.14.43:015][930]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_22.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_22.
+[2022.03.07-08.14.43:029][931]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_23.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_23.
+[2022.03.07-08.14.43:044][932]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_24.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_24.
+[2022.03.07-08.14.43:058][933]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_25.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_25.
+[2022.03.07-08.14.43:072][934]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_26.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_26.
+[2022.03.07-08.14.43:086][935]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_27.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_27.
+[2022.03.07-08.14.43:102][936]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_28.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_28.
+[2022.03.07-08.14.43:119][937]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_29.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_29.
+[2022.03.07-08.14.43:133][938]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_30.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_30.
+[2022.03.07-08.14.43:148][939]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_31.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_31.
+[2022.03.07-08.14.43:164][940]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_32.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_32.
+[2022.03.07-08.14.43:185][941]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_33.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_33.
+[2022.03.07-08.14.43:203][942]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_34.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_34.
+[2022.03.07-08.14.43:219][943]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_35.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_35.
+[2022.03.07-08.14.43:235][944]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_36.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_36.
+[2022.03.07-08.14.43:251][945]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_37.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_37.
+[2022.03.07-08.14.43:267][946]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_38.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_38.
+[2022.03.07-08.14.43:283][947]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_39.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_39.
+[2022.03.07-08.14.43:300][948]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_40.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_40.
+[2022.03.07-08.14.43:316][949]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_41.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_41.
+[2022.03.07-08.14.43:333][950]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_42.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_42.
+[2022.03.07-08.14.43:353][951]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_43.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_43.
+[2022.03.07-08.14.43:371][952]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_44.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_44.
+[2022.03.07-08.14.43:389][953]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_45.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_45.
+[2022.03.07-08.14.43:406][954]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_46.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_46.
+[2022.03.07-08.14.43:431][955]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_47.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_47.
+[2022.03.07-08.14.43:447][956]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_48.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_48.
+[2022.03.07-08.14.43:465][957]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_49.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_49.
+[2022.03.07-08.14.43:487][958]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_50.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_50.
+[2022.03.07-08.14.43:505][959]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_51.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_51.
+[2022.03.07-08.14.43:523][960]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_52.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_52.
+[2022.03.07-08.14.43:545][961]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_53.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_53.
+[2022.03.07-08.14.43:563][962]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_54.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_54.
+[2022.03.07-08.14.43:591][963]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_55.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_55.
+[2022.03.07-08.14.43:614][964]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_56.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_56.
+[2022.03.07-08.14.43:633][965]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_57.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_57.
+[2022.03.07-08.14.43:664][966]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_58.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_58.
+[2022.03.07-08.14.43:685][967]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_59.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_59.
+[2022.03.07-08.14.43:706][968]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_60.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_60.
+[2022.03.07-08.14.43:728][969]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_61.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_61.
+[2022.03.07-08.14.43:748][970]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_62.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_62.
+[2022.03.07-08.14.43:768][971]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_63.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_63.
+[2022.03.07-08.14.43:797][972]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_64.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_64.
+[2022.03.07-08.14.43:830][973]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_65.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_65.
+[2022.03.07-08.14.43:859][974]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_66.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_66.
+[2022.03.07-08.14.43:881][975]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_67.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_67.
+[2022.03.07-08.14.43:905][976]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_68.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_68.
+[2022.03.07-08.14.43:926][977]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_69.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_69.
+[2022.03.07-08.14.43:947][978]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_70.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_70.
+[2022.03.07-08.14.43:971][979]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_71.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_71.
+[2022.03.07-08.14.43:996][980]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_72.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_72.
+[2022.03.07-08.14.44:021][981]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_73.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_73.
+[2022.03.07-08.14.44:045][982]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_74.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_74.
+[2022.03.07-08.14.44:067][983]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_75.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_75.
+[2022.03.07-08.14.44:092][984]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_76.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_76.
+[2022.03.07-08.14.44:117][985]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_77.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_77.
+[2022.03.07-08.14.44:144][986]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_78.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_78.
+[2022.03.07-08.14.44:170][987]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_79.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_79.
+[2022.03.07-08.14.44:194][988]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_80.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_80.
+[2022.03.07-08.14.44:223][989]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_81.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_81.
+[2022.03.07-08.14.44:249][990]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_82.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_82.
+[2022.03.07-08.14.44:275][991]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_83.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_83.
+[2022.03.07-08.14.44:299][992]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_84.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_84.
+[2022.03.07-08.14.44:324][993]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_85.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_85.
+[2022.03.07-08.14.44:354][994]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_86.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_86.
+[2022.03.07-08.14.44:382][995]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_87.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_87.
+[2022.03.07-08.14.44:415][996]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_88.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_88.
+[2022.03.07-08.14.44:440][997]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_89.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_89.
+[2022.03.07-08.14.44:467][998]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_90.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_90.
+[2022.03.07-08.14.44:493][999]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_91.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_91.
+[2022.03.07-08.14.44:521][  0]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_92.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_92.
+[2022.03.07-08.14.44:549][  1]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_93.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_93.
+[2022.03.07-08.14.44:579][  2]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_94.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_94.
+[2022.03.07-08.14.44:606][  3]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_95.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_95.
+[2022.03.07-08.14.44:632][  4]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_96.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_96.
+[2022.03.07-08.14.44:662][  5]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_97.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_97.
+[2022.03.07-08.14.44:689][  6]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_98.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_98.
+[2022.03.07-08.14.44:721][  7]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_99.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_99.
+[2022.03.07-08.14.44:748][  8]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_100.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_100.
+[2022.03.07-08.14.44:778][  9]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_101.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_101.
+[2022.03.07-08.14.44:808][ 10]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_102.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_102.
+[2022.03.07-08.14.44:838][ 11]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_103.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_103.
+[2022.03.07-08.14.44:866][ 12]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_104.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_104.
+[2022.03.07-08.14.44:895][ 13]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_105.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_105.
+[2022.03.07-08.14.44:921][ 14]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_106.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_106.
+[2022.03.07-08.14.44:951][ 15]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_107.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_107.
+[2022.03.07-08.14.44:978][ 16]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_108.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_108.
+[2022.03.07-08.14.45:008][ 17]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_109.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_109.
+[2022.03.07-08.14.45:036][ 18]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_110.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_110.
+[2022.03.07-08.14.45:066][ 19]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_111.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_111.
+[2022.03.07-08.14.45:095][ 20]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_112.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_112.
+[2022.03.07-08.14.45:125][ 21]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_113.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_113.
+[2022.03.07-08.14.45:153][ 22]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_114.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_114.
+[2022.03.07-08.14.45:185][ 23]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_115.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_115.
+[2022.03.07-08.14.45:221][ 24]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_116.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_116.
+[2022.03.07-08.14.45:251][ 25]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_117.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_117.
+[2022.03.07-08.14.45:285][ 26]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_118.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_118.
+[2022.03.07-08.14.45:325][ 27]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_119.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_119.
+[2022.03.07-08.14.45:356][ 28]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_120.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_120.
+[2022.03.07-08.14.45:391][ 29]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_121.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_121.
+[2022.03.07-08.14.45:423][ 30]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_122.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_122.
+[2022.03.07-08.14.45:455][ 31]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_123.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_123.
+[2022.03.07-08.14.45:518][ 32]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_124.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_124.
+[2022.03.07-08.14.45:545][ 33]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_125.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_125.
+[2022.03.07-08.14.45:574][ 34]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_126.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_126.
+[2022.03.07-08.14.45:605][ 35]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_127.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_127.
+[2022.03.07-08.14.45:648][ 36]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_128.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_128.
+[2022.03.07-08.14.45:716][ 37]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_129.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_129.
+[2022.03.07-08.14.45:746][ 38]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_130.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_130.
+[2022.03.07-08.14.45:778][ 39]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_131.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_131.
+[2022.03.07-08.14.45:812][ 40]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_132.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_132.
+[2022.03.07-08.14.45:850][ 41]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_133.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_133.
+[2022.03.07-08.14.45:896][ 42]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_134.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_134.
+[2022.03.07-08.14.45:929][ 43]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_135.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_135.
+[2022.03.07-08.14.45:965][ 44]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_136.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_136.
+[2022.03.07-08.14.46:000][ 45]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_137.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_137.
+[2022.03.07-08.14.46:035][ 46]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_138.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_138.
+[2022.03.07-08.14.46:071][ 47]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_139.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_139.
+[2022.03.07-08.14.46:128][ 48]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_140.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_140.
+[2022.03.07-08.14.46:167][ 49]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_141.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_141.
+[2022.03.07-08.14.46:212][ 50]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_142.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_142.
+[2022.03.07-08.14.46:251][ 51]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_143.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_143.
+[2022.03.07-08.14.46:289][ 52]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_144.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_144.
+[2022.03.07-08.14.46:325][ 53]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_145.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_145.
+[2022.03.07-08.14.46:361][ 54]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_146.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_146.
+[2022.03.07-08.14.46:402][ 55]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_147.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_147.
+[2022.03.07-08.14.46:453][ 56]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_148.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_148.
+[2022.03.07-08.14.46:499][ 57]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_149.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_149.
+[2022.03.07-08.14.46:538][ 58]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_150.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_150.
+[2022.03.07-08.14.46:588][ 59]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_151.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_151.
+[2022.03.07-08.14.46:628][ 60]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_152.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_152.
+[2022.03.07-08.14.46:668][ 61]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_153.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_153.
+[2022.03.07-08.14.46:707][ 62]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_154.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_154.
+[2022.03.07-08.14.46:761][ 63]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_155.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_155.
+[2022.03.07-08.14.46:801][ 64]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_156.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_156.
+[2022.03.07-08.14.46:845][ 65]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_157.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_157.
+[2022.03.07-08.14.46:894][ 66]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_158.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_158.
+[2022.03.07-08.14.46:937][ 67]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_159.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_159.
+[2022.03.07-08.14.46:978][ 68]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_160.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_160.
+[2022.03.07-08.14.47:020][ 69]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_161.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_161.
+[2022.03.07-08.14.47:068][ 70]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_162.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_162.
+[2022.03.07-08.14.47:115][ 71]LogActorComponent: Error: May not destroy component CableComponent /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_163.CableComponent0 owned by CableActor /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test:PersistentLevel.CableActor_163.
+[2022.03.07-08.14.47:245][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.14.47:245][ 71]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.14.47:246][ 71]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.07-08.14.47:247][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.14.47:257][ 71]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.07-08.14.47:260][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.14.47:277][ 71]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.07-08.14.47:277][ 71]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.14.47:278][ 71]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.14.47:281][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.14.47:286][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.03.07-08.14.47:316][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.03.07-08.15.54:196][933]LogSlate: Window 'Message Log' being destroyed
+[2022.03.07-08.15.54:201][933]LogSlate: Window 'Message Log' being destroyed
+[2022.03.07-08.15.56:858][244]LogSlate: Window 'Message Log' being destroyed
+[2022.03.07-08.15.56:865][244]LogSlate: Window 'Message Log' being destroyed
+[2022.03.07-08.16.24:567][377]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.07-08.16.24:613][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.03.07-08.19.04:748][ 15]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.07-08.19.04:791][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.03.07-08.19.11:425][733]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.07-08.19.11:473][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.03.07-08.19.27:389][558]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.07-08.19.27:433][558]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.03.07-08.19.32:951][ 86]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.07-08.19.32:971][ 86]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.07-08.22.27:094][363]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.07-08.22.27:103][363]LogBlueprint: Error: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Paper_Ball_Set_Force.uasset: [Compiler] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2022.03.07-08.22.27:103][363]LogBlueprint: Error: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Paper_Ball_Set_Force.uasset: [Compiler] This blueprint (self) is not a CableComponent, therefore ' Target ' must have a connection.
+[2022.03.07-08.22.27:104][363]LogBlueprint: Error: [AssetLog] E:\Program Files (x86)\PaperWind\PaperWind\Content\Michaels_Work\Blueprints\Paper_Ball_Set_Force.uasset: [Compiler] Variable node  Set EndLocation  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.03.07-08.22.27:136][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.03.07-08.22.44:038][122]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.07-08.22.44:081][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.03.07-08.22.45:348][218]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.07-08.22.45:389][218]LogFMOD: Default sample rate = 48000
+[2022.03.07-08.22.45:389][218]LogFMOD: System sample rate = 48000
+[2022.03.07-08.22.45:389][218]LogFMOD: Matching system sample rate 48000
+[2022.03.07-08.22.45:428][218]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.07-08.22.45:471][218]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.07-08.22.45:471][218]PIE: New page: PIE session: Main_Level_Test (8 Mar 2022, 6:22:45 am)
+[2022.03.07-08.22.45:471][218]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.22.45:482][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011558s)
+[2022.03.07-08.22.45:483][218]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.07-08.22.45:483][218]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2022.03.07-08.22.45:484][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.012616s)
+[2022.03.07-08.22.45:503][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.03.07-08.22.45:503][218]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.03.07-08.22.45:503][218]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.07-08.22.45:503][218]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.07-08.22.45:503][218]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.07-08.22.45:503][218]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.07-08.22.45:504][218]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.07-08.22.45:504][218]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.07-08.22.45:504][218]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.07-08.22.45:504][218]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.07-08.22.45:504][218]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.07-08.22.45:504][218]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.07-08.22.45:504][218]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.07-08.22.45:504][218]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.07-08.22.45:511][218]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.07-08.22.45:511][218]LogAudioMixer: Display: 1: FrontRight
+[2022.03.07-08.22.45:523][218]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.07-08.22.45:523][218]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.07-08.22.45:523][218]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.07-08.22.45:523][218]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.07-08.22.45:523][218]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.07-08.22.45:524][218]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.07-08.22.45:524][218]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.07-08.22.45:524][218]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.07-08.22.45:524][218]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.07-08.22.45:525][218]LogInit: FAudioDevice initialized.
+[2022.03.07-08.22.45:525][218]LogAudio: Display: Audio Device (ID: 18) registered with world 'Main_Level_Test'.
+[2022.03.07-08.22.45:533][218]LogLoad: Game class is 'Main_GM_C'
+[2022.03.07-08.22.45:538][218]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.07-19.22.45
+[2022.03.07-08.22.45:538][218]LogWorld: Bringing up level for play took: 0.005040
+[2022.03.07-08.22.45:539][218]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.03.07-08.22.45:541][218]PIE: Server logged in
+[2022.03.07-08.22.45:542][218]PIE: Play in editor total start time 0.187 seconds.
+[2022.03.07-08.23.04:046][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.23.04:046][ 55]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.23.04:046][ 55]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.07-08.23.04:047][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.23.04:055][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.07-08.23.04:058][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.23.04:075][ 55]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.07-08.23.04:075][ 55]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.23.04:076][ 55]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.23.04:078][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.23.04:082][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.03.07-08.23.04:102][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.03.07-08.24.04:240][859]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.07-08.24.04:308][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.03.07-08.24.31:083][771]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.07-08.24.31:125][771]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.03.07-08.24.37:787][384]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.07-08.24.37:840][384]LogFMOD: Default sample rate = 48000
+[2022.03.07-08.24.37:840][384]LogFMOD: System sample rate = 48000
+[2022.03.07-08.24.37:840][384]LogFMOD: Matching system sample rate 48000
+[2022.03.07-08.24.37:859][384]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.07-08.24.37:902][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.07-08.24.37:902][384]PIE: New page: PIE session: Main_Level_Test (8 Mar 2022, 6:24:37 am)
+[2022.03.07-08.24.37:930][384]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.24.37:942][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011490s)
+[2022.03.07-08.24.37:943][384]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.07-08.24.37:943][384]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2022.03.07-08.24.37:943][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.012604s)
+[2022.03.07-08.24.37:962][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.03.07-08.24.37:962][384]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.03.07-08.24.37:962][384]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.07-08.24.37:962][384]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.07-08.24.37:962][384]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.07-08.24.37:962][384]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.07-08.24.37:962][384]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.07-08.24.37:962][384]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.07-08.24.37:962][384]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.07-08.24.37:963][384]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.07-08.24.37:963][384]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.07-08.24.37:963][384]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.07-08.24.37:963][384]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.07-08.24.37:963][384]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.07-08.24.37:970][384]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.07-08.24.37:970][384]LogAudioMixer: Display: 1: FrontRight
+[2022.03.07-08.24.37:982][384]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.07-08.24.37:982][384]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.07-08.24.37:982][384]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.07-08.24.37:982][384]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.07-08.24.37:982][384]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.07-08.24.37:982][384]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.07-08.24.37:982][384]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.07-08.24.37:983][384]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.07-08.24.37:983][384]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.07-08.24.37:983][384]LogInit: FAudioDevice initialized.
+[2022.03.07-08.24.37:983][384]LogAudio: Display: Audio Device (ID: 19) registered with world 'Main_Level_Test'.
+[2022.03.07-08.24.37:993][384]LogLoad: Game class is 'Main_GM_C'
+[2022.03.07-08.24.37:999][384]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.07-19.24.37
+[2022.03.07-08.24.37:999][384]LogWorld: Bringing up level for play took: 0.005238
+[2022.03.07-08.24.37:999][384]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.03.07-08.24.38:002][384]PIE: Server logged in
+[2022.03.07-08.24.38:003][384]PIE: Play in editor total start time 0.208 seconds.
+[2022.03.07-08.24.45:916][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.24.45:916][150]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.24.45:916][150]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.07-08.24.45:917][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.24.45:926][150]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.07-08.24.45:929][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.24.45:946][150]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.07-08.24.45:946][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.24.45:947][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.24.45:950][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.24.45:954][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.03.07-08.24.45:975][151]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.03.07-08.25.17:438][729]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.07-08.25.17:481][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.03.07-08.25.19:877][917]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.07-08.25.19:919][917]LogFMOD: Default sample rate = 48000
+[2022.03.07-08.25.19:919][917]LogFMOD: System sample rate = 48000
+[2022.03.07-08.25.19:919][917]LogFMOD: Matching system sample rate 48000
+[2022.03.07-08.25.19:937][917]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.07-08.25.19:982][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.07-08.25.19:982][917]PIE: New page: PIE session: Main_Level_Test (8 Mar 2022, 6:25:19 am)
+[2022.03.07-08.25.19:982][917]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.25.19:994][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011688s)
+[2022.03.07-08.25.19:994][917]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.07-08.25.19:995][917]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2022.03.07-08.25.19:995][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.012673s)
+[2022.03.07-08.25.20:013][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.03.07-08.25.20:014][917]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.03.07-08.25.20:014][917]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.07-08.25.20:014][917]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.07-08.25.20:014][917]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.07-08.25.20:014][917]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.07-08.25.20:014][917]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.07-08.25.20:014][917]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.07-08.25.20:014][917]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.07-08.25.20:014][917]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.07-08.25.20:014][917]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.07-08.25.20:014][917]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.07-08.25.20:014][917]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.07-08.25.20:014][917]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.07-08.25.20:021][917]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.07-08.25.20:021][917]LogAudioMixer: Display: 1: FrontRight
+[2022.03.07-08.25.20:033][917]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.07-08.25.20:034][917]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.07-08.25.20:034][917]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.07-08.25.20:034][917]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.07-08.25.20:034][917]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.07-08.25.20:034][917]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.07-08.25.20:034][917]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.07-08.25.20:035][917]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.07-08.25.20:035][917]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.07-08.25.20:035][917]LogInit: FAudioDevice initialized.
+[2022.03.07-08.25.20:035][917]LogAudio: Display: Audio Device (ID: 20) registered with world 'Main_Level_Test'.
+[2022.03.07-08.25.20:040][917]LogLoad: Game class is 'Main_GM_C'
+[2022.03.07-08.25.20:046][917]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.07-19.25.20
+[2022.03.07-08.25.20:046][917]LogWorld: Bringing up level for play took: 0.004935
+[2022.03.07-08.25.20:046][917]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.03.07-08.25.20:048][917]PIE: Server logged in
+[2022.03.07-08.25.20:049][917]PIE: Play in editor total start time 0.164 seconds.
+[2022.03.07-08.25.23:866][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.25.23:866][293]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.25.23:866][293]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.07-08.25.23:867][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.25.23:874][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.07-08.25.23:877][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.25.23:893][293]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.07-08.25.23:894][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.25.23:895][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.25.23:897][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.25.23:901][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.03.07-08.25.23:918][294]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.03.07-08.25.26:421][552]Cmd: TRANSACTION UNDO
+[2022.03.07-08.25.26:422][552]LogEditorTransaction: Undo Create Pin Link
+[2022.03.07-08.25.26:599][561]Cmd: TRANSACTION UNDO
+[2022.03.07-08.25.26:600][561]LogEditorTransaction: Undo Change Number Pin Value
+[2022.03.07-08.25.27:186][595]Cmd: TRANSACTION UNDO
+[2022.03.07-08.25.27:186][595]LogEditorTransaction: Undo Add Node
+[2022.03.07-08.25.28:918][789]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.07-08.25.28:960][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.03.07-08.25.30:077][867]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.07-08.25.30:118][867]LogFMOD: Default sample rate = 48000
+[2022.03.07-08.25.30:118][867]LogFMOD: System sample rate = 48000
+[2022.03.07-08.25.30:118][867]LogFMOD: Matching system sample rate 48000
+[2022.03.07-08.25.30:136][867]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.07-08.25.30:182][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.07-08.25.30:182][867]PIE: New page: PIE session: Main_Level_Test (8 Mar 2022, 6:25:30 am)
+[2022.03.07-08.25.30:230][867]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.25.30:242][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011779s)
+[2022.03.07-08.25.30:242][867]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.07-08.25.30:243][867]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2022.03.07-08.25.30:243][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.012825s)
+[2022.03.07-08.25.30:262][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.03.07-08.25.30:263][867]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.03.07-08.25.30:263][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.07-08.25.30:263][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.07-08.25.30:263][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.07-08.25.30:263][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.07-08.25.30:263][867]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.07-08.25.30:263][867]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.07-08.25.30:263][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.07-08.25.30:263][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.07-08.25.30:263][867]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.07-08.25.30:263][867]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.07-08.25.30:263][867]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.07-08.25.30:263][867]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.07-08.25.30:270][867]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.07-08.25.30:270][867]LogAudioMixer: Display: 1: FrontRight
+[2022.03.07-08.25.30:283][867]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.07-08.25.30:283][867]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.07-08.25.30:283][867]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.07-08.25.30:283][867]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.07-08.25.30:283][867]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.07-08.25.30:283][867]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.07-08.25.30:283][867]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.07-08.25.30:284][867]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.07-08.25.30:284][867]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.07-08.25.30:284][867]LogInit: FAudioDevice initialized.
+[2022.03.07-08.25.30:284][867]LogAudio: Display: Audio Device (ID: 21) registered with world 'Main_Level_Test'.
+[2022.03.07-08.25.30:290][867]LogLoad: Game class is 'Main_GM_C'
+[2022.03.07-08.25.30:296][867]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.07-19.25.30
+[2022.03.07-08.25.30:297][867]LogWorld: Bringing up level for play took: 0.005326
+[2022.03.07-08.25.30:297][867]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.03.07-08.25.30:299][867]PIE: Server logged in
+[2022.03.07-08.25.30:300][867]PIE: Play in editor total start time 0.216 seconds.
+[2022.03.07-08.25.55:815][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.25.55:815][362]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.25.55:815][362]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.07-08.25.55:816][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.25.55:822][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.07-08.25.55:825][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.25.55:843][362]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.07-08.25.55:843][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.25.55:844][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.25.55:847][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.25.55:851][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.03.07-08.25.55:872][363]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.03.07-08.26.49:630][374]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.07-08.26.49:673][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.03.07-08.26.52:133][593]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.07-08.26.52:188][593]LogFMOD: Default sample rate = 48000
+[2022.03.07-08.26.52:188][593]LogFMOD: System sample rate = 48000
+[2022.03.07-08.26.52:188][593]LogFMOD: Matching system sample rate 48000
+[2022.03.07-08.26.52:207][593]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.07-08.26.52:251][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.07-08.26.52:251][593]PIE: New page: PIE session: Main_Level_Test (8 Mar 2022, 6:26:52 am)
+[2022.03.07-08.26.52:251][593]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.26.52:262][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011718s)
+[2022.03.07-08.26.52:263][593]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.07-08.26.52:263][593]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2022.03.07-08.26.52:263][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.012679s)
+[2022.03.07-08.26.52:283][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.03.07-08.26.52:284][593]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.03.07-08.26.52:284][593]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.07-08.26.52:284][593]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.07-08.26.52:284][593]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.07-08.26.52:284][593]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.07-08.26.52:284][593]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.07-08.26.52:284][593]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.07-08.26.52:284][593]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.07-08.26.52:284][593]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.07-08.26.52:284][593]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.07-08.26.52:284][593]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.07-08.26.52:284][593]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.07-08.26.52:284][593]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.07-08.26.52:291][593]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.07-08.26.52:291][593]LogAudioMixer: Display: 1: FrontRight
+[2022.03.07-08.26.52:303][593]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.07-08.26.52:303][593]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.07-08.26.52:303][593]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.07-08.26.52:303][593]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.07-08.26.52:304][593]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.07-08.26.52:304][593]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.07-08.26.52:304][593]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.07-08.26.52:304][593]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.07-08.26.52:305][593]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.07-08.26.52:305][593]LogInit: FAudioDevice initialized.
+[2022.03.07-08.26.52:305][593]LogAudio: Display: Audio Device (ID: 22) registered with world 'Main_Level_Test'.
+[2022.03.07-08.26.52:313][593]LogLoad: Game class is 'Main_GM_C'
+[2022.03.07-08.26.52:319][593]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.07-19.26.52
+[2022.03.07-08.26.52:319][593]LogWorld: Bringing up level for play took: 0.004913
+[2022.03.07-08.26.52:319][593]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.03.07-08.26.52:321][593]PIE: Server logged in
+[2022.03.07-08.26.52:322][593]PIE: Play in editor total start time 0.182 seconds.
+[2022.03.07-08.27.18:085][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.27.18:085][157]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.27.18:085][157]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.07-08.27.18:086][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.27.18:096][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.07-08.27.18:099][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.27.18:116][157]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.07-08.27.18:116][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.27.18:117][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.27.18:119][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.27.18:124][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.03.07-08.27.18:144][158]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.03.07-08.27.40:883][710]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.07-08.27.40:927][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.03.07-08.27.42:338][813]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.07-08.27.42:389][813]LogFMOD: Default sample rate = 48000
+[2022.03.07-08.27.42:389][813]LogFMOD: System sample rate = 48000
+[2022.03.07-08.27.42:389][813]LogFMOD: Matching system sample rate 48000
+[2022.03.07-08.27.42:409][813]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.07-08.27.42:451][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.07-08.27.42:451][813]PIE: New page: PIE session: Main_Level_Test (8 Mar 2022, 6:27:42 am)
+[2022.03.07-08.27.42:480][813]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.27.42:492][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011935s)
+[2022.03.07-08.27.42:493][813]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.07-08.27.42:493][813]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2022.03.07-08.27.42:493][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.013052s)
+[2022.03.07-08.27.42:513][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.03.07-08.27.42:513][813]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.03.07-08.27.42:513][813]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.07-08.27.42:513][813]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.07-08.27.42:513][813]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.07-08.27.42:513][813]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.07-08.27.42:513][813]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.07-08.27.42:513][813]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.07-08.27.42:513][813]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.07-08.27.42:514][813]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.07-08.27.42:514][813]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.07-08.27.42:514][813]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.07-08.27.42:514][813]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.07-08.27.42:514][813]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.07-08.27.42:521][813]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.07-08.27.42:521][813]LogAudioMixer: Display: 1: FrontRight
+[2022.03.07-08.27.42:533][813]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.07-08.27.42:533][813]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.07-08.27.42:533][813]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.07-08.27.42:533][813]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.07-08.27.42:533][813]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.07-08.27.42:533][813]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.07-08.27.42:533][813]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.07-08.27.42:534][813]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.07-08.27.42:534][813]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.07-08.27.42:534][813]LogInit: FAudioDevice initialized.
+[2022.03.07-08.27.42:534][813]LogAudio: Display: Audio Device (ID: 23) registered with world 'Main_Level_Test'.
+[2022.03.07-08.27.42:545][813]LogLoad: Game class is 'Main_GM_C'
+[2022.03.07-08.27.42:552][813]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.07-19.27.42
+[2022.03.07-08.27.42:552][813]LogWorld: Bringing up level for play took: 0.006048
+[2022.03.07-08.27.42:553][813]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.03.07-08.27.42:555][813]PIE: Server logged in
+[2022.03.07-08.27.42:555][813]PIE: Play in editor total start time 0.211 seconds.
+[2022.03.07-08.27.48:497][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.27.48:497][391]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.27.48:497][391]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.07-08.27.48:498][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.27.48:506][391]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.07-08.27.48:509][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.27.48:527][391]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.07-08.27.48:528][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.27.48:529][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.27.48:533][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.27.48:537][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.03.07-08.27.48:571][392]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.03.07-08.28.28:959][469]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.07-08.28.29:002][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.03.07-08.28.31:313][662]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.07-08.28.31:359][662]LogFMOD: Default sample rate = 48000
+[2022.03.07-08.28.31:359][662]LogFMOD: System sample rate = 48000
+[2022.03.07-08.28.31:359][662]LogFMOD: Matching system sample rate 48000
+[2022.03.07-08.28.31:378][662]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.07-08.28.31:422][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.07-08.28.31:422][662]PIE: New page: PIE session: Main_Level_Test (8 Mar 2022, 6:28:31 am)
+[2022.03.07-08.28.31:450][662]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.28.31:462][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011971s)
+[2022.03.07-08.28.31:463][662]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.07-08.28.31:463][662]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2022.03.07-08.28.31:464][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.013034s)
+[2022.03.07-08.28.31:483][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.03.07-08.28.31:484][662]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.03.07-08.28.31:484][662]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.07-08.28.31:484][662]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.07-08.28.31:484][662]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.07-08.28.31:484][662]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.07-08.28.31:484][662]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.07-08.28.31:484][662]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.07-08.28.31:484][662]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.07-08.28.31:484][662]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.07-08.28.31:484][662]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.07-08.28.31:484][662]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.07-08.28.31:484][662]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.07-08.28.31:484][662]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.07-08.28.31:491][662]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.07-08.28.31:491][662]LogAudioMixer: Display: 1: FrontRight
+[2022.03.07-08.28.31:504][662]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.07-08.28.31:504][662]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.07-08.28.31:504][662]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.07-08.28.31:504][662]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.07-08.28.31:504][662]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.07-08.28.31:504][662]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.07-08.28.31:504][662]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.07-08.28.31:505][662]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.07-08.28.31:505][662]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.07-08.28.31:505][662]LogInit: FAudioDevice initialized.
+[2022.03.07-08.28.31:505][662]LogAudio: Display: Audio Device (ID: 24) registered with world 'Main_Level_Test'.
+[2022.03.07-08.28.31:511][662]LogLoad: Game class is 'Main_GM_C'
+[2022.03.07-08.28.31:517][662]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.07-19.28.31
+[2022.03.07-08.28.31:517][662]LogWorld: Bringing up level for play took: 0.005312
+[2022.03.07-08.28.31:517][662]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.03.07-08.28.31:520][662]PIE: Server logged in
+[2022.03.07-08.28.31:521][662]PIE: Play in editor total start time 0.2 seconds.
+[2022.03.07-08.28.57:725][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.28.57:725][169]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.28.57:725][169]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.07-08.28.57:726][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.28.57:733][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.07-08.28.57:736][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.28.57:754][169]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.07-08.28.57:754][169]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.28.57:755][169]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.28.57:757][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.28.57:762][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.03.07-08.28.57:781][170]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.03.07-08.29.21:833][599]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.07-08.29.21:875][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.03.07-08.29.24:157][816]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.07-08.29.24:209][816]LogFMOD: Default sample rate = 48000
+[2022.03.07-08.29.24:209][816]LogFMOD: System sample rate = 48000
+[2022.03.07-08.29.24:209][816]LogFMOD: Matching system sample rate 48000
+[2022.03.07-08.29.24:228][816]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.07-08.29.24:271][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.07-08.29.24:271][816]PIE: New page: PIE session: Main_Level_Test (8 Mar 2022, 6:29:24 am)
+[2022.03.07-08.29.24:271][816]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.29.24:282][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011312s)
+[2022.03.07-08.29.24:283][816]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.07-08.29.24:283][816]LogPlayLevel: PIE: World Init took: (0.000963s)
+[2022.03.07-08.29.24:283][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.012385s)
+[2022.03.07-08.29.24:302][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.03.07-08.29.24:303][816]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.03.07-08.29.24:303][816]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.07-08.29.24:303][816]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.07-08.29.24:303][816]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.07-08.29.24:303][816]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.07-08.29.24:303][816]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.07-08.29.24:303][816]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.07-08.29.24:303][816]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.07-08.29.24:303][816]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.07-08.29.24:303][816]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.07-08.29.24:303][816]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.07-08.29.24:303][816]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.07-08.29.24:303][816]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.07-08.29.24:310][816]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.07-08.29.24:310][816]LogAudioMixer: Display: 1: FrontRight
+[2022.03.07-08.29.24:322][816]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.07-08.29.24:322][816]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.07-08.29.24:322][816]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.07-08.29.24:322][816]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.07-08.29.24:323][816]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.07-08.29.24:323][816]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.07-08.29.24:323][816]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.07-08.29.24:324][816]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.07-08.29.24:324][816]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.07-08.29.24:324][816]LogInit: FAudioDevice initialized.
+[2022.03.07-08.29.24:324][816]LogAudio: Display: Audio Device (ID: 25) registered with world 'Main_Level_Test'.
+[2022.03.07-08.29.24:331][816]LogLoad: Game class is 'Main_GM_C'
+[2022.03.07-08.29.24:336][816]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.07-19.29.24
+[2022.03.07-08.29.24:336][816]LogWorld: Bringing up level for play took: 0.005150
+[2022.03.07-08.29.24:337][816]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.03.07-08.29.24:339][816]PIE: Server logged in
+[2022.03.07-08.29.24:340][816]PIE: Play in editor total start time 0.177 seconds.
+[2022.03.07-08.29.37:625][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.29.37:625][109]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.29.37:625][109]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.07-08.29.37:626][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.29.37:637][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.07-08.29.37:641][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.29.37:658][109]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.07-08.29.37:658][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.29.37:659][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.29.37:662][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.29.37:666][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.03.07-08.29.37:685][110]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.03.07-08.29.56:605][229]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.07-08.29.56:647][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.03.07-08.29.58:627][404]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.07-08.29.58:669][404]LogFMOD: Default sample rate = 48000
+[2022.03.07-08.29.58:669][404]LogFMOD: System sample rate = 48000
+[2022.03.07-08.29.58:669][404]LogFMOD: Matching system sample rate 48000
+[2022.03.07-08.29.58:688][404]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.07-08.29.58:731][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.07-08.29.58:731][404]PIE: New page: PIE session: Main_Level_Test (8 Mar 2022, 6:29:58 am)
+[2022.03.07-08.29.58:731][404]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.29.58:742][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011504s)
+[2022.03.07-08.29.58:743][404]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.07-08.29.58:743][404]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2022.03.07-08.29.58:743][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.012469s)
+[2022.03.07-08.29.58:762][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.03.07-08.29.58:763][404]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.03.07-08.29.58:763][404]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.07-08.29.58:763][404]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.07-08.29.58:763][404]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.07-08.29.58:763][404]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.07-08.29.58:763][404]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.07-08.29.58:763][404]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.07-08.29.58:763][404]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.07-08.29.58:763][404]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.07-08.29.58:763][404]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.07-08.29.58:763][404]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.07-08.29.58:763][404]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.07-08.29.58:763][404]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.07-08.29.58:770][404]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.07-08.29.58:770][404]LogAudioMixer: Display: 1: FrontRight
+[2022.03.07-08.29.58:782][404]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.07-08.29.58:782][404]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.07-08.29.58:782][404]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.07-08.29.58:782][404]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.07-08.29.58:783][404]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.07-08.29.58:783][404]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.07-08.29.58:783][404]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.07-08.29.58:784][404]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.07-08.29.58:784][404]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.07-08.29.58:784][404]LogInit: FAudioDevice initialized.
+[2022.03.07-08.29.58:784][404]LogAudio: Display: Audio Device (ID: 26) registered with world 'Main_Level_Test'.
+[2022.03.07-08.29.58:789][404]LogLoad: Game class is 'Main_GM_C'
+[2022.03.07-08.29.58:795][404]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.07-19.29.58
+[2022.03.07-08.29.58:795][404]LogWorld: Bringing up level for play took: 0.005189
+[2022.03.07-08.29.58:795][404]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.03.07-08.29.58:797][404]PIE: Server logged in
+[2022.03.07-08.29.58:798][404]PIE: Play in editor total start time 0.164 seconds.
+[2022.03.07-08.30.02:905][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.30.02:905][796]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.30.02:905][796]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.07-08.30.02:906][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.30.02:912][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.07-08.30.02:916][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.30.02:933][796]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.07-08.30.02:933][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.30.02:934][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.30.02:937][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.30.02:941][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.03.07-08.30.02:979][797]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.03.07-08.30.11:955][696]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.07-08.30.11:999][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.03.07-08.31.11:259][644]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.07-08.31.11:302][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.03.07-08.31.13:101][790]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.07-08.31.13:149][790]LogFMOD: Default sample rate = 48000
+[2022.03.07-08.31.13:149][790]LogFMOD: System sample rate = 48000
+[2022.03.07-08.31.13:149][790]LogFMOD: Matching system sample rate 48000
+[2022.03.07-08.31.13:168][790]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.07-08.31.13:211][790]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.07-08.31.13:211][790]PIE: New page: PIE session: Main_Level_Test (8 Mar 2022, 6:31:13 am)
+[2022.03.07-08.31.13:211][790]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.31.13:223][790]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011678s)
+[2022.03.07-08.31.13:223][790]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.07-08.31.13:223][790]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2022.03.07-08.31.13:223][790]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.012645s)
+[2022.03.07-08.31.13:243][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.03.07-08.31.13:244][790]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2022.03.07-08.31.13:244][790]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.07-08.31.13:244][790]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.07-08.31.13:244][790]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.07-08.31.13:244][790]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.07-08.31.13:244][790]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.07-08.31.13:244][790]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.07-08.31.13:244][790]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.07-08.31.13:244][790]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.07-08.31.13:244][790]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.07-08.31.13:244][790]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.07-08.31.13:244][790]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.07-08.31.13:244][790]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.07-08.31.13:251][790]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.07-08.31.13:251][790]LogAudioMixer: Display: 1: FrontRight
+[2022.03.07-08.31.13:263][790]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.07-08.31.13:263][790]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.07-08.31.13:263][790]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.07-08.31.13:263][790]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.07-08.31.13:263][790]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.07-08.31.13:263][790]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.07-08.31.13:263][790]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.07-08.31.13:264][790]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.07-08.31.13:265][790]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.07-08.31.13:265][790]LogInit: FAudioDevice initialized.
+[2022.03.07-08.31.13:265][790]LogAudio: Display: Audio Device (ID: 27) registered with world 'Main_Level_Test'.
+[2022.03.07-08.31.13:278][790]LogLoad: Game class is 'Main_GM_C'
+[2022.03.07-08.31.13:284][790]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.07-19.31.13
+[2022.03.07-08.31.13:284][790]LogWorld: Bringing up level for play took: 0.005511
+[2022.03.07-08.31.13:284][790]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.03.07-08.31.13:286][790]PIE: Server logged in
+[2022.03.07-08.31.13:287][790]PIE: Play in editor total start time 0.179 seconds.
+[2022.03.07-08.31.18:457][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.31.18:457][274]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.31.18:457][274]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.07-08.31.18:458][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.31.18:463][274]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.07-08.31.18:466][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.31.18:483][274]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.07-08.31.18:484][274]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.31.18:485][274]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.31.18:487][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.31.18:491][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.03.07-08.31.18:509][275]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.03.07-08.31.37:408][307]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.07-08.31.37:450][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.03.07-08.31.38:773][422]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.07-08.31.38:818][422]LogFMOD: Default sample rate = 48000
+[2022.03.07-08.31.38:818][422]LogFMOD: System sample rate = 48000
+[2022.03.07-08.31.38:818][422]LogFMOD: Matching system sample rate 48000
+[2022.03.07-08.31.38:836][422]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.07-08.31.38:882][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.07-08.31.38:882][422]PIE: New page: PIE session: Main_Level_Test (8 Mar 2022, 6:31:38 am)
+[2022.03.07-08.31.38:882][422]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.31.38:894][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011784s)
+[2022.03.07-08.31.38:894][422]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.07-08.31.38:895][422]LogPlayLevel: PIE: World Init took: (0.000876s)
+[2022.03.07-08.31.38:895][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.012775s)
+[2022.03.07-08.31.38:914][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.03.07-08.31.38:914][422]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2022.03.07-08.31.38:914][422]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.07-08.31.38:914][422]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.07-08.31.38:914][422]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.07-08.31.38:914][422]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.07-08.31.38:914][422]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.07-08.31.38:914][422]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.07-08.31.38:914][422]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.07-08.31.38:914][422]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.07-08.31.38:915][422]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.07-08.31.38:915][422]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.07-08.31.38:915][422]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.07-08.31.38:915][422]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.07-08.31.38:922][422]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.07-08.31.38:922][422]LogAudioMixer: Display: 1: FrontRight
+[2022.03.07-08.31.38:934][422]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.07-08.31.38:934][422]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.07-08.31.38:934][422]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.07-08.31.38:934][422]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.07-08.31.38:934][422]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.07-08.31.38:934][422]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.07-08.31.38:934][422]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.07-08.31.38:935][422]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.07-08.31.38:935][422]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.07-08.31.38:935][422]LogInit: FAudioDevice initialized.
+[2022.03.07-08.31.38:935][422]LogAudio: Display: Audio Device (ID: 28) registered with world 'Main_Level_Test'.
+[2022.03.07-08.31.38:942][422]LogLoad: Game class is 'Main_GM_C'
+[2022.03.07-08.31.38:948][422]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.07-19.31.38
+[2022.03.07-08.31.38:948][422]LogWorld: Bringing up level for play took: 0.005064
+[2022.03.07-08.31.38:948][422]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.03.07-08.31.38:950][422]PIE: Server logged in
+[2022.03.07-08.31.38:951][422]PIE: Play in editor total start time 0.171 seconds.
+[2022.03.07-08.31.42:135][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.31.42:135][716]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.31.42:135][716]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.07-08.31.42:136][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.31.42:145][716]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.07-08.31.42:149][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.31.42:166][716]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.07-08.31.42:166][716]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.31.42:167][716]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.31.42:170][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.31.42:174][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.03.07-08.31.42:203][717]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.03.07-08.33.08:601][707]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.07-08.33.08:643][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.03.07-08.33.10:121][827]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.07-08.33.10:169][827]LogFMOD: Default sample rate = 48000
+[2022.03.07-08.33.10:169][827]LogFMOD: System sample rate = 48000
+[2022.03.07-08.33.10:169][827]LogFMOD: Matching system sample rate 48000
+[2022.03.07-08.33.10:188][827]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.07-08.33.10:231][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.07-08.33.10:231][827]PIE: New page: PIE session: Main_Level_Test (8 Mar 2022, 6:33:10 am)
+[2022.03.07-08.33.10:280][827]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.33.10:293][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012092s)
+[2022.03.07-08.33.10:293][827]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.07-08.33.10:294][827]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2022.03.07-08.33.10:294][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.013125s)
+[2022.03.07-08.33.10:313][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.03.07-08.33.10:313][827]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.03.07-08.33.10:314][827]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.07-08.33.10:314][827]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.07-08.33.10:314][827]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.07-08.33.10:314][827]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.07-08.33.10:314][827]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.07-08.33.10:314][827]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.07-08.33.10:314][827]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.07-08.33.10:314][827]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.07-08.33.10:314][827]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.07-08.33.10:314][827]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.07-08.33.10:314][827]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.07-08.33.10:314][827]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.07-08.33.10:321][827]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.07-08.33.10:321][827]LogAudioMixer: Display: 1: FrontRight
+[2022.03.07-08.33.10:333][827]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.07-08.33.10:333][827]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.07-08.33.10:333][827]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.07-08.33.10:333][827]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.07-08.33.10:333][827]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.07-08.33.10:333][827]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.07-08.33.10:333][827]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.07-08.33.10:334][827]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.07-08.33.10:334][827]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.07-08.33.10:334][827]LogInit: FAudioDevice initialized.
+[2022.03.07-08.33.10:334][827]LogAudio: Display: Audio Device (ID: 29) registered with world 'Main_Level_Test'.
+[2022.03.07-08.33.10:343][827]LogLoad: Game class is 'Main_GM_C'
+[2022.03.07-08.33.10:349][827]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.07-19.33.10
+[2022.03.07-08.33.10:349][827]LogWorld: Bringing up level for play took: 0.004855
+[2022.03.07-08.33.10:349][827]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.03.07-08.33.10:351][827]PIE: Server logged in
+[2022.03.07-08.33.10:352][827]PIE: Play in editor total start time 0.224 seconds.
+[2022.03.07-08.33.24:376][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.33.24:376][135]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.33.24:376][135]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.07-08.33.24:377][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.33.24:382][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.07-08.33.24:385][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.33.24:403][135]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.07-08.33.24:403][135]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.33.24:404][135]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.33.24:407][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.33.24:411][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.03.07-08.33.24:431][136]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.03.07-08.33.31:838][971]BlueprintLog: New page: Compile Paper_Ball_Set_Force
+[2022.03.07-08.33.31:880][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.03.07-08.33.33:301][ 92]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.07-08.33.33:358][ 92]LogFMOD: Default sample rate = 48000
+[2022.03.07-08.33.33:358][ 92]LogFMOD: System sample rate = 48000
+[2022.03.07-08.33.33:358][ 92]LogFMOD: Matching system sample rate 48000
+[2022.03.07-08.33.33:377][ 92]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.07-08.33.33:422][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.07-08.33.33:422][ 92]PIE: New page: PIE session: Main_Level_Test (8 Mar 2022, 6:33:33 am)
+[2022.03.07-08.33.33:422][ 92]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.33.33:434][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011947s)
+[2022.03.07-08.33.33:434][ 92]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.07-08.33.33:435][ 92]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2022.03.07-08.33.33:435][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.012952s)
+[2022.03.07-08.33.33:454][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.03.07-08.33.33:455][ 92]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.03.07-08.33.33:455][ 92]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.07-08.33.33:455][ 92]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.07-08.33.33:455][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.07-08.33.33:455][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.07-08.33.33:455][ 92]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.07-08.33.33:455][ 92]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.07-08.33.33:455][ 92]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.07-08.33.33:455][ 92]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.07-08.33.33:455][ 92]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.07-08.33.33:455][ 92]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.07-08.33.33:455][ 92]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.07-08.33.33:455][ 92]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.07-08.33.33:462][ 92]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.07-08.33.33:462][ 92]LogAudioMixer: Display: 1: FrontRight
+[2022.03.07-08.33.33:474][ 92]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.07-08.33.33:474][ 92]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.07-08.33.33:474][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.07-08.33.33:474][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.07-08.33.33:474][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.07-08.33.33:474][ 92]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.07-08.33.33:474][ 92]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.07-08.33.33:475][ 92]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.07-08.33.33:475][ 92]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.07-08.33.33:475][ 92]LogInit: FAudioDevice initialized.
+[2022.03.07-08.33.33:475][ 92]LogAudio: Display: Audio Device (ID: 30) registered with world 'Main_Level_Test'.
+[2022.03.07-08.33.33:486][ 92]LogLoad: Game class is 'Main_GM_C'
+[2022.03.07-08.33.33:491][ 92]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.07-19.33.33
+[2022.03.07-08.33.33:492][ 92]LogWorld: Bringing up level for play took: 0.005119
+[2022.03.07-08.33.33:492][ 92]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2022.03.07-08.33.33:494][ 92]PIE: Server logged in
+[2022.03.07-08.33.33:495][ 92]PIE: Play in editor total start time 0.188 seconds.
+[2022.03.07-08.37.06:566][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.37.06:566][634]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.07-08.37.06:566][634]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.07-08.37.06:567][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.37.06:574][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.07-08.37.06:577][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-08.37.06:594][634]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.07-08.37.06:594][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.37.06:595][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.07-08.37.06:598][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-08.37.06:602][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.03.07-08.37.06:622][635]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.03.07-08.37.32:551][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.03.07-08.37.32:624][805]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level_Test_Auto28A03D6F14A228A976F2D3682860BC8F3.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Lachlans_Work/Maps/Main_Level_Test_Auto2.umap'
+[2022.03.07-08.37.32:628][805]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lachlans_Work/Maps/Main_Level_Test' took 0.095
+[2022.03.07-08.37.32:628][805]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.095
+[2022.03.07-08.37.32:628][805]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force] ([2] browsable assets)...
+[2022.03.07-08.37.32:641][805]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force.Paper_Ball_Set_Force]
+[2022.03.07-08.37.32:641][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force]
+[2022.03.07-08.37.32:692][805]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Paper_Ball_Set_Force_Auto27C9B0AEE47EC62BBFBA2E4B0194A5665.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Blueprints/Paper_Ball_Set_Force_Auto2.uasset'
+[2022.03.07-08.37.32:693][805]LogFileHelpers: Auto-saving content packages took 0.065
