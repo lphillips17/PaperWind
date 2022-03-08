@@ -1703,3 +1703,103 @@ Script Stack (0 frames):
 [2022.03.08-05.30.14:294][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
 [2022.03.08-05.30.14:337][159]LogPlayLevel: Display: Destroying online subsystem :Context_19
 [2022.03.08-05.30.21:136][689]LogEditorViewport: Clicking on Actor (LMB): BP_Menu_C (CreditsMenu)
+[2022.03.08-05.35.10:608][432]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.03.08-05.35.10:769][432]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Main_Level_TestV2_Auto10AE27AD743862C8A6D8AD1BF72F13978.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Autosaves/Game/Lachlans_Work/Maps/Main_Level_TestV2_Auto1.umap'
+[2022.03.08-05.35.10:771][432]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lachlans_Work/Maps/Main_Level_TestV2' took 0.206
+[2022.03.08-05.35.10:771][432]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.206
+[2022.03.08-05.35.10:772][432]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Lachlans_Work/3D_Menu/Widgets/Controls_Widget] ([2] browsable assets)...
+[2022.03.08-05.35.10:772][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lachlans_Work/3D_Menu/Widgets/Controls_Widget]
+[2022.03.08-05.35.10:782][432]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Controls_Widget_Auto17CB7BE4948B805F2FCE7E6AF93DC0705.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Autosaves/Game/Lachlans_Work/3D_Menu/Widgets/Controls_Widget_Auto1.uasset'
+[2022.03.08-05.35.10:784][432]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Lachlans_Work/3D_Menu/Widgets/Credit_Widget] ([2] browsable assets)...
+[2022.03.08-05.35.10:784][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lachlans_Work/3D_Menu/Widgets/Credit_Widget]
+[2022.03.08-05.35.10:794][432]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Credit_Widget_Auto1CF61AB1B49569BE363D79CB6CC5162D2.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Autosaves/Game/Lachlans_Work/3D_Menu/Widgets/Credit_Widget_Auto1.uasset'
+[2022.03.08-05.35.10:796][432]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Lachlans_Work/3D_Menu/Widgets/MainMenu_Widget] ([4] browsable assets)...
+[2022.03.08-05.35.10:796][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lachlans_Work/3D_Menu/Widgets/MainMenu_Widget]
+[2022.03.08-05.35.10:807][432]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/MainMenu_Widget_Auto1F08EEBC04F232F63064AE39472B64EE4.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Autosaves/Game/Lachlans_Work/3D_Menu/Widgets/MainMenu_Widget_Auto1.uasset'
+[2022.03.08-05.35.10:808][432]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Michaels_Work/Textures/crumpled-paper-texture-free-photo] ([1] browsable assets)...
+[2022.03.08-05.35.10:814][432]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Michaels_Work/Textures/crumpled-paper-texture-free-photo.crumpled-paper-texture-free-photo]
+[2022.03.08-05.35.10:814][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/Michaels_Work/Textures/crumpled-paper-texture-free-photo]
+[2022.03.08-05.35.10:846][432]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/crumpled-paper-texture-free-phot56C098FD40E20A2AFEFA0CB9730DBD79.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Autosaves/Game/Michaels_Work/Textures/crumpled-paper-texture-free-photo_Auto1.uasset'
+[2022.03.08-05.35.10:847][432]LogFileHelpers: Auto-saving content packages took 0.076
+[2022.03.08-05.38.11:545][968]LogEditorViewport: Clicking on Actor (LMB): BP_Menu_C (CreditsMenu)
+[2022.03.08-05.38.22:005][778]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.08-05.38.22:014][778]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.08-05.38.22:015][778]LogPlayLevel: [PlayLevel] Compiling Credit_Widget before play...
+[2022.03.08-05.38.22:087][778]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2022.03.08-05.38.22:094][778]LogPlayLevel: PlayLevel: Blueprint regeneration took 80 ms (1 blueprints)
+[2022.03.08-05.38.22:094][778]PIE: New page: PIE session: Main_Level_TestV2 (9 Mar 2022, 3:38:22 am)
+[2022.03.08-05.38.22:094][778]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_TestV2
+[2022.03.08-05.38.22:108][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013547s)
+[2022.03.08-05.38.22:109][778]LogAIModule: Creating AISystem for world Main_Level_TestV2
+[2022.03.08-05.38.22:109][778]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2022.03.08-05.38.22:109][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_TestV2.Main_Level_TestV2 to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_TestV2.Main_Level_TestV2 (0.014675s)
+[2022.03.08-05.38.22:139][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.03.08-05.38.22:139][778]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.03.08-05.38.22:139][778]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.08-05.38.22:139][778]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.08-05.38.22:139][778]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.08-05.38.22:139][778]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.08-05.38.22:139][778]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.08-05.38.22:139][778]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.08-05.38.22:139][778]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.08-05.38.22:139][778]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.08-05.38.22:139][778]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.08-05.38.22:139][778]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.08-05.38.22:139][778]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.08-05.38.22:139][778]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.08-05.38.22:148][778]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.08-05.38.22:148][778]LogAudioMixer: Display: 1: FrontRight
+[2022.03.08-05.38.22:164][778]LogAudioMixer: Display: Using Audio Device U28E850 (NVIDIA High Definition Audio)
+[2022.03.08-05.38.22:164][778]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.08-05.38.22:164][778]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.08-05.38.22:164][778]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.08-05.38.22:165][778]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.08-05.38.22:165][778]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.08-05.38.22:165][778]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.08-05.38.22:166][778]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.08-05.38.22:166][778]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.08-05.38.22:166][778]LogInit: FAudioDevice initialized.
+[2022.03.08-05.38.22:166][778]LogAudio: Display: Audio Device (ID: 11) registered with world 'Main_Level_TestV2'.
+[2022.03.08-05.38.22:206][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.08-05.38.22:206][778]LogLoad: Game class is 'MainMenuGameMode_C'
+[2022.03.08-05.38.22:216][778]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_TestV2.Main_Level_TestV2 up for play (max tick rate 0) at 2022.03.08-16.38.22
+[2022.03.08-05.38.22:217][778]LogWorld: Bringing up level for play took: 0.009450
+[2022.03.08-05.38.22:217][778]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.03.08-05.38.22:221][778]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.03.08-05.38.22:221][778]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.03.08-05.38.22:223][778]PIE: Server logged in
+[2022.03.08-05.38.22:225][778]PIE: Play in editor total start time 0.214 seconds.
+[2022.03.08-05.38.26:700][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.08-05.38.26:700][ 33]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_TestV2
+[2022.03.08-05.38.26:700][ 33]LogSlate: Window 'PaperWind Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.08-05.38.26:720][ 33]LogWorld: UWorld::CleanupWorld for Main_Level_TestV2, bSessionEnded=true, bCleanupResources=true
+[2022.03.08-05.38.26:721][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.08-05.38.26:729][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.08-05.38.26:738][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.08-05.38.26:765][ 33]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.08-05.38.26:766][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.08-05.38.26:767][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.08-05.38.26:777][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.03.08-05.38.26:810][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.03.08-05.43.12:172][688]LogEditorViewport: Clicking on Actor (LMB): BP_Menu_C (CreditsMenu)
+[2022.03.08-05.43.19:467][298]Cmd: TRANSACTION UNDO
+[2022.03.08-05.43.19:467][298]LogEditorTransaction: Undo Set Scale
+[2022.03.08-05.43.37:250][955]LogEditorTransaction: Undo Edit Right
+[2022.03.08-05.44.31:245][452]BlueprintLog: New page: Compile Credit_Widget
+[2022.03.08-05.44.31:311][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.03.08-05.44.31:849][496]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Credit_WidgetF7CBCEFB45AE5BAEA40F8297A754AC0A.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Content/Lachlans_Work/3D_Menu/Widgets/Credit_Widget.uasset'
+[2022.03.08-05.44.31:862][496]AssetCheck: New page: Asset Save: Credit_Widget
+[2022.03.08-05.44.31:862][496]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lachlans_Work/3D_Menu/Widgets/Credit_Widget.Credit_Widget
+[2022.03.08-05.44.34:083][681]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.03.08-05.44.35:295][681]LogSlate: Window 'Save Content' being destroyed
+[2022.03.08-05.44.35:334][681]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Controls_Widget74A8F5E343C805B70FC634BE7BDBE0E7.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Content/Lachlans_Work/3D_Menu/Widgets/Controls_Widget.uasset'
+[2022.03.08-05.44.35:543][681]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/crumpled-paper-texture-free-photFBCB45CC4629EB32700DD6AAD8388862.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Content/Michaels_Work/Textures/crumpled-paper-texture-free-photo.uasset'
+[2022.03.08-05.44.35:575][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.03.08-05.44.35:710][681]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Main_Level_TestV2891BC0844FE94DCF8CD379AB49F19A5B.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Content/Lachlans_Work/Maps/Main_Level_TestV2.umap'
+[2022.03.08-05.44.35:722][681]LogFileHelpers: Saving map 'Main_Level_TestV2' took 0.179
+[2022.03.08-05.44.35:735][681]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/MainMenu_WidgetA25F01EB4E781073221584B7E78AC5B7.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Content/Lachlans_Work/3D_Menu/Widgets/MainMenu_Widget.uasset'
+[2022.03.08-05.44.35:747][681]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.08-05.44.35:747][681]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lachlans_Work/3D_Menu/Widgets/Controls_Widget.Controls_Widget
+[2022.03.08-05.44.35:748][681]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lachlans_Work/3D_Menu/Widgets/MainMenu_Widget.MainMenu_Widget
+[2022.03.08-05.44.35:748][681]LogContentValidation: Display: Validating World /Game/Lachlans_Work/Maps/Main_Level_TestV2.Main_Level_TestV2
+[2022.03.08-05.44.35:748][681]LogContentValidation: Display: Validating Texture2D /Game/Michaels_Work/Textures/crumpled-paper-texture-free-photo.crumpled-paper-texture-free-photo
