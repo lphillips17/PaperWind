@@ -3107,3 +3107,228 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.08-04.25.44:305][364]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/BP_Arrow.BP_Arrow
 [2022.03.08-04.25.44:305][364]LogContentValidation: Display: Validating World /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test
 [2022.03.08-04.25.44:305][364]LogContentValidation: Display: Validating Material /Game/Michaels_Work/Materials/M_Arrow.M_Arrow
+[2022.03.08-04.28.35:102][263]LogEditorViewport: Clicking on Actor (LMB): Floor_is_lava_BP_C (Floor_is_lava_BP)
+[2022.03.08-04.30.06:998][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp_5)
+[2022.03.08-04.30.48:592][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_23)
+[2022.03.08-04.31.01:012][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.03.08-04.31.01:118][171]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Main_Level_Test385BF8204F9F834626FC5BBA87047F96.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Content/Lachlans_Work/Maps/Main_Level_Test.umap'
+[2022.03.08-04.31.01:144][171]AssetCheck: New page: Asset Save: Main_Level_Test
+[2022.03.08-04.31.01:144][171]LogContentValidation: Display: Validating World /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test
+[2022.03.08-04.31.03:918][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof)
+[2022.03.08-04.31.09:817][976]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.08-04.31.09:825][976]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.08-04.31.09:825][976]PIE: New page: PIE session: Main_Level_Test (9 Mar 2022, 2:31:09 am)
+[2022.03.08-04.31.09:825][976]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.08-04.31.09:837][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012537s)
+[2022.03.08-04.31.09:838][976]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.08-04.31.09:839][976]LogPlayLevel: PIE: World Init took: (0.001298s)
+[2022.03.08-04.31.09:839][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.013986s)
+[2022.03.08-04.31.09:863][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.03.08-04.31.09:865][976]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.03.08-04.31.09:865][976]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.08-04.31.09:865][976]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.08-04.31.09:865][976]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.08-04.31.09:865][976]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.08-04.31.09:865][976]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.08-04.31.09:865][976]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.08-04.31.09:865][976]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.08-04.31.09:865][976]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.08-04.31.09:865][976]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.08-04.31.09:866][976]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.08-04.31.09:866][976]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.08-04.31.09:866][976]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.08-04.31.09:874][976]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.08-04.31.09:874][976]LogAudioMixer: Display: 1: FrontRight
+[2022.03.08-04.31.09:888][976]LogAudioMixer: Display: Using Audio Device U28E850 (NVIDIA High Definition Audio)
+[2022.03.08-04.31.09:889][976]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.08-04.31.09:889][976]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.08-04.31.09:889][976]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.08-04.31.09:889][976]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.08-04.31.09:889][976]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.08-04.31.09:889][976]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.08-04.31.09:890][976]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.08-04.31.09:890][976]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.08-04.31.09:890][976]LogInit: FAudioDevice initialized.
+[2022.03.08-04.31.09:890][976]LogAudio: Display: Audio Device (ID: 23) registered with world 'Main_Level_Test'.
+[2022.03.08-04.31.09:940][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.08-04.31.09:941][976]LogLoad: Game class is 'Main_GM_C'
+[2022.03.08-04.31.09:951][976]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.08-15.31.09
+[2022.03.08-04.31.09:951][976]LogWorld: Bringing up level for play took: 0.009290
+[2022.03.08-04.31.09:951][976]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.03.08-04.31.09:956][976]PIE: Server logged in
+[2022.03.08-04.31.09:957][976]PIE: Play in editor total start time 0.135 seconds.
+[2022.03.08-04.31.27:935][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.08-04.31.27:935][902]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.08-04.31.27:935][902]LogSlate: Window 'PaperWind Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.08-04.31.27:959][902]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.08-04.31.27:963][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.08-04.31.27:983][902]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.08-04.31.28:001][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.08-04.31.28:024][902]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.08-04.31.28:025][902]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.08-04.31.28:031][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.03.08-04.31.28:069][903]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.03.08-04.31.42:311][323]BlueprintLog: New page: Compile BP_Arrow
+[2022.03.08-04.31.42:348][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.03.08-04.31.43:827][451]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.08-04.31.43:835][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.08-04.31.43:836][451]PIE: New page: PIE session: Main_Level_Test (9 Mar 2022, 2:31:43 am)
+[2022.03.08-04.31.43:836][451]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.08-04.31.43:848][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012206s)
+[2022.03.08-04.31.43:849][451]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.08-04.31.43:849][451]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2022.03.08-04.31.43:849][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.013295s)
+[2022.03.08-04.31.43:873][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.03.08-04.31.43:874][451]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.03.08-04.31.43:874][451]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.08-04.31.43:874][451]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.08-04.31.43:874][451]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.08-04.31.43:874][451]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.08-04.31.43:874][451]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.08-04.31.43:874][451]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.08-04.31.43:874][451]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.08-04.31.43:874][451]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.08-04.31.43:875][451]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.08-04.31.43:875][451]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.08-04.31.43:875][451]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.08-04.31.43:875][451]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.08-04.31.43:883][451]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.08-04.31.43:883][451]LogAudioMixer: Display: 1: FrontRight
+[2022.03.08-04.31.43:896][451]LogAudioMixer: Display: Using Audio Device U28E850 (NVIDIA High Definition Audio)
+[2022.03.08-04.31.43:896][451]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.08-04.31.43:896][451]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.08-04.31.43:896][451]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.08-04.31.43:896][451]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.08-04.31.43:897][451]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.08-04.31.43:897][451]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.08-04.31.43:898][451]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.08-04.31.43:898][451]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.08-04.31.43:898][451]LogInit: FAudioDevice initialized.
+[2022.03.08-04.31.43:898][451]LogAudio: Display: Audio Device (ID: 24) registered with world 'Main_Level_Test'.
+[2022.03.08-04.31.43:955][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.08-04.31.43:955][451]LogLoad: Game class is 'Main_GM_C'
+[2022.03.08-04.31.43:964][451]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.08-15.31.43
+[2022.03.08-04.31.43:964][451]LogWorld: Bringing up level for play took: 0.008288
+[2022.03.08-04.31.43:965][451]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.03.08-04.31.43:970][451]PIE: Server logged in
+[2022.03.08-04.31.43:971][451]PIE: Play in editor total start time 0.139 seconds.
+[2022.03.08-04.32.08:868][739]LogNet: Browse: /Game/Lachlans_Work/Maps/Main_Level_Test
+[2022.03.08-04.32.08:868][739]LogLoad: LoadMap: /Game/Lachlans_Work/Maps/Main_Level_Test
+[2022.03.08-04.32.08:868][739]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.08-04.32.08:869][739]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.08-04.32.08:870][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.08-04.32.08:892][739]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.08-04.32.08:915][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.03.08-04.32.08:918][739]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.08-04.32.08:929][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011079s)
+[2022.03.08-04.32.08:930][739]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.08-04.32.08:930][739]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2022.03.08-04.32.08:930][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.012166s)
+[2022.03.08-04.32.08:930][739]LogAudio: Display: Audio Device (ID: 24) registered with world 'Main_Level_Test'.
+[2022.03.08-04.32.08:930][739]LogLoad: Game class is 'Main_GM_C'
+[2022.03.08-04.32.08:934][739]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.08-15.32.08
+[2022.03.08-04.32.08:935][739]LogWorld: Bringing up level for play took: 0.003187
+[2022.03.08-04.32.08:936][739]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.08-04.32.08:937][739]LogLoad: Took 0.068263 seconds to LoadMap(/Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test)
+[2022.03.08-04.32.28:576][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.08-04.32.28:576][754]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.08-04.32.28:576][754]LogSlate: Window 'PaperWind Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.08-04.32.28:607][754]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.08-04.32.28:609][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.08-04.32.28:624][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.08-04.32.28:642][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.08-04.32.28:663][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.08-04.32.28:665][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.08-04.32.28:670][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.03.08-04.32.28:707][755]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.03.08-04.32.51:912][312]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Michaels_Work/Materials/M_Bin_Glow_Inst.M_Bin_Glow_Inst
+[2022.03.08-04.33.19:403][355]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.08-04.33.21:375][518]LogSlate: Window 'M_Bin_Glow_Inst' being destroyed
+[2022.03.08-04.33.21:387][518]LogSlate: Window 'M_Bin_Glow_Inst' being destroyed
+[2022.03.08-04.33.21:410][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.03.08-04.33.21:452][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.03.08-04.33.21:465][518]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.03.08-04.33.21:465][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.08-04.33.22:231][587]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.08-04.33.22:241][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.08-04.33.22:241][587]PIE: New page: PIE session: Main_Level_Test (9 Mar 2022, 2:33:22 am)
+[2022.03.08-04.33.22:241][587]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.08-04.33.22:253][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012374s)
+[2022.03.08-04.33.22:254][587]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.08-04.33.22:254][587]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2022.03.08-04.33.22:254][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.013513s)
+[2022.03.08-04.33.22:280][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.03.08-04.33.22:281][587]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.03.08-04.33.22:281][587]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.08-04.33.22:281][587]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.08-04.33.22:281][587]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.08-04.33.22:281][587]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.08-04.33.22:281][587]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.08-04.33.22:281][587]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.08-04.33.22:281][587]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.08-04.33.22:281][587]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.08-04.33.22:282][587]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.08-04.33.22:282][587]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.08-04.33.22:282][587]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.08-04.33.22:282][587]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.08-04.33.22:290][587]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.08-04.33.22:290][587]LogAudioMixer: Display: 1: FrontRight
+[2022.03.08-04.33.22:304][587]LogAudioMixer: Display: Using Audio Device U28E850 (NVIDIA High Definition Audio)
+[2022.03.08-04.33.22:304][587]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.08-04.33.22:305][587]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.08-04.33.22:305][587]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.08-04.33.22:305][587]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.08-04.33.22:305][587]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.08-04.33.22:305][587]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.08-04.33.22:306][587]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.08-04.33.22:306][587]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.08-04.33.22:306][587]LogInit: FAudioDevice initialized.
+[2022.03.08-04.33.22:306][587]LogAudio: Display: Audio Device (ID: 25) registered with world 'Main_Level_Test'.
+[2022.03.08-04.33.22:363][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.08-04.33.22:363][587]LogLoad: Game class is 'Main_GM_C'
+[2022.03.08-04.33.22:373][587]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.08-15.33.22
+[2022.03.08-04.33.22:373][587]LogWorld: Bringing up level for play took: 0.009274
+[2022.03.08-04.33.22:373][587]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2022.03.08-04.33.22:378][587]PIE: Server logged in
+[2022.03.08-04.33.22:379][587]PIE: Play in editor total start time 0.142 seconds.
+[2022.03.08-04.33.59:217][468]LogNet: Browse: /Game/Lachlans_Work/Maps/Main_Level_Test
+[2022.03.08-04.33.59:217][468]LogLoad: LoadMap: /Game/Lachlans_Work/Maps/Main_Level_Test
+[2022.03.08-04.33.59:217][468]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.08-04.33.59:218][468]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.08-04.33.59:218][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.08-04.33.59:242][468]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.08-04.33.59:265][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.03.08-04.33.59:267][468]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.08-04.33.59:280][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012422s)
+[2022.03.08-04.33.59:281][468]LogAIModule: Creating AISystem for world Main_Level_Test
+[2022.03.08-04.33.59:281][468]LogPlayLevel: PIE: World Init took: (0.001346s)
+[2022.03.08-04.33.59:281][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test (0.013968s)
+[2022.03.08-04.33.59:281][468]LogAudio: Display: Audio Device (ID: 25) registered with world 'Main_Level_Test'.
+[2022.03.08-04.33.59:281][468]LogLoad: Game class is 'Main_GM_C'
+[2022.03.08-04.33.59:285][468]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test.Main_Level_Test up for play (max tick rate 0) at 2022.03.08-15.33.59
+[2022.03.08-04.33.59:286][468]LogWorld: Bringing up level for play took: 0.003174
+[2022.03.08-04.33.59:286][468]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.08-04.33.59:287][468]LogLoad: Took 0.070128 seconds to LoadMap(/Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test)
+[2022.03.08-04.34.08:705][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.08-04.34.08:705][959]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level_Test
+[2022.03.08-04.34.08:705][959]LogSlate: Window 'PaperWind Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.08-04.34.08:733][959]LogWorld: UWorld::CleanupWorld for Main_Level_Test, bSessionEnded=true, bCleanupResources=true
+[2022.03.08-04.34.08:735][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.08-04.34.08:748][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.08-04.34.08:765][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.08-04.34.08:787][959]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.08-04.34.08:787][959]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.08-04.34.08:788][959]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.08-04.34.08:795][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.03.08-04.34.08:831][960]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.03.08-04.34.15:552][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.03.08-04.34.16:494][496]LogSlate: Window 'Save Content' being destroyed
+[2022.03.08-04.34.16:546][496]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/BP_Arrow4893D85F44086807D6BB50B5E977BF08.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Content/Michaels_Work/Blueprints/BP_Arrow.uasset'
+[2022.03.08-04.34.16:571][496]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/M_Bin_Glow_Inst159E83D44F6ADEDD58C35CADB892BE6F.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Content/Michaels_Work/Materials/M_Bin_Glow_Inst.uasset'
+[2022.03.08-04.34.16:595][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.03.08-04.34.16:697][496]LogSavePackage: Moving '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Saved/Main_Level_Test72C5F2A64C38BB9725C8AA8C0C4E8701.tmp' to '../../../../../../Users/mmoutafis2/Documents/GitHub/PaperWind/PaperWind/Content/Lachlans_Work/Maps/Main_Level_Test.umap'
+[2022.03.08-04.34.16:703][496]LogFileHelpers: Saving map 'Main_Level_Test' took 0.130
+[2022.03.08-04.34.16:715][496]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.08-04.34.16:715][496]LogContentValidation: Display: Validating Blueprint /Game/Michaels_Work/Blueprints/BP_Arrow.BP_Arrow
+[2022.03.08-04.34.16:716][496]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Michaels_Work/Materials/M_Bin_Glow_Inst.M_Bin_Glow_Inst
+[2022.03.08-04.34.16:716][496]LogContentValidation: Display: Validating World /Game/Lachlans_Work/Maps/Main_Level_Test.Main_Level_Test
