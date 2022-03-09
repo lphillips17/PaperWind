@@ -2542,3 +2542,516 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.08-23.58.54:706][341]AssetCheck: New page: Asset Save: multiple assets
 [2022.03.08-23.58.54:706][341]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Lachlans_Work/Maps/Main_Level_BuiltData.Main_Level_BuiltData
 [2022.03.08-23.58.54:706][341]LogContentValidation: Display: Validating World /Game/Lachlans_Work/Maps/Main_Level.Main_Level
+[2022.03.09-00.00.22:298][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.03.09-00.00.24:016][821]LogSlate: Window 'Save Content' being destroyed
+[2022.03.09-00.00.24:057][821]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/403664__inspectorj__air-extractoF8BE051743AA83011B5EB3A09888E7CC.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Sounds/403664__inspectorj__air-extractor-fan-public-toilets-a.uasset'
+[2022.03.09-00.00.24:088][821]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/403664__inspectorj__air-extracto08EC876A456584E423CBA18404638A38.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Sounds/403664__inspectorj__air-extractor-fan-public-toilets-a_Cue.uasset'
+[2022.03.09-00.00.24:089][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Michaels_Work/Sounds/SA_fans" FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Sounds/SA_fans.uasset" SILENT=true
+[2022.03.09-00.00.24:092][821]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/SA_fans7C75FE5E40D556464C90E2B0F14FDA4A.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Michaels_Work/Sounds/SA_fans.uasset'
+[2022.03.09-00.00.24:741][821]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Lachlans_Work/Maps/Main_Menu_Level.Main_Menu_Level
+[2022.03.09-00.00.24:750][821]Cmd: MAP LOAD FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Lachlans_Work/Maps/Main_Menu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.09-00.00.24:750][821]LightingResults: New page: Lighting Build
+[2022.03.09-00.00.24:750][821]LoadErrors: New page: Loading map: Main_Menu_Level.umap
+[2022.03.09-00.00.24:882][821]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-00.00.24:883][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-00.00.24:883][821]MapCheck: New page: Map Check
+[2022.03.09-00.00.24:883][821]LightingResults: New page: Lighting Build
+[2022.03.09-00.00.24:927][821]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.09-00.00.25:155][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.03.09-00.00.25:159][821]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu_Level'.
+[2022.03.09-00.00.25:317][821]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.09-00.00.25:317][821]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2022.03.09-00.00.25:339][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.03.09-00.00.25:348][821]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.09-00.00.25:348][821]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2022.03.09-00.00.25:348][821]LogFileHelpers: Loading map 'Main_Menu_Level' took 0.599
+[2022.03.09-00.00.25:386][821]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.09-00.00.25:386][821]LogContentValidation: Display: Validating SoundCue /Game/Michaels_Work/Sounds/403664__inspectorj__air-extractor-fan-public-toilets-a_Cue.403664__inspectorj__air-extractor-fan-public-toilets-a_Cue
+[2022.03.09-00.00.25:386][821]LogContentValidation: Display: Validating SoundWave /Game/Michaels_Work/Sounds/403664__inspectorj__air-extractor-fan-public-toilets-a.403664__inspectorj__air-extractor-fan-public-toilets-a
+[2022.03.09-00.00.25:386][821]LogContentValidation: Display: Validating SoundAttenuation /Game/Michaels_Work/Sounds/SA_fans.SA_fans
+[2022.03.09-00.00.29:944][291]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_C (Blower_Fan4)
+[2022.03.09-00.00.31:210][433]Cmd: DELETE
+[2022.03.09-00.00.31:252][433]Cmd: ACTOR DELETE
+[2022.03.09-00.00.32:055][433]LogEditorActor: Deleted Actor: Blower_Fan_C
+[2022.03.09-00.00.32:075][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.03.09-00.00.32:079][433]LogEditorActor: Deleted 1 Actors (0.113 secs)
+[2022.03.09-00.00.37:742][100]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Wind_Right)
+[2022.03.09-00.00.38:783][214]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_C (Blower_Fan14)
+[2022.03.09-00.00.39:006][236]Cmd: DELETE
+[2022.03.09-00.00.39:006][236]Cmd: ACTOR DELETE
+[2022.03.09-00.00.39:010][236]LogEditorActor: Deleted Actor: Blower_Fan_C
+[2022.03.09-00.00.39:028][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.03.09-00.00.39:029][236]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2022.03.09-00.00.41:175][491]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Wind_Left)
+[2022.03.09-00.00.42:857][683]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_C (Blower_Fan3)
+[2022.03.09-00.00.43:051][702]Cmd: DELETE
+[2022.03.09-00.00.43:051][702]Cmd: ACTOR DELETE
+[2022.03.09-00.00.43:055][702]LogEditorActor: Deleted Actor: Blower_Fan_C
+[2022.03.09-00.00.43:072][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.03.09-00.00.43:074][702]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2022.03.09-00.00.44:608][883]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_C (Blower_Fan11)
+[2022.03.09-00.00.45:021][928]Cmd: DELETE
+[2022.03.09-00.00.45:021][928]Cmd: ACTOR DELETE
+[2022.03.09-00.00.45:025][928]LogEditorActor: Deleted Actor: Blower_Fan_C
+[2022.03.09-00.00.45:044][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.03.09-00.00.45:045][928]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2022.03.09-00.00.45:670][  2]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_C (Blower_Fan12)
+[2022.03.09-00.00.45:899][ 26]Cmd: DELETE
+[2022.03.09-00.00.45:899][ 26]Cmd: ACTOR DELETE
+[2022.03.09-00.00.45:904][ 26]LogEditorActor: Deleted Actor: Blower_Fan_C
+[2022.03.09-00.00.45:921][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.03.09-00.00.45:922][ 26]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2022.03.09-00.00.46:970][150]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_C (Blower_Fan13)
+[2022.03.09-00.00.47:219][176]Cmd: DELETE
+[2022.03.09-00.00.47:219][176]Cmd: ACTOR DELETE
+[2022.03.09-00.00.47:223][176]LogEditorActor: Deleted Actor: Blower_Fan_C
+[2022.03.09-00.00.47:241][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.03.09-00.00.47:242][176]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2022.03.09-00.00.48:521][327]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_C (Blower_Fan6)
+[2022.03.09-00.00.50:579][552]Cmd: DELETE
+[2022.03.09-00.00.50:579][552]Cmd: ACTOR DELETE
+[2022.03.09-00.00.50:583][552]LogEditorActor: Deleted Actor: Blower_Fan_C
+[2022.03.09-00.00.50:602][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.03.09-00.00.50:603][552]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2022.03.09-00.00.51:227][625]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_C (Blower_Fan5)
+[2022.03.09-00.00.51:400][642]Cmd: DELETE
+[2022.03.09-00.00.51:400][642]Cmd: ACTOR DELETE
+[2022.03.09-00.00.51:404][642]LogEditorActor: Deleted Actor: Blower_Fan_C
+[2022.03.09-00.00.51:423][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.03.09-00.00.51:424][642]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2022.03.09-00.00.54:819][ 20]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_C (Blower_Fan10)
+[2022.03.09-00.00.55:639][ 96]Cmd: DELETE
+[2022.03.09-00.00.55:639][ 96]Cmd: ACTOR DELETE
+[2022.03.09-00.00.55:643][ 96]LogEditorActor: Deleted Actor: Blower_Fan_C
+[2022.03.09-00.00.55:660][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.03.09-00.00.55:662][ 96]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2022.03.09-00.00.56:671][213]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_C (Blower_Fan9)
+[2022.03.09-00.00.56:845][228]Cmd: DELETE
+[2022.03.09-00.00.56:845][228]Cmd: ACTOR DELETE
+[2022.03.09-00.00.56:850][228]LogEditorActor: Deleted Actor: Blower_Fan_C
+[2022.03.09-00.00.56:868][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.03.09-00.00.56:869][228]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2022.03.09-00.01.04:803][ 83]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_C (Blower_Fan7)
+[2022.03.09-00.01.06:730][306]Cmd: DELETE
+[2022.03.09-00.01.06:730][306]Cmd: ACTOR DELETE
+[2022.03.09-00.01.06:734][306]LogEditorActor: Deleted Actor: Blower_Fan_C
+[2022.03.09-00.01.06:752][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.03.09-00.01.06:754][306]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2022.03.09-00.01.08:325][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof)
+[2022.03.09-00.01.08:802][542]LogEditorViewport: Clicking on Actor (LMB): Blower_Fan_C (Blower_Fan8)
+[2022.03.09-00.01.09:118][575]Cmd: DELETE
+[2022.03.09-00.01.09:118][575]Cmd: ACTOR DELETE
+[2022.03.09-00.01.09:121][575]LogEditorActor: Deleted Actor: Blower_Fan_C
+[2022.03.09-00.01.09:139][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.03.09-00.01.09:141][575]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2022.03.09-00.01.20:659][925]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_wall_21)
+[2022.03.09-00.01.24:273][179]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.09-00.01.24:317][179]LogFMOD: Default sample rate = 48000
+[2022.03.09-00.01.24:317][179]LogFMOD: System sample rate = 48000
+[2022.03.09-00.01.24:317][179]LogFMOD: Matching system sample rate 48000
+[2022.03.09-00.01.24:336][179]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.09-00.01.24:381][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.09-00.01.24:381][179]PIE: New page: PIE session: Main_Menu_Level (9 Mar 2022, 10:01:24 pm)
+[2022.03.09-00.01.24:381][179]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Menu_Level
+[2022.03.09-00.01.24:392][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011607s)
+[2022.03.09-00.01.24:393][179]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2022.03.09-00.01.24:393][179]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2022.03.09-00.01.24:393][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Menu_Level.Main_Menu_Level to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Menu_Level.Main_Menu_Level (0.012614s)
+[2022.03.09-00.01.24:413][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.03.09-00.01.24:415][179]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.03.09-00.01.24:415][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.09-00.01.24:415][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.09-00.01.24:415][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.09-00.01.24:415][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.09-00.01.24:415][179]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.09-00.01.24:415][179]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.09-00.01.24:415][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.09-00.01.24:415][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.09-00.01.24:416][179]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.09-00.01.24:416][179]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.09-00.01.24:416][179]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.09-00.01.24:416][179]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.09-00.01.24:442][179]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.09-00.01.24:442][179]LogAudioMixer: Display: 1: FrontRight
+[2022.03.09-00.01.24:456][179]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.09-00.01.24:456][179]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.09-00.01.24:456][179]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.09-00.01.24:456][179]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.09-00.01.24:456][179]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.09-00.01.24:456][179]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.09-00.01.24:456][179]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.09-00.01.24:458][179]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.09-00.01.24:458][179]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.09-00.01.24:458][179]LogInit: FAudioDevice initialized.
+[2022.03.09-00.01.24:458][179]LogAudio: Display: Audio Device (ID: 23) registered with world 'Main_Menu_Level'.
+[2022.03.09-00.01.24:474][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.09-00.01.24:475][179]LogLoad: Game class is 'MainMenuGameMode_C'
+[2022.03.09-00.01.24:480][179]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Menu_Level.Main_Menu_Level up for play (max tick rate 0) at 2022.03.09-11.01.24
+[2022.03.09-00.01.24:481][179]LogWorld: Bringing up level for play took: 0.005268
+[2022.03.09-00.01.24:481][179]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.03.09-00.01.24:484][179]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.03.09-00.01.24:484][179]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.03.09-00.01.24:486][179]PIE: Server logged in
+[2022.03.09-00.01.24:488][179]PIE: Play in editor total start time 0.207 seconds.
+[2022.03.09-00.01.24:527][179]LogAudio: Warning: Detected orphaned looping sound '555804__ddmyzik__romantic-lounge-loop_Cue'.
+[2022.03.09-00.01.42:632][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.09-00.01.42:714][854]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Menu_Level
+[2022.03.09-00.01.42:715][854]LogSlate: Window 'PaperWind Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.09-00.01.42:759][854]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-00.01.42:760][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-00.01.42:767][854]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.09-00.01.42:783][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-00.01.42:801][854]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.09-00.01.42:801][854]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.09-00.01.42:802][854]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.09-00.01.42:808][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.03.09-00.01.42:849][855]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.03.09-00.01.49:563][597]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Wind_Right2)
+[2022.03.09-00.01.51:825][848]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Wind_Right2)
+[2022.03.09-00.01.56:757][345]Cmd: DELETE
+[2022.03.09-00.01.56:757][345]Cmd: ACTOR DELETE
+[2022.03.09-00.01.56:761][345]LogEditorActor: Deleted Actor: Emitter
+[2022.03.09-00.01.56:762][345]LogEditorActor: Deleted Actor: Emitter
+[2022.03.09-00.01.56:762][345]LogEditorActor: Deleted Actor: Emitter
+[2022.03.09-00.01.56:763][345]LogEditorActor: Deleted Actor: Emitter
+[2022.03.09-00.01.56:763][345]LogEditorActor: Deleted Actor: Emitter
+[2022.03.09-00.01.56:764][345]LogEditorActor: Deleted Actor: Emitter
+[2022.03.09-00.01.56:764][345]LogEditorActor: Deleted Actor: Emitter
+[2022.03.09-00.01.56:764][345]LogEditorActor: Deleted Actor: Emitter
+[2022.03.09-00.01.56:783][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.03.09-00.01.56:785][345]LogEditorActor: Deleted 8 Actors (0.028 secs)
+[2022.03.09-00.02.04:185][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fan_7)
+[2022.03.09-00.02.36:115][512]Cmd: TRANSACTION UNDO
+[2022.03.09-00.02.36:290][512]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.09-00.03.28:621][719]Cmd: DELETE
+[2022.03.09-00.03.28:621][719]Cmd: ACTOR DELETE
+[2022.03.09-00.03.28:633][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:634][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:634][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:634][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:635][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:635][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:635][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:635][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:636][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:636][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:636][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:637][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:637][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:637][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:637][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:638][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:638][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:638][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:639][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:639][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:639][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:639][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:640][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:640][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:640][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:641][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:641][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:641][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:641][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:642][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:642][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:642][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:643][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:643][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:643][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:644][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:644][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:644][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:644][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:645][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:645][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:645][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:646][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:646][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:646][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:646][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:647][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:647][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:647][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:648][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:648][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:648][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:648][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:649][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:649][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:649][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:650][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:650][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:650][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:651][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:651][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:651][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:652][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:652][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:652][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:653][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:653][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:653][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:654][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:654][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:654][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:654][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:655][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:655][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:655][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:656][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:656][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:656][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:656][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:657][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.28:673][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.03.09-00.03.28:676][719]LogEditorActor: Deleted 80 Actors (0.055 secs)
+[2022.03.09-00.03.30:844][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cupboard_16)
+[2022.03.09-00.03.31:602][ 27]Cmd: DELETE
+[2022.03.09-00.03.31:603][ 27]Cmd: ACTOR DELETE
+[2022.03.09-00.03.31:605][ 27]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.31:622][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.03.09-00.03.31:624][ 27]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2022.03.09-00.03.32:504][123]LogEditorViewport: Clicking on Actor (LMB): Completion_point_BP_C (Completion_point_BP2)
+[2022.03.09-00.03.32:939][171]Cmd: DELETE
+[2022.03.09-00.03.32:939][171]Cmd: ACTOR DELETE
+[2022.03.09-00.03.32:942][171]LogEditorActor: Deleted Actor: Completion_point_BP_C
+[2022.03.09-00.03.32:959][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.03.09-00.03.32:961][171]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2022.03.09-00.03.35:043][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PaperShredder_01)
+[2022.03.09-00.03.35:689][447]Cmd: DELETE
+[2022.03.09-00.03.35:689][447]Cmd: ACTOR DELETE
+[2022.03.09-00.03.35:692][447]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.35:708][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.03.09-00.03.35:710][447]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2022.03.09-00.03.36:017][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PinBoard_4)
+[2022.03.09-00.03.36:163][495]Cmd: DELETE
+[2022.03.09-00.03.36:163][495]Cmd: ACTOR DELETE
+[2022.03.09-00.03.36:167][495]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.36:184][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.03.09-00.03.36:185][495]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2022.03.09-00.03.36:379][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PinBoard_3)
+[2022.03.09-00.03.36:734][555]Cmd: DELETE
+[2022.03.09-00.03.36:734][555]Cmd: ACTOR DELETE
+[2022.03.09-00.03.36:737][555]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.36:754][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.03.09-00.03.36:755][555]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2022.03.09-00.03.37:162][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Box_5)
+[2022.03.09-00.03.37:491][636]Cmd: DELETE
+[2022.03.09-00.03.37:491][636]Cmd: ACTOR DELETE
+[2022.03.09-00.03.37:494][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.37:510][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.03.09-00.03.37:511][636]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2022.03.09-00.03.37:731][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Box_04)
+[2022.03.09-00.03.37:918][680]Cmd: DELETE
+[2022.03.09-00.03.37:918][680]Cmd: ACTOR DELETE
+[2022.03.09-00.03.37:920][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.37:938][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.03.09-00.03.37:939][680]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2022.03.09-00.03.42:538][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TyreRacking_01)
+[2022.03.09-00.03.43:274][267]Cmd: DELETE
+[2022.03.09-00.03.43:274][267]Cmd: ACTOR DELETE
+[2022.03.09-00.03.43:276][267]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.43:293][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.03.09-00.03.43:294][267]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2022.03.09-00.03.48:202][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_kitchenBar_6)
+[2022.03.09-00.03.50:514][ 68]Cmd: DELETE
+[2022.03.09-00.03.50:514][ 68]Cmd: ACTOR DELETE
+[2022.03.09-00.03.50:517][ 68]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.50:518][ 68]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.50:518][ 68]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.50:518][ 68]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.09-00.03.50:535][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.03.09-00.03.50:537][ 68]LogEditorActor: Deleted 4 Actors (0.023 secs)
+[2022.03.09-00.03.54:237][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_2)
+[2022.03.09-00.03.57:240][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_window_16)
+[2022.03.09-00.03.57:926][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_2)
+[2022.03.09-00.04.02:159][359]LogEditorViewport: Clicking on Actor (LMB): Floor_is_lava_BP_C (Floor_is_lava_BP)
+[2022.03.09-00.04.07:499][948]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.09-00.04.07:547][948]LogFMOD: Default sample rate = 48000
+[2022.03.09-00.04.07:547][948]LogFMOD: System sample rate = 48000
+[2022.03.09-00.04.07:547][948]LogFMOD: Matching system sample rate 48000
+[2022.03.09-00.04.07:566][948]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.09-00.04.07:611][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.09-00.04.07:611][948]PIE: New page: PIE session: Main_Menu_Level (9 Mar 2022, 10:04:07 pm)
+[2022.03.09-00.04.07:611][948]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Menu_Level
+[2022.03.09-00.04.07:617][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006542s)
+[2022.03.09-00.04.07:618][948]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2022.03.09-00.04.07:618][948]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2022.03.09-00.04.07:618][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Menu_Level.Main_Menu_Level to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Menu_Level.Main_Menu_Level (0.007616s)
+[2022.03.09-00.04.07:637][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.03.09-00.04.07:639][948]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.03.09-00.04.07:639][948]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.09-00.04.07:639][948]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.09-00.04.07:639][948]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.09-00.04.07:639][948]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.09-00.04.07:639][948]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.09-00.04.07:639][948]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.09-00.04.07:639][948]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.09-00.04.07:639][948]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.09-00.04.07:639][948]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.09-00.04.07:639][948]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.09-00.04.07:639][948]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.09-00.04.07:639][948]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.09-00.04.07:646][948]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.09-00.04.07:646][948]LogAudioMixer: Display: 1: FrontRight
+[2022.03.09-00.04.07:659][948]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.09-00.04.07:659][948]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.09-00.04.07:659][948]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.09-00.04.07:659][948]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.09-00.04.07:659][948]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.09-00.04.07:660][948]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.09-00.04.07:660][948]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.09-00.04.07:661][948]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.09-00.04.07:661][948]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.09-00.04.07:661][948]LogInit: FAudioDevice initialized.
+[2022.03.09-00.04.07:661][948]LogAudio: Display: Audio Device (ID: 24) registered with world 'Main_Menu_Level'.
+[2022.03.09-00.04.07:680][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.09-00.04.07:680][948]LogLoad: Game class is 'MainMenuGameMode_C'
+[2022.03.09-00.04.07:684][948]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Menu_Level.Main_Menu_Level up for play (max tick rate 0) at 2022.03.09-11.04.07
+[2022.03.09-00.04.07:684][948]LogWorld: Bringing up level for play took: 0.003177
+[2022.03.09-00.04.07:684][948]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.03.09-00.04.07:688][948]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.03.09-00.04.07:688][948]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.03.09-00.04.07:690][948]PIE: Server logged in
+[2022.03.09-00.04.07:692][948]PIE: Play in editor total start time 0.186 seconds.
+[2022.03.09-00.04.07:723][948]LogAudio: Warning: Detected orphaned looping sound '555804__ddmyzik__romantic-lounge-loop_Cue'.
+[2022.03.09-00.04.23:366][391]LogNet: Browse: /Game/Lachlans_Work/Maps/Main_Level
+[2022.03.09-00.04.23:366][391]LogLoad: LoadMap: /Game/Lachlans_Work/Maps/Main_Level
+[2022.03.09-00.04.23:366][391]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Menu_Level
+[2022.03.09-00.04.23:407][391]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-00.04.23:407][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-00.04.23:456][391]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.09-00.04.23:459][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.03.09-00.04.23:492][391]LogAudio: Display: Audio Device (ID: 24) registered with world 'Main_Level'.
+[2022.03.09-00.04.23:492][391]LogAIModule: Creating AISystem for world Main_Level
+[2022.03.09-00.04.23:493][391]LogLoad: Game class is 'Main_GM_C'
+[2022.03.09-00.04.23:503][391]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 0) at 2022.03.09-11.04.23
+[2022.03.09-00.04.23:503][391]LogWorld: Bringing up level for play took: 0.009581
+[2022.03.09-00.04.23:503][391]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.09-00.04.23:504][391]LogLoad: Took 0.138102 seconds to LoadMap(/Game/Lachlans_Work/Maps/Main_Level)
+[2022.03.09-00.04.27:034][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.09-00.04.27:034][713]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level
+[2022.03.09-00.04.27:035][713]LogSlate: Window 'PaperWind Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.09-00.04.27:055][713]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-00.04.27:056][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-00.04.27:067][713]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.09-00.04.27:077][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-00.04.27:098][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.09-00.04.27:099][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.09-00.04.27:105][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.03.09-00.04.27:135][714]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.03.09-00.04.31:373][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.03.09-00.04.32:193][178]LogSlate: Window 'Save Content' being destroyed
+[2022.03.09-00.04.32:255][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.03.09-00.04.32:322][178]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Menu_Level2BF3E60E4694680669ED01A592F0F4DE.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Lachlans_Work/Maps/Main_Menu_Level.umap'
+[2022.03.09-00.04.32:336][178]LogFileHelpers: Saving map 'Main_Menu_Level' took 0.098
+[2022.03.09-00.04.32:358][178]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2022.03.09-00.04.32:358][178]LogContentValidation: Display: Validating World /Game/Lachlans_Work/Maps/Main_Menu_Level.Main_Menu_Level
+[2022.03.09-00.04.34:137][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.03.09-00.04.34:179][364]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Lachlans_Work/Maps/Main_Level.Main_Level
+[2022.03.09-00.04.34:179][364]Cmd: MAP LOAD FILE="../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Lachlans_Work/Maps/Main_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.09-00.04.34:179][364]LightingResults: New page: Lighting Build
+[2022.03.09-00.04.34:179][364]LoadErrors: New page: Loading map: Main_Level.umap
+[2022.03.09-00.04.34:182][364]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-00.04.34:182][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-00.04.34:182][364]MapCheck: New page: Map Check
+[2022.03.09-00.04.34:182][364]LightingResults: New page: Lighting Build
+[2022.03.09-00.04.34:200][364]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.09-00.04.34:203][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.03.09-00.04.34:204][364]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Level'.
+[2022.03.09-00.04.34:289][364]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.09-00.04.34:289][364]LogAIModule: Creating AISystem for world Main_Level
+[2022.03.09-00.04.34:310][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.03.09-00.04.34:320][364]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.09-00.04.34:320][364]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2022.03.09-00.04.34:320][364]LogFileHelpers: Loading map 'Main_Level' took 0.140
+[2022.03.09-00.04.36:101][565]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_20)
+[2022.03.09-00.04.36:668][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_20)
+[2022.03.09-00.04.37:202][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_wall_20)
+[2022.03.09-00.04.37:666][741]LogEditorViewport: Clicking on Actor (LMB): Paper_Ball_Set_Force_with_Arrow_C (Paper_Ball_Set_Force_with_Arrow)
+[2022.03.09-00.04.55:831][543]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.09-00.04.55:888][543]LogFMOD: Default sample rate = 48000
+[2022.03.09-00.04.55:888][543]LogFMOD: System sample rate = 48000
+[2022.03.09-00.04.55:888][543]LogFMOD: Matching system sample rate 48000
+[2022.03.09-00.04.55:906][543]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.03.09-00.04.55:950][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.09-00.04.55:950][543]PIE: New page: PIE session: Main_Level (9 Mar 2022, 10:04:55 pm)
+[2022.03.09-00.04.55:950][543]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level
+[2022.03.09-00.04.55:962][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012380s)
+[2022.03.09-00.04.55:963][543]LogAIModule: Creating AISystem for world Main_Level
+[2022.03.09-00.04.55:963][543]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2022.03.09-00.04.55:963][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level.Main_Level to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level.Main_Level (0.013433s)
+[2022.03.09-00.04.55:986][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.03.09-00.04.55:988][543]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.03.09-00.04.55:988][543]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.09-00.04.55:988][543]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.09-00.04.55:988][543]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.09-00.04.55:988][543]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.09-00.04.55:988][543]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.09-00.04.55:988][543]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.09-00.04.55:988][543]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.09-00.04.55:988][543]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.09-00.04.55:989][543]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.09-00.04.55:989][543]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.09-00.04.55:989][543]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.09-00.04.55:989][543]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.09-00.04.55:996][543]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.09-00.04.55:996][543]LogAudioMixer: Display: 1: FrontRight
+[2022.03.09-00.04.56:009][543]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.09-00.04.56:009][543]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.09-00.04.56:009][543]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.09-00.04.56:009][543]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.09-00.04.56:009][543]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.09-00.04.56:009][543]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.09-00.04.56:009][543]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.09-00.04.56:011][543]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.09-00.04.56:011][543]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.09-00.04.56:011][543]LogInit: FAudioDevice initialized.
+[2022.03.09-00.04.56:011][543]LogAudio: Display: Audio Device (ID: 25) registered with world 'Main_Level'.
+[2022.03.09-00.04.56:031][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.09-00.04.56:031][543]LogLoad: Game class is 'Main_GM_C'
+[2022.03.09-00.04.56:037][543]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 0) at 2022.03.09-11.04.56
+[2022.03.09-00.04.56:037][543]LogWorld: Bringing up level for play took: 0.005543
+[2022.03.09-00.04.56:037][543]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.03.09-00.04.56:042][543]PIE: Server logged in
+[2022.03.09-00.04.56:043][543]PIE: Play in editor total start time 0.204 seconds.
+[2022.03.09-00.05.19:002][631]LogNet: Browse: /Game/Lachlans_Work/Maps/Main_Level
+[2022.03.09-00.05.19:002][631]LogLoad: LoadMap: /Game/Lachlans_Work/Maps/Main_Level
+[2022.03.09-00.05.19:002][631]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level
+[2022.03.09-00.05.19:002][631]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-00.05.19:003][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-00.05.19:046][631]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.09-00.05.19:050][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.03.09-00.05.19:052][631]LogPlayLevel: Creating play world package: /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level
+[2022.03.09-00.05.19:064][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012053s)
+[2022.03.09-00.05.19:065][631]LogAIModule: Creating AISystem for world Main_Level
+[2022.03.09-00.05.19:065][631]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2022.03.09-00.05.19:065][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lachlans_Work/Maps/Main_Level.Main_Level to /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level.Main_Level (0.013137s)
+[2022.03.09-00.05.19:065][631]LogAudio: Display: Audio Device (ID: 25) registered with world 'Main_Level'.
+[2022.03.09-00.05.19:065][631]LogLoad: Game class is 'Main_GM_C'
+[2022.03.09-00.05.19:069][631]LogWorld: Bringing World /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 0) at 2022.03.09-11.05.19
+[2022.03.09-00.05.19:069][631]LogWorld: Bringing up level for play took: 0.003050
+[2022.03.09-00.05.19:070][631]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.09-00.05.19:071][631]LogLoad: Took 0.068934 seconds to LoadMap(/Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level)
+[2022.03.09-00.05.19:874][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.09-00.05.19:874][692]LogWorld: BeginTearingDown for /Game/Lachlans_Work/Maps/UEDPIE_0_Main_Level
+[2022.03.09-00.05.19:874][692]LogSlate: Window 'PaperWind Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.09-00.05.19:892][692]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-00.05.19:893][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-00.05.19:901][692]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.09-00.05.19:912][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-00.05.19:929][692]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.09-00.05.19:929][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.09-00.05.19:930][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.09-00.05.19:935][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.03.09-00.05.19:966][693]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.03.09-00.05.40:467][634]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Michaels_Work/Sounds/555804__ddmyzik__romantic-lounge-loop_Cue.555804__ddmyzik__romantic-lounge-loop_Cue
+[2022.03.09-00.05.48:557][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.03.09-00.05.49:674][465]LogSlate: Window 'Save Content' being destroyed
+[2022.03.09-00.05.49:727][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.03.09-00.05.49:804][465]LogSavePackage: Moving '../../../../../Program Files (x86)/PaperWind/PaperWind/Saved/Main_Level37EA5D3142C32E0279A6929890473263.tmp' to '../../../../../Program Files (x86)/PaperWind/PaperWind/Content/Lachlans_Work/Maps/Main_Level.umap'
+[2022.03.09-00.05.49:817][465]LogFileHelpers: Saving map 'Main_Level' took 0.107
+[2022.03.09-00.05.49:835][465]AssetCheck: New page: Asset Save: Main_Level
+[2022.03.09-00.05.49:835][465]LogContentValidation: Display: Validating World /Game/Lachlans_Work/Maps/Main_Level.Main_Level
